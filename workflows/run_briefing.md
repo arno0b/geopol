@@ -52,4 +52,11 @@
 
 ## Routine notes
 
-(Filled in after verifying routine capabilities on the Pro plan.)
+Verified 2026-11-03 against https://code.claude.com/docs/en/routines.md (research preview, so this may change):
+
+- **Pro supports routines.** Runs use normal subscription usage (no API billing). Without usage credits, a run over the limit is rejected until the window resets. That's a missed slot, not a cost.
+- **Schedule:** custom cron accepts a `CRON_TZ=` prefix. Use `CRON_TZ=Australia/Sydney 37 9,23 * * *` (09:37 and 23:37 Sydney, DST handled; off the hour because on-the-hour runs can start late). The validator and `slot.py` map 23:37 to the next day's `0000` run.
+- **Push:** by default a run pushes to a `claude/*` branch. This workflow says to push to `main`, which the platform allows unless branch protection blocks it.
+- **Network:** the default "Trusted" environment blocks news sites, Yahoo Finance and article pages (403 `host_not_allowed`). GitHub is allowed, so reading the Actions-fetched inbox works. For `og_image.py`, web search, and the fallback fetch in step 1, the routine's environment must be set to **Full** network access (claude.ai/code/routines → task → Edit → Advanced → Cloud environment → Network access).
+- **Manual test:** "Run now" on the task page, or `/schedule run`.
+- **GitHub disconnected:** runs are skipped for up to 72 hours, then the task turns off. Reconnect at claude.ai.
