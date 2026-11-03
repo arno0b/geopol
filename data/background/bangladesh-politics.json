@@ -1,0 +1,99 @@
+{
+  "slug": "bangladesh-politics",
+  "versions": [
+    {
+      "date": "2026-11-03",
+      "how_we_got_here": "For about 30 years Bangladesh swung between two women and their parties: **Sheikh Hasina's Awami League** and **Khaleda Zia's BNP**. Hasina won in 2008 and then held power for 15 years. Elections got steadily less free: the BNP boycotted in 2014 and 2024, critics were jailed, and growth figures were used to justify a one-party state.\n\nIn July 2024 a student protest against job quotas turned into a national uprising. The crackdown killed an estimated 1,400 people. On **5 August 2024** Hasina fled by helicopter to India. Nobel laureate **Muhammad Yunus** led an interim government that drew up reforms (the \"July Charter\"), banned the Awami League's activities, and put Hasina on trial. In **November 2025** a tribunal convicted her in absentia of crimes against humanity and sentenced her to death. Khaleda Zia died, ending the \"two Begums\" era.\n\nOn **12 February 2026** the country voted. The BNP, now led by Khaleda's son **Tarique Rahman** (who returned from 17 years in London), won a two-thirds majority. Jamaat-e-Islami came second, its best result ever, and became the main opposition. The student-born NCP won only 6 seats. In a referendum held the same day, 60% backed the July Charter.",
+      "players": [
+        {
+          "name": "Tarique Rahman (BNP, Prime Minister)",
+          "wants": "To prove the BNP can govern cleanly after its corrupt 2001–06 term, revive the economy, and get Hasina back from India."
+        },
+        {
+          "name": "Jamaat-e-Islami (main opposition)",
+          "wants": "To build on its record result, push the July Charter reforms fast, and become the real alternative to the BNP."
+        },
+        {
+          "name": "National Citizen Party (NCP, Nahid Islam)",
+          "wants": "To keep the spirit of the 2024 uprising alive. It is small in parliament but loud on the street."
+        },
+        {
+          "name": "Awami League and Sheikh Hasina (in India)",
+          "wants": "To survive as a political force. It is banned at home, and the government says it stirs unrest from abroad."
+        },
+        {
+          "name": "India",
+          "wants": "A friendly Dhaka, border security, and transit routes. It refuses to extradite Hasina, which has stalled the reset."
+        },
+        {
+          "name": "Garment owners and workers",
+          "wants": "Owners want order and low costs; workers want a big wage rise (some demand Tk 30,000 a month). Their fight is now the government's biggest street test."
+        }
+      ],
+      "stakes": "Bangladesh has 175 million people and is the world's #2 clothing exporter after China. Garments are over 80% of exports, so **street stability is the economy**. A credible transition could pull back foreign investors who left during the turmoil. A slide back into one-party rule or street violence would hurt the taka and remittances, and push buyers toward Vietnam and India.\n\nFor the region: a cooler Dhaka–Delhi relationship opens room for **China and Pakistan**, and the Hasina dispute is now the main block on that reset. For Australia, Bangladesh is a fast-growing market (education, wheat, LNG) and a big source of students.",
+      "current_state": "As of early November 2026, nine months into BNP rule:\n\n- **Garment wage protests** are the biggest test. In the first days of November, clashes in Mirpur, Ashulia and Gazipur disrupted 529 factories. Police used tear gas, a police vehicle was burned, and owners threatened to shut factories. Police arrested 33 people they say are Awami League activists posing as workers. Critics say the government is using that claim to suppress a real wage dispute.\n- **Hasina:** prosecutors are moving to seize half of her assets. The PM has said he will not visit India until she is extradited, so the India reset has been frozen since August. Anti-India slogans are back at protests.\n- **Reforms:** parliament is restructuring under the July Charter, but parties still fight over how to form the new upper house.\n- **Economy:** private investment is weak and some foreign firms have left. This is covered in the Bangladesh economy explainer.\n- **Next vote:** local government elections start in phases from **21 January 2027**, the first real test of BNP popularity.",
+      "watch_next": "- **Garment wage deal:** a settlement calms things; a long shutdown hits exports and the BNP's image.\n- **How the government treats protest:** labelling unrest as \"Awami League sabotage\" is the old Hasina playbook. More of it would be a warning sign.\n- **India:** any movement on Hasina (or a quiet deal to curb her political activity) would unlock Tarique Rahman's first Delhi visit.\n- **Jamaat vs BNP** over reform sequencing and the upper house.\n- **Local elections from 21 January 2027:** are they clean, and does the BNP still dominate?",
+      "timeline": [
+        {
+          "date": "2009-01-06",
+          "event": "Sheikh Hasina becomes PM, beginning 15 years of Awami League rule."
+        },
+        {
+          "date": "2024-07-16",
+          "event": "Quota protests turn deadly; the uprising spreads nationwide."
+        },
+        {
+          "date": "2024-08-05",
+          "event": "Hasina flees to India; Muhammad Yunus leads an interim government days later."
+        },
+        {
+          "date": "2025-11-17",
+          "event": "Tribunal convicts Hasina in absentia of crimes against humanity; death sentence."
+        },
+        {
+          "date": "2026-02-12",
+          "event": "Election: BNP wins a two-thirds majority, Jamaat second; July Charter referendum passes with 60%."
+        },
+        {
+          "date": "2026-02-17",
+          "event": "Tarique Rahman sworn in as Prime Minister."
+        },
+        {
+          "date": "2026-08-16",
+          "event": "Dhaka says the PM won't visit India until Hasina is extradited; the reset stalls."
+        },
+        {
+          "date": "2026-11-03",
+          "event": "Garment wage protests disrupt 529 factories; clashes in Mirpur, Ashulia and Gazipur."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera: Bangladesh election results 2026, who won, who lost",
+          "url": "https://www.aljazeera.com/news/2026/2/13/bangladesh-election-results-2026-who-won-who-lost-whats-next"
+        },
+        {
+          "name": "Al Jazeera: Bangladesh-India reset stalls over Hasina",
+          "url": "https://aljazeera.com/news/2026/8/25/hasina-spat-stalls-bangladesh-india-reset-what-would-break-the-deadlock"
+        },
+        {
+          "name": "Malay Mail: Bangladesh parliament reconvenes as new PM pledges democratic reset",
+          "url": "https://www.malaymail.com/news/world/2026/03/12/bangladesh-parliament-reconvenes-after-uprising-as-new-pm-pledges-democratic-reset/212379"
+        },
+        {
+          "name": "Asia Pacific Foundation of Canada: BNP landslide ends 'two Begums' era",
+          "url": "https://www.asiapacific.ca/publication/bangladeshs-2026-election-bnp-landslide-ends-two-begums-era"
+        },
+        {
+          "name": "Prothom Alo: Prosecutors to seek seizure of half of Hasina's assets",
+          "url": "https://en.prothomalo.com/bangladesh/9hgq8eqp30"
+        },
+        {
+          "name": "The Daily Star: BGMEA reports disruptions at 529 garment factories",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdDNYZlIyZWlXV3h6NWJwSzA4NjRkS2N2VnVmclZibkFBVGVQRUxYVTNrNTRGQk1EclAzTExTenEwLWZzOU0tTmNsNjR2aFVGOU10UFJoYjNsTkZtTmNmeHdXRVZUT1N1al90WkZNNkx5QUNiR3JPekk3anhUdlF4bHlLR0g0aVltMlRyRTctbzdlSjB0ZDVFek41dlVXVVo0NmJqbGg2endReXhYN05XTkFKOA?oc=5"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}
