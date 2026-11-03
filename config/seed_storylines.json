@@ -1,0 +1,16 @@
+[
+  {"slug": "us-china", "name": "US–China rivalry"},
+  {"slug": "taiwan", "name": "Taiwan"},
+  {"slug": "russia-ukraine", "name": "Russia–Ukraine & NATO"},
+  {"slug": "middle-east", "name": "Middle East"},
+  {"slug": "oil-energy", "name": "Oil & energy"},
+  {"slug": "fed-rates-dollar", "name": "Fed, rates & the dollar"},
+  {"slug": "india", "name": "India"},
+  {"slug": "southeast-asia", "name": "Southeast Asia"},
+  {"slug": "africa-resources", "name": "Africa's resource race"},
+  {"slug": "ai-tech-power", "name": "AI & tech power"},
+  {"slug": "critical-minerals", "name": "Critical minerals"},
+  {"slug": "bangladesh-politics", "name": "Bangladesh politics"},
+  {"slug": "bangladesh-economy", "name": "Bangladesh economy"},
+  {"slug": "climate-food-water", "name": "Climate, food & water"}
+]
