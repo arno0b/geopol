@@ -1,0 +1,51 @@
+{
+  "slug": "us-midterms",
+  "versions": [
+    {
+      "date": "2026-11-03",
+      "how_we_got_here": "Every two years all 435 House seats and about a third of the Senate are up for election. The party of the sitting president usually loses ground in the first midterm. Trump's party won both chambers in 2024, so this vote is widely seen as a referendum on his second term.\n\nThe run-up included fights over election rules and counting. Trump asked the Supreme Court to set aside about 20,000 disputed California ballots, and the court refused.",
+      "players": [
+        {
+          "name": "Trump and Republicans",
+          "wants": "Keep both chambers so the agenda (tariffs, tax, foreign policy) stays unchecked."
+        },
+        {
+          "name": "Democrats",
+          "wants": "Win at least the House to gain oversight powers and block legislation."
+        },
+        {
+          "name": "Markets",
+          "wants": "Clarity on tariffs, spending and tax policy; gridlock is usually seen as calm."
+        }
+      ],
+      "stakes": "Control of Congress decides whether Trump faces investigations, budget fights and limits on funding. Markets have historically tended to rise after midterms once uncertainty clears, but that is a tendency, not a rule. Foreign policy (Iran, Ukraine, trade) sits mostly with the president either way.",
+      "current_state": "Polls opened on 3 November (US time). Control of the House and Senate, both held by Republicans, is at stake. Results may take days in close races, and counting in California continues.",
+      "watch_next": "Which chamber flips, how fast races are called, any challenges to results, and whether Trump shifts on Iran or tariffs after the vote.",
+      "timeline": [
+        {
+          "date": "2024-11-05",
+          "event": "Trump wins the presidency; Republicans take Congress."
+        },
+        {
+          "date": "2025-01-20",
+          "event": "Trump's second term begins."
+        },
+        {
+          "date": "2026-11-03",
+          "event": "Midterm elections held; Supreme Court refuses to block counting of California ballots."
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}
