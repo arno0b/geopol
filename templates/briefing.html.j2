@@ -1,0 +1,39 @@
+{% extends "base.html.j2" %}
+{% from "_macros.html.j2" import item_panel, storyline_panel %}
+{% block title %}{{ run_label(b.run_id) }} · Geopol{% endblock %}
+{% block content %}
+<div class="run-bar">
+  <span class="run-label">YOUR BRIEFING · {{ run_label(b.run_id) | upper }}{% if b.kind == "short" %} · SHORT UPDATE{% endif %}</span>
+  <span class="run-nav">
+    {% if prev %}<a href="{{ bprefix }}{{ prev }}.html">◀ {{ run_label(prev) }}</a>{% endif %}
+    {% if next %}<a href="{{ bprefix }}{{ next }}.html">{{ run_label(next) }} ▶</a>{% endif %}
+  </span>
+</div>
+<div class="layout">
+  <aside class="storylines">
+    <div class="col-label">STORYLINES · 14 DAYS</div>
+    {% for m in sidebar %}{{ storyline_panel(m, base) }}{% endfor %}
+  </aside>
+  <section class="feed">
+    {% if b.story_of_day %}{{ item_panel(b.story_of_day, base, b.run_id, bprefix, lead=True) }}{% endif %}
+    <div class="cards">
+      {% for card in b.cards %}{{ item_panel(card, base, b.run_id, bprefix) }}{% endfor %}
+      {% if b.watch %}
+      <article class="item card watch">
+        <div class="label">🔭 WATCH THIS WEEK</div>
+        <h2 class="headline">{{ b.watch.title }}</h2>
+        <p class="story">{{ b.watch.text }}</p>
+      </article>
+      {% endif %}
+    </div>
+    {% if b.takes_review %}
+    <article class="item reviews">
+      <div class="label">CHECKING OLD CALLS</div>
+      {% for r in b.takes_review %}
+      <div class="box verdict-{{ r.verdict }}"><span class="box-label">{{ r.verdict | upper }} · TAKE {{ r.take_id }}</span>{{ r.text }}</div>
+      {% endfor %}
+    </article>
+    {% endif %}
+  </section>
+</div>
+{% endblock %}

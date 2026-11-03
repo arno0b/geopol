@@ -1,0 +1,15 @@
+{% extends "base.html.j2" %}
+{% block title %}Background · Geopol{% endblock %}
+{% block content %}
+<h1 class="page-title">Background</h1>
+<p class="muted">Catch up on how each storyline got here. About five minutes each.</p>
+{% if not listing %}<p class="muted">Explainers are on their way.</p>{% endif %}
+<div class="bg-grid">
+  {% for e in listing %}
+  <a class="panel bg-tile" href="{{ e.slug }}.html">
+    <span class="sp-name">{{ e.name }}</span>
+    <span class="muted small">Updated {{ e.updated }}</span>
+  </a>
+  {% endfor %}
+</div>
+{% endblock %}

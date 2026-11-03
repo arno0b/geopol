@@ -1,0 +1,45 @@
+{% macro storyline_panel(m, base) %}
+<a class="story-panel trend-{{ m.trend }}" href="{{ base }}s/{{ m.slug }}.html">
+  <span class="sp-name">{{ m.name }}</span>
+  <span class="sp-spark" aria-label="14-day heat">{{ m.spark }}</span>
+  <span class="sp-trend">{{ trend_labels[m.trend] }}</span>
+</a>
+{% if m.has_background %}<a class="sp-bg" href="{{ base }}background/{{ m.slug }}.html">Background →</a>{% endif %}
+{% endmacro %}
+
+{% macro item_panel(item, base, as_of, bprefix, lead=False) %}
+{% set m = story_meta(item.storyline, as_of) %}
+<article class="item {{ 'lead' if lead else 'card' }} trend-{{ m.trend }}">
+  <div class="label">
+    {% if lead %}STORY OF THE DAY · {% endif %}<a href="{{ base }}s/{{ m.slug }}.html">{{ m.name | upper }}</a> · {{ trend_labels[m.trend] | upper }}
+  </div>
+  {% if item.image %}
+  <figure class="photo">
+    <img src="{{ item.image.url }}" alt="" loading="lazy" referrerpolicy="no-referrer">
+    <figcaption>Photo: <a href="{{ item.sources[0].url }}">{{ item.image.credit }}</a></figcaption>
+  </figure>
+  {% endif %}
+  <h2 class="headline">{{ item.headline }}</h2>
+  <p class="story">{{ item.story }}</p>
+  {% if item.last_time %}
+  <div class="box"><span class="box-label">LAST TIME · <a href="{{ bprefix }}{{ item.last_time.run_id }}.html">{{ run_label(item.last_time.run_id) }}</a></span>{{ item.last_time.text }}</div>
+  {% endif %}
+  <div class="box"><span class="box-label">SO WHAT</span>{{ item.so_what }}</div>
+  {% if item.money_angle %}
+  <div class="box money"><span class="box-label">💰 MONEY ANGLE</span>{{ item.money_angle }}</div>
+  {% endif %}
+  {% if item.my_take %}
+  <div class="box take">
+    <span class="box-label">🧭 MY TAKE · {{ item.my_take.confidence | upper }} CONFIDENCE</span>
+    <p>{{ item.my_take.text }}</p>
+    <p class="why"><strong>Why:</strong> {{ item.my_take.reasoning }}</p>
+    <p class="why"><strong>Wrong if:</strong> {{ item.my_take.wrong_if }}</p>
+    <p class="disclaimer">This is Claude's reasoning, not financial advice. The call is yours.</p>
+  </div>
+  {% endif %}
+  <div class="sources">Sources:
+    {% for s in item.sources %}<a href="{{ s.url }}">{{ s.name }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
+    {% if m.has_background %} · <a href="{{ base }}background/{{ m.slug }}.html">Background →</a>{% endif %}
+  </div>
+</article>
+{% endmacro %}

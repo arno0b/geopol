@@ -1,0 +1,16 @@
+{% extends "base.html.j2" %}
+{% block title %}Archive · Geopol{% endblock %}
+{% block content %}
+<h1 class="page-title">Archive</h1>
+{% if not months %}<p class="muted">No briefings yet.</p>{% endif %}
+{% for month, entries in months.items() %}
+<section class="panel">
+  <div class="col-label">{{ month }}</div>
+  <ul class="list">
+    {% for e in entries %}
+    <li><a href="b/{{ e.run_id }}.html"><span class="muted">{{ run_label(e.run_id) }}</span> {{ e.headline }}</a></li>
+    {% endfor %}
+  </ul>
+</section>
+{% endfor %}
+{% endblock %}

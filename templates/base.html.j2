@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<meta name="referrer" content="no-referrer">
+<title>{% block title %}Geopol Briefing{% endblock %}</title>
+<link rel="stylesheet" href="{{ base }}static/style.css">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="{{ base }}index.html">GEOPOL</a>
+  <nav>
+    <a href="{{ base }}index.html">Latest</a>
+    <a href="{{ base }}archive.html">Archive</a>
+    <a href="{{ base }}background/index.html">Background</a>
+  </nav>
+</header>
+<main>
+{% block content %}{% endblock %}
+</main>
+<footer class="foot">Your personal briefing · written by Claude from public news sources · not financial advice</footer>
+</body>
+</html>

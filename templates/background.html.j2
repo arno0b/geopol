@@ -1,0 +1,48 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ name }}: background · Geopol{% endblock %}
+{% block content %}
+<article class="panel background">
+  <div class="col-label">BACKGROUND · <a href="{{ base }}s/{{ slug }}.html">{{ name | upper }}</a></div>
+  <h1 class="page-title">{{ name }}</h1>
+  {% if not is_latest %}
+  <div class="box old">You're reading an older version from {{ v.date }}. <a href="{{ slug }}.html">Read the latest →</a></div>
+  {% endif %}
+  <p class="muted">Updated {{ v.date }}{% if v.change_note %}: {{ v.change_note }}{% endif %}</p>
+
+  <h2>How we got here</h2>
+  <div class="prose">{{ v.how_we_got_here | md }}</div>
+
+  <h2>Key dates</h2>
+  <ol class="timeline">
+    {% for t in v.timeline %}<li><span class="t-date">{{ t.date }}</span> {{ t.event }}</li>{% endfor %}
+  </ol>
+
+  <h2>Who's who and what they want</h2>
+  <ul class="players">
+    {% for p in v.players %}<li><strong>{{ p.name }}</strong>: {{ p.wants }}</li>{% endfor %}
+  </ul>
+
+  <h2>What's at stake</h2>
+  <div class="prose">{{ v.stakes | md }}</div>
+
+  <h2>Where it stands now</h2>
+  <div class="prose">{{ v.current_state | md }}</div>
+
+  <h2>What to watch next</h2>
+  <div class="prose">{{ v.watch_next | md }}</div>
+
+  <div class="sources">Sources:
+    {% for s in v.sources %}<a href="{{ s.url }}">{{ s.name }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
+  </div>
+
+  {% if versions | length > 1 %}
+  <div class="col-label versions-label">ALL VERSIONS</div>
+  <ul class="list">
+    {% for ver in versions %}
+    {% set file = slug ~ ".html" if loop.last else slug ~ "-v" ~ loop.index ~ ".html" %}
+    <li><a href="{{ file }}">{{ ver.date }}{% if ver.change_note %}: {{ ver.change_note }}{% endif %}</a>{% if loop.index == n %} <span class="muted">(this one)</span>{% endif %}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</article>
+{% endblock %}
