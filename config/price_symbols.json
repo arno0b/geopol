@@ -1,0 +1,14 @@
+{
+  "source": "Yahoo Finance chart API (free, no key): https://query1.finance.yahoo.com/v8/finance/chart/<symbol>?range=1d&interval=1d",
+  "symbols": [
+    {"key": "brent", "label": "Brent oil ($/bbl)", "symbol": "BZ=F"},
+    {"key": "wti", "label": "WTI oil ($/bbl)", "symbol": "CL=F"},
+    {"key": "gold", "label": "Gold ($/oz)", "symbol": "GC=F"},
+    {"key": "audusd", "label": "AUD/USD", "symbol": "AUDUSD=X"},
+    {"key": "dxy", "label": "US dollar index", "symbol": "DX-Y.NYB"},
+    {"key": "spx", "label": "S&P 500", "symbol": "^GSPC"},
+    {"key": "asx200", "label": "ASX 200", "symbol": "^AXJO"},
+    {"key": "nikkei", "label": "Nikkei 225", "symbol": "^N225"},
+    {"key": "btc", "label": "Bitcoin ($)", "symbol": "BTC-USD"}
+  ]
+}
