@@ -1,0 +1,9 @@
+.venv/
+.tmp/
+site/
+__pycache__/
+.pytest_cache/
+.env
+.superpowers/
+credentials.json
+token.json
