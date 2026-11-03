@@ -1,0 +1,95 @@
+{
+  "slug": "bangladesh-economy",
+  "versions": [
+    {
+      "date": "2026-11-03",
+      "how_we_got_here": "For two decades Bangladesh was Asia's quiet success story. It grew 6–7% a year on three engines: **garments** (about 85% of exports, second only to China), **remittances** from roughly 10 million workers abroad, and cheap power and labour. It overtook India in GDP per head in 2020 and was set to graduate from the UN's Least Developed Country (LDC) list.\n\nUnder the surface, the banks were being looted. Politically connected groups took huge loans they never repaid, and some banks were effectively captured. When the 2022 oil and dollar shock hit, reserves fell from about $48bn to around $20bn, the taka lost a third of its value, and Dhaka went to the **IMF for a $4.7bn programme** (later enlarged).\n\nThe 2024 uprising added turmoil to that fragility. The interim government cleaned up the central bank, merged or put weak banks under administrators, and stopped defending a fake exchange rate. Reserves recovered, but growth fell sharply and inflation stayed stuck near 9%.",
+      "players": [
+        {
+          "name": "BNP government (PM Tarique Rahman)",
+          "wants": "Growth and jobs fast to keep its huge mandate, without reigniting inflation or upsetting the IMF."
+        },
+        {
+          "name": "Bangladesh Bank",
+          "wants": "To bring inflation down and finish the bank clean-up. It began cutting rates cautiously in July 2026."
+        },
+        {
+          "name": "IMF and World Bank",
+          "wants": "Higher tax collection (Bangladesh's is one of the lowest in the world), a real banking-sector fix, and a flexible taka."
+        },
+        {
+          "name": "Garment owners (BGMEA/BKMEA)",
+          "wants": "Stable power and gas, calm factories, and to keep EU duty-free access as long as possible."
+        },
+        {
+          "name": "Garment workers",
+          "wants": "Pay that keeps up with ~9% inflation; wage growth has been stuck near 8%."
+        },
+        {
+          "name": "Big buyers (H&M, Inditex, Walmart and others)",
+          "wants": "Reliable, compliant suppliers. Unrest or tariffs push orders to Vietnam, India or Cambodia."
+        }
+      ],
+      "stakes": "This is a 175-million-person economy that depends heavily on one industry. If garments stall, jobs, the taka and import capacity all wobble together.\n\n**LDC graduation** matters most in the long run. Leaving the LDC list ends automatic duty-free access to the EU, the biggest market, after a transition. Without a new deal (EU GSP+), tariffs of around 10–12% could hit clothing exports.\n\n**Energy** is the weak point. Bangladesh imports LNG and oil, so any Gulf or oil shock (see the Oil & energy and Middle East storylines) quickly becomes gas shortages, factory shutdowns and higher inflation.\n\n**Money angle:** Bangladesh is a frontier market that few foreigners can easily buy. It matters more as a signal for the garment supply chain, Asian frontier debt and LNG demand.",
+      "current_state": "As of early November 2026:\n\n- **Growth is weak.** GDP grew only 2.2% in Jan–Mar 2026 and industry shrank. The IMF now sees FY26 at about 3.6% and has cut FY27 to about 3.2%, among the slowest in decades.\n- **Inflation is sticky** at about 8.7% (July 2026), and the IMF warns it could rise toward 10–11% in FY27. Bangladesh Bank still trimmed its policy rate to 9.5% on 30 July.\n- **Investment is frozen.** Private credit growth fell to 4.5% in June 2026, the lowest in decades, and several foreign companies have exited.\n- **Reserves are the bright spot** at about $31.6bn in July 2026, up 28% in a year, helped by record remittances through formal channels.\n- **LDC graduation was deferred**: around 29 October 2026 the UN General Assembly moved it from 24 November 2026 to **24 November 2029**, buying three more years of trade preferences.\n- **Garment wage protests** in early November disrupted over 500 factories (see Bangladesh politics), and gas shortages persist.",
+      "watch_next": "- **The garment wage settlement** and whether factories reopen quickly; export numbers for November and December.\n- **Gas and power this winter and next summer**: the government promises 3,000–4,000 MW of new solar before summer.\n- **The IMF programme review** and the budget: does tax collection finally rise?\n- **Bank clean-up:** mergers of weak banks and recovery of looted money, including the push to seize Hasina-era assets.\n- **EU GSP+ talks**, now with three extra years to prepare for LDC graduation.\n- **Oil prices**: a big driver of Bangladesh inflation and the import bill.",
+      "timeline": [
+        {
+          "date": "2021-11-24",
+          "event": "UN approves Bangladesh's LDC graduation, scheduled for 2026."
+        },
+        {
+          "date": "2023-01-30",
+          "event": "IMF approves a $4.7bn loan programme as reserves drain after the 2022 shock."
+        },
+        {
+          "date": "2024-08-05",
+          "event": "Hasina falls; the interim government begins a central-bank and banking clean-up."
+        },
+        {
+          "date": "2026-02-12",
+          "event": "BNP wins the election, promising growth and jobs."
+        },
+        {
+          "date": "2026-07-30",
+          "event": "Bangladesh Bank cuts its policy rate 50bp to 9.5%."
+        },
+        {
+          "date": "2026-10-29",
+          "event": "UN General Assembly defers LDC graduation by three years to 24 November 2029."
+        },
+        {
+          "date": "2026-11-03",
+          "event": "Wage protests disrupt 529 garment factories."
+        }
+      ],
+      "sources": [
+        {
+          "name": "IMF: 2025 Article IV consultation with Bangladesh (Jan 2026)",
+          "url": "https://www.imf.org/en/news/articles/2026/01/30/pr-26029-bangladesh-imf-executive-board-concludes-2025-article-iv-consultation"
+        },
+        {
+          "name": "CPD: Bangladesh Macroeconomic Pulse (Sep 2026)",
+          "url": "https://cpd.org.bd/resources/2026/09/Bangladesh-Macroeconomic-Pulse_August-2026.pdf"
+        },
+        {
+          "name": "The Business Standard: IMF sees growth of 4.7% in FY26, 4.3% in FY27",
+          "url": "https://www.tbsnews.net/economy/bangladeshs-economy-grow-47-fy26-slow-further-43-fy27-imf-1411496"
+        },
+        {
+          "name": "The Financial Express: Bangladesh's LDC graduation deferred by three years",
+          "url": "https://thefinancialexpress.com.bd/economy/bangladeshs-ldc-graduation-deferred-by-three-years"
+        },
+        {
+          "name": "East Asia Forum: Bangladesh must balance stabilisation and reform",
+          "url": "https://eastasiaforum.org/2026/04/18/bangladesh-must-balance-stabilisation-and-reform/"
+        },
+        {
+          "name": "Trader's Union: IMF cuts Bangladesh FY27 growth outlook to 3.2%",
+          "url": "https://tradersunion.com/news/financial-news/show/3779963-bangladesh-growth-outlook-imf-inflation-forecast/"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}
