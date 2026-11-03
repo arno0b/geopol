@@ -1,0 +1,87 @@
+{
+  "slug": "africa-resources",
+  "versions": [
+    {
+      "date": "2026-11-03",
+      "how_we_got_here": "Africa holds much of what the 21st-century economy needs. **DR Congo** mines about 70% of the world's cobalt plus much of its coltan. Guinea has the biggest bauxite reserves, and there is gold across the Sahel, oil in Nigeria and Angola, and gas off Mozambique. It also has the world's youngest and fastest-growing population.\n\nThe resources have often fuelled conflict instead of development. In eastern Congo, the **Rwanda-backed M23** rebels seized the cities of **Goma (January 2025)** and **Bukavu (February 2025)**. Amnesty says the group abuses miners and smuggles gold and coltan to Rwanda. US-brokered deals between Congo and Rwanda produced ceasefires on paper, but M23 still holds the mines. In **Sudan**, a power struggle between the army and the RSF militia became a civil war in April 2023 and has caused the world's largest displacement and hunger crisis. In the Sahel, military juntas (Mali, Burkina Faso, Niger) expelled France, turned to Russia, and seized Western-owned gold mines.\n\nChina became the main buyer and financier of African mining. The US is now competing through minerals-for-security deals.",
+      "players": [
+        {
+          "name": "DR Congo government (Tshisekedi)",
+          "wants": "Its eastern mines back, more value from cobalt (it caps exports to lift prices), and US security help in exchange for mineral access."
+        },
+        {
+          "name": "Rwanda and M23",
+          "wants": "Control and income from eastern Congo's minerals. M23's allies launched a new political front in October."
+        },
+        {
+          "name": "Sudan's army (SAF) and the RSF",
+          "wants": "Outright victory. Each is backed by outside powers (the UAE for the RSF; Egypt and others for the army)."
+        },
+        {
+          "name": "China",
+          "wants": "Secure supply of cobalt, copper, lithium and bauxite. It owns most of Congo's big mines."
+        },
+        {
+          "name": "United States",
+          "wants": "Mineral access to compete with China, alongside peace deals. It is also cutting trade preferences (Rwanda and South Africa are being dropped from duty-free access)."
+        },
+        {
+          "name": "Gulf states and Russia",
+          "wants": "Gold, ports and influence. The UAE is a major buyer of African gold."
+        }
+      ],
+      "stakes": "Cobalt and copper are core battery and grid metals, so Congo's policies directly move battery costs. Sudan's war is a humanitarian catastrophe that spills into Egypt, Chad, South Sudan and the Red Sea, and it is creating tension with Ethiopia.\n\n**Money angle:** Congo's export cap has pushed cobalt prices up from multi-year lows. Gold near $3,900 has made Sahel and Sudanese gold a war-financing engine. Africa's new **Africa Energy Bank** (from Afreximbank and APPO) will fund oil and gas projects Western lenders have dropped. Many ASX miners operate in Africa.",
+      "current_state": "As of early November 2026:\n\n- **Congo:** M23 still holds Goma and Bukavu despite the ceasefire. Ceasefire monitors are deploying. Fighting continues in Masisi and Kalehe. On 12 October, former president Kabila and M23 leaders launched a new political front (FRN) from Goma. Congo caps cobalt exports at 96,600 tonnes a year for 2026–27, against about 230,000 tonnes mined in 2025.\n- **Sudan:** the US has proposed a 90-day humanitarian truce, and the army says it supports US efforts. The IPC warned on 12 October of rising famine risk in Darfur and Kordofan. RSF drone attacks are exposing a growing split between Sudan and Ethiopia.\n- **Trade:** the US is removing Rwanda and South Africa from its duty-free trade programme, a week after sanctioning Rwanda's defence ministry.",
+      "watch_next": "- **Whether US pressure (sanctions on Rwanda) loosens M23's hold on the mines.**\n- **Congo's cobalt quota** and its effect on prices.\n- **A Sudan truce**, and a possible wider Sudan–Ethiopia conflict.\n- **Sahel juntas and Western miners** (gold-mine seizures and nationalisations).",
+      "timeline": [
+        {
+          "date": "2021-11-08",
+          "event": "M23 rebellion resumes in eastern Congo."
+        },
+        {
+          "date": "2023-04-15",
+          "event": "War breaks out in Sudan between the army and the RSF."
+        },
+        {
+          "date": "2025-01-27",
+          "event": "M23 seizes Goma."
+        },
+        {
+          "date": "2025-06-27",
+          "event": "Congo and Rwanda sign a US-brokered peace agreement in Washington."
+        },
+        {
+          "date": "2026-10-12",
+          "event": "Kabila and M23 leaders launch a new political front in Goma; IPC warns of famine risk in Sudan."
+        },
+        {
+          "date": "2026-11-03",
+          "event": "US moves to drop Rwanda and South Africa from duty-free trade access."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Critical Threats: Congo War Security Review, 21 October 2026",
+          "url": "https://www.criticalthreats.org/briefs/congo-war-security-review"
+        },
+        {
+          "name": "Amnesty International: M23 fighters abused miners and trafficked gold and coltan to Rwanda",
+          "url": "https://www.amnesty.org/en/latest/news/2026/09/drc-m23-fighters-abused-miners-and-trafficked-gold-and-coltan-to-rwanda/"
+        },
+        {
+          "name": "Al Jazeera: RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+          "url": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia"
+        },
+        {
+          "name": "BBC: Trump to remove Rwanda and South Africa from US trade deal",
+          "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo"
+        },
+        {
+          "name": "OilPrice: Africa launches its own oil bank",
+          "url": "https://oilprice.com/Energy/Energy-General/Africa-Launches-Its-Own-Oil-Bank-as-Western-Lenders-Retreat.html"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}

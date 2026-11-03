@@ -1,0 +1,79 @@
+{
+  "slug": "southeast-asia",
+  "versions": [
+    {
+      "date": "2026-11-03",
+      "how_we_got_here": "Southeast Asia (Indonesia, Vietnam, Thailand, the Philippines, Malaysia, Singapore and the rest of ASEAN) has 680 million people and is the biggest winner of the US–China split. Factories moved from China to Vietnam, Malaysia and Thailand, and Chinese firms themselves set up there to reach Western markets. Singapore became the region's finance hub and a home for Chinese capital.\n\nThe flashpoint is the **South China Sea**. China claims almost all of it with its \"nine-dash line\" and has built military bases on artificial islands. In 2016 an international tribunal ruled for the Philippines, and China ignored it. Under President **Ferdinand Marcos Jr** (since 2022) the Philippines pushed back: it opened more bases to US forces, deepened ties with Japan and Australia, and publicised Chinese coast-guard water-cannon attacks around Second Thomas Shoal and Scarborough Shoal. The region also got hit hard by the 2026 oil shock. The Philippines declared a **national energy emergency** in March after Hormuz closed.",
+      "players": [
+        {
+          "name": "Philippines (Marcos Jr, ASEAN chair in 2026)",
+          "wants": "To defend its maritime claims with US, Japanese and Australian backing, and to land a South China Sea Code of Conduct."
+        },
+        {
+          "name": "China",
+          "wants": "Control of the South China Sea and to keep ASEAN divided and economically dependent."
+        },
+        {
+          "name": "Vietnam, Malaysia, Indonesia",
+          "wants": "Investment from both sides without picking one. They hedge quietly on their own sea disputes."
+        },
+        {
+          "name": "Singapore",
+          "wants": "Open trade and stability, and to be Asia's safe-haven financial centre."
+        },
+        {
+          "name": "United States, Japan, Australia",
+          "wants": "Free navigation and a Philippines strong enough to resist pressure."
+        }
+      ],
+      "stakes": "About a third of world shipping passes through the South China Sea, including most of Australia's trade with North Asia. A clash between China and the Philippines (a US treaty ally) could pull in the US.\n\n**Money angle:** Southeast Asia is where \"China plus one\" manufacturing money goes: Vietnamese and Malaysian electronics, Indonesian nickel for batteries, and Malaysian and Singapore data centres. It is also very exposed to oil prices and to US tariffs on transshipped Chinese goods.",
+      "current_state": "As of early November 2026:\n\n- **The Philippines chairs ASEAN** and hosts the **49th ASEAN Summit** and the East Asia Summit in Manila this month. Finishing the South China Sea Code of Conduct is a headline goal, but only incremental progress is expected.\n- **The China–Philippines row is escalating diplomatically.** China sent only a low-ranking attaché to the ASEAN defence ministers' meeting in Cebu, its lowest representation since 2010, and accused Manila of \"erecting obstacles\".\n- **Energy:** the region is still feeling the Hormuz shock. Malaysia's PM is holding meetings on rising cyber and geopolitical threats.\n- **Haze:** Indonesia's fires are causing toxic haze in Singapore and Malaysia, which is a political headache.",
+      "watch_next": "- **The ASEAN and East Asia summits in Manila**: any Code of Conduct text, and who attends from China and the US.\n- **Incidents at Scarborough and Second Thomas shoals.**\n- **US tariffs on Southeast Asian goods** that contain Chinese parts.\n- **Data-centre and chip investment** flowing to Malaysia, Vietnam and Singapore.",
+      "timeline": [
+        {
+          "date": "2012-04-08",
+          "event": "Scarborough Shoal standoff begins; China ends up in control of the shoal."
+        },
+        {
+          "date": "2016-07-12",
+          "event": "Hague tribunal rules against China's South China Sea claims; Beijing rejects it."
+        },
+        {
+          "date": "2022-06-30",
+          "event": "Ferdinand Marcos Jr becomes Philippine president and tilts toward the US."
+        },
+        {
+          "date": "2023-02-02",
+          "event": "Philippines grants the US access to four more military bases."
+        },
+        {
+          "date": "2026-10-29",
+          "event": "China accuses Manila of obstructing its attendance at the ASEAN defence meeting."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Rappler: China snub, ASEAN unity at defence meeting",
+          "url": "https://www.rappler.com/philippines/recap-asean-defense-ministers-meeting-cebu-october-2026/"
+        },
+        {
+          "name": "Malay Mail: China says Philippines 'erected obstacles' to ASEAN attendance",
+          "url": "https://www.malaymail.com/news/world/2026/10/29/china-says-philippines-erected-obstacles-to-asean-attendance/241168"
+        },
+        {
+          "name": "Manila Times: PH to take center stage in ASEAN Summit",
+          "url": "https://www.manilatimes.net/2026/10/12/tmt-anniversary/ph-to-take-center-stage-in-asean-summit/2440665"
+        },
+        {
+          "name": "Asialink: Why the South China Sea won't stabilise in 2026",
+          "url": "https://asialink.unimelb.edu.au/diplomacy/insights/between-talks-and-tensions-why-south-china-sea-wont-stabilise-2026/"
+        },
+        {
+          "name": "BBC: Indonesia's toxic haze is giving its neighbours a political headache",
+          "url": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}

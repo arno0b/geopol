@@ -1,0 +1,79 @@
+{
+  "slug": "fed-rates-dollar",
+  "versions": [
+    {
+      "date": "2026-11-03",
+      "how_we_got_here": "The US Federal Reserve sets the price of money for the whole world, because the dollar is used for most trade, debt and reserves. When the Fed raises rates, money flows to the US, the dollar strengthens, and borrowing gets harder everywhere, especially for emerging markets with dollar debts.\n\nAfter COVID, inflation hit 9% in 2022 and the Fed raised rates at the fastest pace in 40 years, to 5.25–5.5%. Inflation cooled, and the Fed cut through 2024–25. Trump pushed hard for faster cuts, attacked Chair Jerome Powell, and in 2026 replaced him with **Kevin Warsh**.\n\nThen the **Iran war oil shock** reignited inflation. In **September 2026 the Fed raised rates for the first time in three years**, to 3.75–4.00%. Other central banks did the same: the **RBA raised rates for the fifth time this year** on 3 November, to 4.85%, the highest since 2008.",
+      "players": [
+        {
+          "name": "Federal Reserve (Chair Kevin Warsh)",
+          "wants": "To get inflation back to 2% and prove its independence. Warsh says politics plays \"no role\"."
+        },
+        {
+          "name": "Trump administration",
+          "wants": "Low rates and a cheaper dollar to help exports and the midterms. It pushes on the Fed in public."
+        },
+        {
+          "name": "Bond markets",
+          "wants": "To be paid for the inflation risk and huge US deficits, which pushes long-term yields up."
+        },
+        {
+          "name": "Reserve Bank of Australia (Michele Bullock)",
+          "wants": "To stop inflation becoming entrenched: \"pain now\" to prevent worse later."
+        },
+        {
+          "name": "Emerging markets (India, Bangladesh and others)",
+          "wants": "A weaker dollar and lower US rates to ease debt and import costs."
+        }
+      ],
+      "stakes": "Rates decide mortgage costs, house prices, share valuations and currencies. For you in Sydney this is direct: the RBA's 4.85% cash rate sets mortgage repayments, and the AUD (about US$0.70) sets the price of imports and overseas travel.\n\n**Money angle:** high and rising rates favour cash, term deposits and short bonds, and hurt long-duration growth stocks and property. A Fed pivot back to cuts (for example if the Iran war ends and oil falls) would be one of the biggest market-moving events of 2027. Gold near $3,900 shows how much investors distrust the dollar and inflation.",
+      "current_state": "As of 3 November 2026:\n\n- **The Fed held at 3.75–4.00% on 28 October**, by a 10–2 vote. Two officials (Lisa Cook and Beth Hammack) wanted another hike. Its statement said \"inflation remains elevated\".\n- **Markets put about an 80% chance on a December hike.**\n- **The RBA hiked to 4.85% on 3 November**, its fifth rise this year and an 18-year high.\n- **The dollar index is about 102**, and AUD/USD about 0.70. Gold is near $3,900.\n- **US midterms on 3 November** will shape fiscal policy and pressure on the Fed.",
+      "watch_next": "- **The December Fed meeting:** hike or pause.\n- **US inflation (CPI) prints**, which depend heavily on oil and therefore on the Iran war.\n- **The RBA's next moves** and Australian mortgage stress.\n- **Long-term US bond yields**: a disorderly rise would hit stocks.\n- **The midterm result:** a split Congress means less fiscal stimulus.",
+      "timeline": [
+        {
+          "date": "2022-03-16",
+          "event": "The Fed begins its fastest hiking cycle in 40 years."
+        },
+        {
+          "date": "2023-07-26",
+          "event": "Fed funds rate peaks at 5.25–5.50%."
+        },
+        {
+          "date": "2024-09-18",
+          "event": "The Fed starts cutting rates."
+        },
+        {
+          "date": "2026-09-16",
+          "event": "The Fed hikes for the first time in three years as the oil shock lifts inflation."
+        },
+        {
+          "date": "2026-10-28",
+          "event": "The Fed holds at 3.75–4.00% in a split 10–2 vote."
+        },
+        {
+          "date": "2026-11-03",
+          "event": "The RBA hikes to 4.85%, the highest since 2008."
+        }
+      ],
+      "sources": [
+        {
+          "name": "CNBC: Fed holds rates steady, October 2026",
+          "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html"
+        },
+        {
+          "name": "NPR: Fed holds interest rates steady even as inflation remains stubborn",
+          "url": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation"
+        },
+        {
+          "name": "The Guardian: RBA raises cash rate to 4.85%",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia"
+        },
+        {
+          "name": "CNBC: Australia hikes rates to 18-year high",
+          "url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}

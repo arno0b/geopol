@@ -1,0 +1,75 @@
+{
+  "slug": "climate-food-water",
+  "versions": [
+    {
+      "date": "2026-11-03",
+      "how_we_got_here": "Climate change is no longer a future story. It shows up as harvests, prices and migration. Each recent year has been among the hottest on record. Heatwaves, floods and droughts now regularly hit crops (Indian wheat, Brazilian coffee, Southeast Asian palm oil, Australian grain) and rivers (the Rhine, the Panama Canal).\n\nFood prices are also driven by energy and war. Fertiliser is made from gas, and farm machinery and shipping run on diesel, so energy shocks become food shocks. Russia's invasion of Ukraine in 2022 sent the UN FAO food price index to a record in March 2022. In 2026 the **Iran war** did it again: higher oil and gas prices, disrupted Gulf fertiliser exports, and costlier shipping. Black Sea logistics problems and El Niño-linked dry weather in Asia added to the pressure.\n\nWater is a geopolitical issue too: India–Pakistan over the Indus, Ethiopia–Egypt over the Nile dam, and India–Bangladesh over the Teesta and Ganges.",
+      "players": [
+        {
+          "name": "Food-importing countries (Egypt, Bangladesh, Gulf states, much of Africa)",
+          "wants": "Cheap, reliable grain and fertiliser. They are the most exposed to price spikes."
+        },
+        {
+          "name": "Big exporters (US, Brazil, Russia, Australia, Ukraine, India)",
+          "wants": "Market access. Some ban exports in a crisis (India has restricted rice and wheat before)."
+        },
+        {
+          "name": "Gulf fertiliser producers",
+          "wants": "To ship their urea and ammonia, which the Hormuz closure has disrupted."
+        },
+        {
+          "name": "Climate diplomacy (UN COP process)",
+          "wants": "Emissions cuts and money for adaptation. Momentum is weaker with the US out of the Paris Agreement."
+        }
+      ],
+      "stakes": "High food prices topple governments (the 2011 Arab Spring partly began with bread prices) and drive migration. For Bangladesh, one of the most climate-exposed countries (cyclones, floods, sea-level rise), food inflation near 8% is a political issue. For Australia, drought and El Niño swing farm exports and the dollar.\n\n**Money angle:** agricultural commodities (wheat, corn, palm oil, sugar, cocoa, coffee), fertiliser makers, and Australian agriculture all move with weather and energy. Food inflation keeps central banks cautious about cutting rates.",
+      "current_state": "As of early November 2026:\n\n- **The FAO food price index hit 136.0 in September 2026**, its third monthly rise in a row and the highest since November 2022 (up 5.8% on a year earlier). Maize hit a three-year high on Black Sea logistics problems. Palm oil and sugar rose on dry weather in Asia.\n- **October data is due on 6 November.**\n- **Energy is the main driver:** the Iran war's oil and gas shock and fertiliser disruption are pushing up farm costs. Africa faces a fertiliser supply shock.\n- **Extreme weather:** two cyclones in a row (most recently Cyclone Murasu) have hit India's east coast, and Indonesian fire haze is choking Singapore and Malaysia.",
+      "watch_next": "- **The FAO index on 6 November**: a fourth rise would confirm a new food-inflation wave.\n- **Hormuz reopening:** the fastest way to cool fertiliser and food costs.\n- **ENSO outlook** (El Niño or La Niña) for 2027 harvests, including Australia's.\n- **Export bans** by big producers such as India.\n- **Cyclone and flood season** in the Bay of Bengal (Bangladesh and India).",
+      "timeline": [
+        {
+          "date": "2011-02-01",
+          "event": "Record FAO food prices help fuel the Arab Spring."
+        },
+        {
+          "date": "2022-03-31",
+          "event": "The FAO food price index hits an all-time high after Russia invades Ukraine."
+        },
+        {
+          "date": "2023-07-20",
+          "event": "India bans most rice exports."
+        },
+        {
+          "date": "2026-02-28",
+          "event": "Iran war begins; oil, gas and fertiliser prices jump."
+        },
+        {
+          "date": "2026-09-30",
+          "event": "The FAO index reaches 136.0 in September, the highest since 2022."
+        },
+        {
+          "date": "2026-11-03",
+          "event": "Cyclone Murasu hits India's east coast, days after another cyclone."
+        }
+      ],
+      "sources": [
+        {
+          "name": "FAO Food Price Index",
+          "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/"
+        },
+        {
+          "name": "MercoPress: FAO food price index rises in September amid weather and transport disruptions",
+          "url": "https://en.mercopress.com/2026/10/08/fao-food-price-index-rises-in-september-amid-weather-concerns-and-transport-disruptions"
+        },
+        {
+          "name": "World Grain: FAO Food Price Index up 6% year on year",
+          "url": "https://www.world-grain.com/articles/23289-fao-food-price-index-up-6-year-on-year"
+        },
+        {
+          "name": "Al Jazeera: Cyclone Murasu makes landfall on India's eastern coast",
+          "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}

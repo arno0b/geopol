@@ -1,0 +1,87 @@
+{
+  "slug": "india",
+  "versions": [
+    {
+      "date": "2026-11-03",
+      "how_we_got_here": "India is the world's most populous country (1.4 billion people) and has been the fastest-growing large economy for most of the past decade. It passed the UK to become the #5 economy. Under **Narendra Modi** (PM since 2014) it built roads, digital payments and manufacturing incentives, and pitched itself as the \"China plus one\" alternative for supply chains. Apple now makes a growing share of iPhones there.\n\nIndia's foreign policy is \"multi-alignment\": close to the US through the Quad (with Japan and Australia), but still buying Russian weapons and, since 2022, huge amounts of discounted Russian oil. That balancing act got harder in 2025–26. The US hit India with heavy tariffs, partly over Russian oil, and in September 2026 a new US law allowed up to 100% tariffs on big buyers of Russian energy. Then the **Iran war** hit India hard: it imports almost 90% of its crude. Rather than join a US naval coalition, India negotiated safe passage directly with Iran and resumed Iranian oil imports for the first time in seven years.",
+      "players": [
+        {
+          "name": "Modi government (BJP)",
+          "wants": "Growth, cheap energy from any source, strategic autonomy, and a trade deal with the US on good terms."
+        },
+        {
+          "name": "United States",
+          "wants": "India as a counterweight to China, a buyer of US energy and arms, and an end to Russian oil purchases."
+        },
+        {
+          "name": "Russia",
+          "wants": "To keep India as an oil and arms customer."
+        },
+        {
+          "name": "China",
+          "wants": "To manage a tense border (the 2020 Galwan clash) while selling India components it still needs."
+        },
+        {
+          "name": "Pakistan",
+          "wants": "To stay relevant against India. The two fought a short air war in May 2025."
+        },
+        {
+          "name": "Bangladesh",
+          "wants": "Hasina's extradition. Dhaka–Delhi ties are frozen over it (see the Bangladesh storylines)."
+        }
+      ],
+      "stakes": "India is the biggest growth story left among large economies and a key test of whether supply chains can move away from China. For Bangladesh, India is the giant neighbour that shapes trade, water and politics. For Australia, it is a fast-growing market (coal, education, LNG) and a Quad partner.\n\n**Money angle:** Indian stocks were among the world's best performers for years, but they have lagged badly since 2024 as foreign money left and the oil shock squeezed profits. Sensex earnings are running about 11% below forecasts. High oil weakens the rupee and lifts inflation. A Hormuz reopening would be one of the biggest relief rallies for India.",
+      "current_state": "As of early November 2026:\n\n- **Oil shock:** eight months into the Iran war, imported inflation is squeezing companies and the rupee. India is buying Iranian oil again and negotiating its own safe passage.\n- **US trade:** there is still no signed trade deal, only a February framework. On 16 October Trump waived the new Russian-oil penalties for now, and reports link a lower 18% tariff rate to India's pledge to stop buying Russian oil.\n- **Markets:** consumers are spending again, but the stock market is still lagging.\n- **Neighbours:** relations with Bangladesh are frozen over Hasina, and Cyclone Murasu has just hit the east coast.",
+      "watch_next": "- **A signed US–India trade deal**, and whether India really stops buying Russian oil.\n- **The Iran deal and Hormuz:** the biggest swing factor for Indian inflation and markets.\n- **Foreign money flows** back into Indian stocks.\n- **India–Bangladesh:** any compromise over Hasina.\n- **India–Pakistan border tensions.**",
+      "timeline": [
+        {
+          "date": "2014-05-26",
+          "event": "Narendra Modi becomes Prime Minister."
+        },
+        {
+          "date": "2020-06-15",
+          "event": "Galwan Valley clash with China kills 20 Indian soldiers."
+        },
+        {
+          "date": "2025-05-07",
+          "event": "India–Pakistan air conflict (Operation Sindoor)."
+        },
+        {
+          "date": "2026-04-06",
+          "event": "India resumes Iranian oil and gas imports after seven years, amid the Hormuz crisis."
+        },
+        {
+          "date": "2026-09-17",
+          "event": "India warns new US tariffs over Russian oil could hurt ties."
+        },
+        {
+          "date": "2026-10-16",
+          "event": "Trump waives Russian-oil tariff penalties under the new law."
+        }
+      ],
+      "sources": [
+        {
+          "name": "CNBC: India turns to Iran for oil and gas after 7-year hiatus",
+          "url": "https://www.cnbc.com/2026/04/06/india-iran-oil-imports-strait-hormuz-us-tensions.html"
+        },
+        {
+          "name": "Al Jazeera: India warns new US tariffs over Russian oil could impact ties",
+          "url": "https://www.aljazeera.com/news/2026/9/17/india-warns-new-us-tariffs-over-russian-oil-could-impact-ties"
+        },
+        {
+          "name": "Business Standard: India's consumers are back, but its stock market is still lagging",
+          "url": "https://www.business-standard.com/amp/economy/news/india-s-consumers-are-back-but-its-stock-market-is-still-lagging-126110200080_1.html"
+        },
+        {
+          "name": "ORF: Tariffs, oil and the rupee",
+          "url": "https://www.orfonline.org/expert-speak/tariffs-oil-and-the-rupee-india-s-external-reckoning"
+        },
+        {
+          "name": "Outlook Business: US tariff U-turn on Russian oil",
+          "url": "https://www.outlookbusiness.com/news/us-tariff-u-turn-on-russian-oil-what-changed-for-india"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}

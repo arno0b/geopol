@@ -1,0 +1,83 @@
+{
+  "slug": "russia-ukraine",
+  "versions": [
+    {
+      "date": "2026-11-03",
+      "how_we_got_here": "Russia seized Crimea and backed separatists in eastern Ukraine in 2014. On **24 February 2022** it launched a full invasion, expecting Kyiv to fall in days. It didn't. Ukraine pushed Russia back from Kyiv and Kharkiv in 2022, but its 2023 counteroffensive stalled. Since then the war has been a grinding fight of trenches, drones and missiles, with Russia slowly gaining ground in the east at enormous cost in lives.\n\nTrump returned in 2025 promising to end the war quickly. Talks have come and gone: Russia rejects a simple ceasefire that freezes the front and insists on a full settlement on its terms (more land, no NATO, a smaller Ukrainian army). Europe has taken over much of Ukraine's funding and arms supply and is planning a reassurance force for after any peace. In 2026 there were short truces, including an Easter truce and, in late October, a localised ceasefire in Oleshky brokered through Melania Trump. A six-day truce in the Kherson region was the longest of the war, but fighting has resumed there.",
+      "players": [
+        {
+          "name": "Russia (Putin)",
+          "wants": "To keep and expand occupied land, keep Ukraine out of NATO, and get sanctions lifted. Says it will accept only a full peace deal, not a temporary ceasefire."
+        },
+        {
+          "name": "Ukraine (Zelensky)",
+          "wants": "A ceasefire on current lines followed by talks, with real security guarantees so Russia can't come back."
+        },
+        {
+          "name": "United States (Trump)",
+          "wants": "A deal to claim and less US money spent. It swings between pressuring Kyiv and sanctioning Moscow's oil buyers."
+        },
+        {
+          "name": "Europe (UK, France, Germany, Poland, Nordics)",
+          "wants": "Ukraine not to lose, and Russia contained. It is rehearsing a post-peace troop deployment."
+        },
+        {
+          "name": "China and India",
+          "wants": "Cheap Russian oil and neutrality. India has come under US tariff pressure over its purchases."
+        }
+      ],
+      "stakes": "This is the largest war in Europe since 1945. The outcome decides whether borders can be changed by force, which Taiwan and Asia are watching closely. It also shapes **Europe's defence spending boom**, wheat and fertiliser markets (Ukraine and Russia are major exporters), and energy: Russian oil sanctions, Europe's gas prices, and the secondary tariffs the US uses against buyers of Russian crude.\n\n**Money angle:** European defence stocks have been some of the biggest winners of the decade. Any credible peace would mean Ukraine reconstruction contracts (estimated in the hundreds of billions of dollars), cheaper grain and gas, and pressure on defence stocks.",
+      "current_state": "As of early November 2026:\n\n- **No broad ceasefire.** On 29 October the Kremlin said again that it wants only a final settlement, not a temporary truce.\n- **Technical talks** between Ukraine, Russia and the US are planned in Abu Dhabi for the first half of November. Hours after Putin agreed \"in principle\" to restart talks, Russia hit Kyiv with missiles.\n- **Strikes go on:** a Russian strike on an aid centre killed at least 29 people this week, and hospitals and power plants are being hit as winter starts. Both sides report cyber-attacks on emergency alert apps.\n- **The front line** is grinding: Russia gains slowly at heavy cost. Fighting has returned to Kherson after the longest truce of the war.\n- **Europe** is rehearsing a deployment of thousands of troops to Ukraine in the event of peace.",
+      "watch_next": "- **The Abu Dhabi talks** in November: is there any agreement beyond prisoner swaps and local truces?\n- **The winter energy war:** Russian strikes on Ukraine's grid, and Ukrainian drone strikes on Russian refineries.\n- **US sanctions on Russian oil buyers** (India and China) and whether waivers continue.\n- **Europe's reassurance force** and funding (frozen Russian assets).",
+      "timeline": [
+        {
+          "date": "2014-03-18",
+          "event": "Russia annexes Crimea."
+        },
+        {
+          "date": "2022-02-24",
+          "event": "Russia launches a full-scale invasion of Ukraine."
+        },
+        {
+          "date": "2022-11-11",
+          "event": "Ukraine liberates Kherson city."
+        },
+        {
+          "date": "2023-06-04",
+          "event": "Ukraine's counteroffensive begins, and stalls by year-end."
+        },
+        {
+          "date": "2026-10-27",
+          "event": "A localised ceasefire in Oleshky takes effect."
+        },
+        {
+          "date": "2026-10-29",
+          "event": "The Kremlin says it rejects temporary ceasefires and wants only a full settlement."
+        },
+        {
+          "date": "2026-11-03",
+          "event": "A Russian strike on an aid centre kills at least 29; fighting resumes in Kherson."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Critical Threats: Russian Offensive Campaign Assessment, 30 October 2026",
+          "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-30-2026"
+        },
+        {
+          "name": "MPR News/AP: Ukraine and Russia eye new peace talks, but steep obstacles remain",
+          "url": "https://www.mprnews.org/story/2026/10/24/ukraine-and-russia-eye-new-peace-talks-but-steep-obstacles-remain"
+        },
+        {
+          "name": "BBC: Fighting returns to Kherson region after longest ceasefire",
+          "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo"
+        },
+        {
+          "name": "BBC: Thousands of European troops to rehearse Ukraine deployment",
+          "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}

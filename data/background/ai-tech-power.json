@@ -1,0 +1,79 @@
+{
+  "slug": "ai-tech-power",
+  "versions": [
+    {
+      "date": "2026-11-03",
+      "how_we_got_here": "ChatGPT's launch in late 2022 set off the biggest investment boom since the internet. Training and running AI models needs huge numbers of advanced chips, mostly **Nvidia** GPUs made by **TSMC** in Taiwan, and vast data centres that use as much power as cities. Nvidia became the world's most valuable company.\n\nAI quickly became geopolitics. The US restricted sales of top chips and chip-making tools to China from 2022, to keep a lead it sees as military as well as economic. China answered by pouring money into its own chips (Huawei) and models (DeepSeek, Moonshot). Gulf states (the UAE and Saudi Arabia) used oil money to buy into AI, and OpenAI has deepened its ties with Abu Dhabi.\n\nBy 2026 the constraints are chips, memory and electricity. Big tech is spending hundreds of billions of dollars a year on data centres (J.P. Morgan estimates up to $900bn of AI capex in 2026), increasingly funded with debt. That has raised \"bubble\" worries.",
+      "players": [
+        {
+          "name": "Nvidia, TSMC, memory makers (SK Hynix, Samsung, Micron)",
+          "wants": "To sell everything they can make. TSMC wafer supply is the main bottleneck."
+        },
+        {
+          "name": "Hyperscalers (Microsoft, Google, Amazon, Meta, Oracle) and AI labs (OpenAI, Anthropic, xAI)",
+          "wants": "Compute and power at any price. They are borrowing heavily to build."
+        },
+        {
+          "name": "United States government",
+          "wants": "To keep China a generation or more behind, while letting US firms sell some chips. Licence rules keep shifting."
+        },
+        {
+          "name": "China (Huawei, DeepSeek, Moonshot)",
+          "wants": "Self-sufficiency, and access to Nvidia compute through data centres abroad."
+        },
+        {
+          "name": "Utilities and grids",
+          "wants": "To meet surging demand without blackouts or huge price rises for households."
+        }
+      ],
+      "stakes": "AI is now one of the main drivers of US growth and the stock market. A handful of AI-linked companies make up a large share of the S&P 500 (about 7,540 now). If AI earnings justify the spending, it is a productivity revolution. If not, it is a debt-fuelled bust that would hit markets everywhere.\n\nIt also affects daily life: memory-chip shortages are pushing up gadget prices (Apple warns of an \"unprecedented\" rise), and data centres are pushing up electricity demand and bills.\n\n**Money angle:** the picks-and-shovels trade (chips, memory, power equipment, utilities, data-centre landlords) has been the market's engine. Watch for weak links: Intel's stock fell 45% in October, Palantir dropped 8% after earnings, and lenders are asking for more equity in AI projects.",
+      "current_state": "As of early November 2026:\n\n- **Spending is still accelerating.** Nvidia sold about $89bn of data-centre products in its July quarter, up 117% on a year earlier. Brookfield plans a $27bn AI data centre at a UK power station, and OpenAI has hired a former US Army Secretary for national security work.\n- **Strains are showing:** Apple warns of unprecedented memory-chip price rises, Intel's foundry push is under pressure after a 45% fall in October, Blackstone says AI needs more equity because debt risks are mounting, and DW reports AI borrowing could raise Europe's borrowing costs.\n- **China:** Nvidia is effectively shut out of China's data-centre market (its share fell to 34% in the first half of 2026), and Huawei is gaining. Nvidia is now advising cloud customers to limit China exposure.",
+      "watch_next": "- **Nvidia's next earnings (around late November)**, the bellwether for the whole trade.\n- **Debt markets:** spreads on data-centre and hyperscaler bonds, and private-credit deals.\n- **Memory and power prices** feeding into inflation.\n- **New US chip-export rules** and enforcement against Chinese use of offshore compute.\n- **TSMC capacity and Taiwan risk.**",
+      "timeline": [
+        {
+          "date": "2022-10-07",
+          "event": "US imposes sweeping controls on advanced chips and tools for China."
+        },
+        {
+          "date": "2022-11-30",
+          "event": "ChatGPT launches; the AI boom begins."
+        },
+        {
+          "date": "2024-06-18",
+          "event": "Nvidia briefly becomes the world's most valuable company."
+        },
+        {
+          "date": "2025-01-27",
+          "event": "DeepSeek shock: a cheap Chinese model knocks about $600bn off Nvidia's value in a day."
+        },
+        {
+          "date": "2026-11-02",
+          "event": "Apple warns of an 'unprecedented' rise in memory chip prices."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Nvidia 10-Q (Q2 FY2027)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm"
+        },
+        {
+          "name": "CNBC: China AI firms tap Nvidia power overseas as US weighs crackdown",
+          "url": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html"
+        },
+        {
+          "name": "The Guardian: Apple warns of 'unprecedented' rise in memory chip prices",
+          "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings"
+        },
+        {
+          "name": "CNBC: Intel foundry push faces critical test after 45% plunge",
+          "url": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html"
+        },
+        {
+          "name": "CNAS: American AI companies can't get enough chips",
+          "url": "https://www.cnas.org/publications/reports/american-ai-companies-cant-get-enough-chips"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}

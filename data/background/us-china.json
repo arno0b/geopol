@@ -1,0 +1,79 @@
+{
+  "slug": "us-china",
+  "versions": [
+    {
+      "date": "2026-11-03",
+      "how_we_got_here": "For 30 years the US bet that trade would make China richer and more open. China got richer: it became the world's factory and the #2 economy. It didn't become more open. By the late 2010s both parties in Washington saw China as the main rival. Trump's first term brought tariffs, and Biden added controls on advanced chips and chip-making tools.\n\nTrump's second term began in 2025 with a **tariff war**: rates on Chinese goods briefly passed 100% both ways. China hit back with its strongest weapon, **export controls on rare earths** and magnets, which US car, chip and defence makers depend on. At **Busan in October 2025** Trump and Xi agreed a one-year truce: the US cut tariffs, and China suspended its new rare-earth controls and resumed buying US soybeans. In late September 2026 Xi made a state visit to Washington, and the truce was extended to January 2027.",
+      "players": [
+        {
+          "name": "United States (Trump, Treasury Secretary Bessent)",
+          "wants": "Smaller trade deficits, Chinese purchases (farm goods, energy, Boeing), factories back home, and a lead in AI chips, without a rare-earth cut-off."
+        },
+        {
+          "name": "China (Xi Jinping)",
+          "wants": "Lower tariffs, an end to chip controls, and time to become self-sufficient in technology. It keeps rare earths as leverage."
+        },
+        {
+          "name": "Big business (Apple, Nvidia, Tesla, farmers)",
+          "wants": "Stable access to Chinese markets and supply chains. Nvidia has been effectively shut out of China's data-centre market."
+        },
+        {
+          "name": "Allies (Japan, Korea, Australia, EU)",
+          "wants": "Not to be crushed between the two. They are building their own supply chains, such as Australian rare earths."
+        }
+      ],
+      "stakes": "This is the most important relationship in the world economy, about 40% of global GDP between them. It sets prices for electronics and cars, decides who leads in AI, and drives a large part of Australia's economy: China buys most of Australia's iron ore, while the US is Australia's security partner.\n\n**Money angle:** truce headlines lift markets, and breakdowns hit chip stocks, Chinese stocks, the Australian dollar and commodities. The rare-earth chokepoint has made non-Chinese producers such as Lynas and MP Materials strategic assets.",
+      "current_state": "As of early November 2026:\n\n- **Truce extended** during Xi's September state visit, now to around **10 January 2027**.\n- **A small new deal in late October** cut tariffs on about $60bn of goods: US farm goods and wood, and Chinese appliances, linens, cosmetics and toys. Officials say a broad across-the-board tariff cut is unlikely.\n- **Rare earths are unresolved.** China's suspension of its October 2025 controls expires on **10 November 2026**, and there are no guaranteed volumes for US buyers.\n- **Chips:** Nvidia's share of China's data-centre chip market fell to 34% in the first half of 2026 as Huawei and local firms grow. Nvidia is advising cloud clients to limit China exposure.\n- The US midterms (3 November) could change Trump's room for manoeuvre.",
+      "watch_next": "- **10 November:** does China extend the rare-earth suspension or reimpose the controls?\n- **The January 2027 truce deadline:** extension, a bigger deal, or new tariffs.\n- **Chip export rules** (H200 licences, crackdowns on Chinese use of Southeast Asian data centres).\n- **Taiwan and the South China Sea** spilling into trade.",
+      "timeline": [
+        {
+          "date": "2001-12-11",
+          "event": "China joins the WTO."
+        },
+        {
+          "date": "2018-07-06",
+          "event": "First Trump tariffs on Chinese goods; the trade war begins."
+        },
+        {
+          "date": "2022-10-07",
+          "event": "Biden's sweeping controls on advanced chips for China."
+        },
+        {
+          "date": "2025-04-09",
+          "event": "Tariffs escalate past 100% on both sides."
+        },
+        {
+          "date": "2025-10-30",
+          "event": "Trump–Xi Busan summit: a one-year truce; rare-earth controls suspended."
+        },
+        {
+          "date": "2026-09-24",
+          "event": "Truce extended during Xi's state visit to Washington."
+        },
+        {
+          "date": "2026-11-10",
+          "event": "China's suspension of its rare-earth controls is due to expire."
+        }
+      ],
+      "sources": [
+        {
+          "name": "CNBC: US-China trade truce extended as Xi begins state visit",
+          "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html"
+        },
+        {
+          "name": "Everstream: Tariff tracker, 29 October 2026",
+          "url": "https://everstream.ai/risk-centers/tariff-tracker-update-for-29-october-2026"
+        },
+        {
+          "name": "China Briefing: Trump–Xi meeting outcomes",
+          "url": "https://www.china-briefing.com/news/trump-xi-meeting-outcomes-and-implications/"
+        },
+        {
+          "name": "White House fact sheet: trade deal with China (Nov 2025)",
+          "url": "https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-strikes-deal-on-economic-and-trade-relations-with-china/"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}

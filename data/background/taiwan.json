@@ -1,0 +1,83 @@
+{
+  "slug": "taiwan",
+  "versions": [
+    {
+      "date": "2026-11-03",
+      "how_we_got_here": "When Mao's Communists won China's civil war in 1949, the defeated Nationalists fled to Taiwan. Beijing has claimed the island ever since and says it will \"reunify\" it, by force if needed. Taiwan became a vibrant democracy in the 1990s, and most of its people now see themselves as Taiwanese, not Chinese.\n\nThe US keeps \"strategic ambiguity\": it doesn't recognise Taiwan as a country, but it sells it weapons and won't say whether it would fight for it. The island matters far beyond its size because **TSMC** makes over 90% of the world's most advanced chips there.\n\nSince 2016, when the pro-sovereignty DPP took power, Beijing has cut contacts and stepped up pressure: daily air incursions, big \"Joint Sword\" and \"Strait Thunder\" encirclement drills, and coast-guard pressure around Taiwan's outlying islands. President **Lai Ching-te** (in office since May 2024) is seen by Beijing as a separatist.",
+      "players": [
+        {
+          "name": "China (Xi Jinping, PLA)",
+          "wants": "Unification, ideally without war. Military pressure is meant to wear Taiwan down and deter independence. US intelligence says the PLA was told to be ready by 2027."
+        },
+        {
+          "name": "Taiwan (President Lai, DPP)",
+          "wants": "To keep its democracy and de facto independence, with deterrence through record defence spending. The opposition KMT favours more talks with Beijing."
+        },
+        {
+          "name": "United States",
+          "wants": "No war and no forced takeover, while keeping chip supply and allies' trust. Trump has been vague about whether Taiwan is part of his trade talks with Xi."
+        },
+        {
+          "name": "Japan, Australia, Philippines",
+          "wants": "Peace in the Strait. A war would directly threaten them, and Japan and the Philippines host US forces nearby."
+        },
+        {
+          "name": "TSMC",
+          "wants": "To keep its \"silicon shield\" while building plants in Arizona, Japan and Germany."
+        }
+      ],
+      "stakes": "A blockade or war over Taiwan would be the biggest economic shock in modern history. Estimates run to about 10% of world GDP, from losing advanced chips and closing Asia's busiest shipping lanes. For Australia it would mean a crisis with its largest trading partner on one side and its main ally on the other.\n\n**Money angle:** Taiwan risk is priced into TSMC and into the push to build chip plants elsewhere (Intel, Samsung, TSMC Arizona). Drills that look like blockade rehearsals hit Asian chip stocks and lift defence names and safe havens such as gold.",
+      "current_state": "As of early November 2026:\n\n- **10 October:** in his National Day speech Lai said Taiwan cherishes peace but will not give up its freedom. Beijing accused him of \"seeking independence through force\".\n- **12–20 October:** China held live-fire drills in the Bohai, Yellow, East China and South China seas. They were not around Taiwan itself, and analysts said they were smaller than past \"Joint Sword\" drills. A Chinese carrier group exercised in the Philippine Sea.\n- **Defence:** Taiwan has earmarked a record NT$1.1 trillion (about US$34.5bn) for 2027 defence, more than 3% of GDP.\n- **US–China truce:** the trade truce and Xi's Washington visit have lowered the temperature for now, but Taiwan remains the biggest unresolved issue.",
+      "watch_next": "- **Large-scale drills encircling Taiwan**, especially any that practise a blockade or quarantine with the coast guard.\n- **US arms sales** and whether Trump trades them in China talks.\n- **Taiwan's defence budget** in a legislature the opposition controls.\n- **TSMC overseas expansion** and US chip tariffs.",
+      "timeline": [
+        {
+          "date": "1949-12-07",
+          "event": "Nationalist government retreats to Taiwan."
+        },
+        {
+          "date": "1979-04-10",
+          "event": "US Taiwan Relations Act passed after Washington recognises Beijing."
+        },
+        {
+          "date": "1996-03-23",
+          "event": "Taiwan's first direct presidential election, amid Chinese missile tests."
+        },
+        {
+          "date": "2022-08-04",
+          "event": "China's biggest drills yet after Nancy Pelosi's visit."
+        },
+        {
+          "date": "2024-05-20",
+          "event": "Lai Ching-te inaugurated as president."
+        },
+        {
+          "date": "2026-10-10",
+          "event": "Lai's National Day speech; Beijing condemns it."
+        },
+        {
+          "date": "2026-10-12",
+          "event": "China begins nine days of live-fire drills across its coastal seas."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Hong Kong Free Press: Taiwan 'preparing for the worst' as China begins live-fire drills",
+          "url": "https://hongkongfp.com/2026/10/12/taiwan-preparing-for-the-worst-as-china-begins-live-fire-drills/"
+        },
+        {
+          "name": "Japan Times: Taiwan monitoring China drills",
+          "url": "https://www.japantimes.co.jp/news/2026/10/12/asia-pacific/taiwan-monitoring-china-drills/"
+        },
+        {
+          "name": "USNI News: Chinese carrier strike group drills in the Philippine Sea",
+          "url": "https://news.usni.org/2026/10/14/chinese-carrier-strike-group-drills-in-the-philippine-sea"
+        },
+        {
+          "name": "Wikipedia: Joint Sword-2024B",
+          "url": "https://en.wikipedia.org/wiki/Joint_Sword-2024B"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}

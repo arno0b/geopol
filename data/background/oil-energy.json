@@ -1,0 +1,91 @@
+{
+  "slug": "oil-energy",
+  "versions": [
+    {
+      "date": "2026-11-03",
+      "how_we_got_here": "Energy is the one input every economy needs, and a few chokepoints and producers control it. The 1970s oil shocks showed that wars in the Gulf become inflation everywhere. For the past decade the US shale boom made America the world's top oil and gas producer, and OPEC+ (Saudi Arabia, Russia and others) managed supply to keep prices in a comfortable band.\n\nThen came two shocks. Russia's 2022 invasion of Ukraine cut Europe off from cheap Russian gas, sending European prices to records and making **LNG** (shipped gas from the US, Qatar and Australia) the new lifeline. In **2026 the Iran war closed the Strait of Hormuz**, through which about a fifth of the world's oil and LNG normally passes. Brent went above $100 in March and peaked near $126, the largest monthly jump on record. Gulf producers rerouted what they could through pipelines, the US pushed exports to records, and Asia (which buys most Gulf crude) scrambled for cargoes.",
+      "players": [
+        {
+          "name": "Saudi Arabia and Gulf producers",
+          "wants": "Volume and revenue. Aramco's profits are up sharply, but their own facilities have been attacked."
+        },
+        {
+          "name": "United States",
+          "wants": "Energy dominance: record oil and LNG exports and supply from the 'Americas', including a giant new Venezuela deal. Also lower petrol prices before elections."
+        },
+        {
+          "name": "Iran",
+          "wants": "To use Hormuz as leverage while still selling its own crude to China (sanctioned tankers keep slipping through)."
+        },
+        {
+          "name": "Russia",
+          "wants": "High prices and buyers (India, China) for its sanctioned oil to fund the war."
+        },
+        {
+          "name": "Europe",
+          "wants": "To get through winter. Germany missed its gas-storage target, and EU gas has stayed above €100/MWh."
+        },
+        {
+          "name": "Asian importers (China, India, Japan, Korea, Bangladesh)",
+          "wants": "Safe passage and cheap cargoes. Some cut their own deals with Iran."
+        },
+        {
+          "name": "Australia",
+          "wants": "A major LNG exporter that also imports most of its fuel. Export income is up, but petrol and inflation pain is too."
+        }
+      ],
+      "stakes": "Oil is still the single biggest swing factor for global inflation. At $105 Brent, central banks keep rates high (the Fed hiked in September and the RBA is at an 18-year high), airlines raise fares (Ryanair warns of up to 20%), and import-dependent countries lose reserves.\n\n**Money angle:** winners are oil majors, LNG exporters, tankers, refiners (margins are strong), and producer currencies. Losers are airlines, chemicals, heavy industry in Europe and Asia, and emerging-market importers. The key bet is **how fast oil falls if Hormuz reopens**: markets have repeatedly dropped 5–7% in a day on peace headlines.",
+      "current_state": "As of 3 November 2026:\n\n- **Brent is about $105, WTI about $98.** Prices fell more than 7% on 2 November on hopes of a US–Iran deal, then bounced after US strikes on Qeshm Island.\n- **Hormuz is partly open.** Kpler estimated flows at about 14 million barrels a day in late October, around 82% of pre-war levels, but ships are still being attacked and shipping costs are high.\n- **The Bab al-Mandab** (Red Sea route) is also threatened by the Houthis.\n- **Gas:** Europe's benchmark is above €100/MWh, Germany missed its storage target, and US LNG exports are near records.\n- **Corporate:** Aramco's profits beat forecasts. Shell sold a stake in Australia's North West Shelf LNG to Abu Dhabi's XRG for $1.45bn. TotalEnergies now sees oil demand peaking around 2035–2040.",
+      "watch_next": "- **A US–Iran deal and the reopening of Hormuz:** the biggest downside risk for oil prices.\n- **OPEC+ decisions:** do Gulf producers flood the market once routes reopen?\n- **European gas through winter:** a cold snap with low storage could spike prices.\n- **Venezuela:** whether the giant new US-backed oil deal produces real barrels.\n- **Demand destruction:** high prices are slowing economies, which eventually pulls prices down.",
+      "timeline": [
+        {
+          "date": "2022-02-24",
+          "event": "Russia invades Ukraine; Europe's gas crisis begins."
+        },
+        {
+          "date": "2022-03-08",
+          "event": "Brent spikes to nearly $128 in the post-invasion shock."
+        },
+        {
+          "date": "2026-02-28",
+          "event": "Iran war begins; Iran closes the Strait of Hormuz."
+        },
+        {
+          "date": "2026-03-08",
+          "event": "Brent tops $100; March sees the biggest monthly oil rise on record."
+        },
+        {
+          "date": "2026-07-08",
+          "event": "Iran–US truce collapses after attacks on ships; oil spikes again."
+        },
+        {
+          "date": "2026-11-02",
+          "event": "Oil falls more than 7% on hopes of a US–Iran deal."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Wikipedia: 2026 Strait of Hormuz crisis",
+          "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
+        },
+        {
+          "name": "CNBC: Oil prices climb after US strikes Iran's Qeshm Island",
+          "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html"
+        },
+        {
+          "name": "OilPrice: Germany misses gas storage target as prices soar",
+          "url": "https://oilprice.com/Energy/Natural-Gas/Germany-Misses-Gas-Storage-Target-as-Prices-Soar.html"
+        },
+        {
+          "name": "OilPrice: Questions mount over Venezuela's biggest oil deal",
+          "url": "https://oilprice.com/Energy/Crude-Oil/Questions-Mount-Over-Venezuelas-Biggest-Oil-Deal.html"
+        },
+        {
+          "name": "Crisis Group: Strait of Hormuz flashpoint",
+          "url": "https://www.crisisgroup.org/trigger-list/iran-usisrael-trigger-list/flashpoints/strait-hormuz"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}

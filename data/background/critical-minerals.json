@@ -1,0 +1,87 @@
+{
+  "slug": "critical-minerals",
+  "versions": [
+    {
+      "date": "2026-11-03",
+      "how_we_got_here": "Electric cars, wind turbines, phones, missiles and AI data centres all need a short list of \"critical minerals\": **rare earths** (for magnets), lithium, cobalt, nickel, graphite, gallium and germanium. China spent 30 years building dominance here. It mines about 60–70% of the world's rare earths and refines about 90%, and it controls most graphite and battery processing.\n\nFor years the West ignored this. China then started using it as a weapon: gallium and germanium controls in 2023, graphite later that year, then in April and October 2025 sweeping rare-earth controls that briefly halted magnet supply to US and European car makers. That was China's strongest card in the trade war. In response the US took stakes in miners (MP Materials), set **price floors**, and signed deals with allies. In **October 2025 Trump and Albanese signed a critical-minerals pact** worth about US$8.5bn, putting Australian miners like **Lynas** at the centre of the Western supply chain.",
+      "players": [
+        {
+          "name": "China",
+          "wants": "To keep its processing monopoly as leverage, and to undercut new rivals with low prices."
+        },
+        {
+          "name": "United States",
+          "wants": "A supply chain outside China, especially for defence magnets. It uses price floors, equity stakes and allied deals."
+        },
+        {
+          "name": "Australia (government, Lynas, Iluka and others)",
+          "wants": "To become the main allied supplier and move from digging up ore to refining it."
+        },
+        {
+          "name": "DR Congo",
+          "wants": "More value from its cobalt. It caps exports to lift prices (see Africa & resources)."
+        },
+        {
+          "name": "Car, chip and defence makers",
+          "wants": "Reliable supply at predictable prices."
+        }
+      ],
+      "stakes": "Whoever controls these minerals controls the speed of the energy transition and much of modern weapons production. A Chinese cut-off can stop factories within weeks.\n\n**Money angle:** Western rare-earth producers (Lynas, MP Materials, Iluka) trade on geopolitics as much as on supply and demand. US price floors give them a guaranteed minimum, while Chinese controls push up the price Western buyers pay. Western buyers already pay up to 16 times China's domestic price for dysprosium. This is one of the most direct ways geopolitics shows up in ASX stocks.",
+      "current_state": "As of early November 2026:\n\n- **China's suspension of its October 2025 controls expires on 10 November 2026.** If reinstated, they add licences for five more rare earths and a rule covering foreign products with as little as 0.1% Chinese rare-earth content. The US–China talks have produced no guaranteed volumes.\n- **Lynas is booming:** average selling prices rose 88% to a record A$102/kg in the September quarter, and revenue rose 55%. It has a US Pentagon deal with a US$110/kg NdPr floor, and agreed to buy Brazil's Caldeira deposit for about A$968m to add heavy rare earths.\n- **Prices** have eased from the 2025 spike in China, but there is a widening two-tier market: a Chinese price and a much higher Western price.",
+      "watch_next": "- **10 November:** China extends, tightens or drops the rare-earth controls.\n- **The US–China truce deadline in January 2027.**\n- **New Western refineries** coming online (Lynas in Texas and Malaysia, Australian projects).\n- **The Congo cobalt export quota** and Indonesian nickel policy.",
+      "timeline": [
+        {
+          "date": "2010-09-07",
+          "event": "Trawler clash with Japan; China then halts rare-earth exports to Japan."
+        },
+        {
+          "date": "2023-08-01",
+          "event": "China's gallium and germanium export controls take effect."
+        },
+        {
+          "date": "2025-04-04",
+          "event": "China imposes export controls on seven rare earths and magnets."
+        },
+        {
+          "date": "2025-10-09",
+          "event": "China announces sweeping new rare-earth controls."
+        },
+        {
+          "date": "2025-10-20",
+          "event": "Trump and Albanese sign the US–Australia critical-minerals pact."
+        },
+        {
+          "date": "2026-10-01",
+          "event": "Lynas agrees to buy the Caldeira rare-earth project in Brazil."
+        },
+        {
+          "date": "2026-11-10",
+          "event": "China's suspension of its October 2025 controls is due to expire."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Northern Miner: Lynas locks in price floors as revenue jumps 55%",
+          "url": "https://www.northernminer.com/news/lynas-locks-in-price-floors-as-revenue-jumps-55/1003896438/"
+        },
+        {
+          "name": "Tech Times: China rare earth index masks 16x dysprosium gap",
+          "url": "https://www.techtimes.com/articles/329761/20261030/china-rare-earth-index-masks-16x-dysprosium-gap-ahead-november-deadline.htm"
+        },
+        {
+          "name": "Fortune: Washington's rare earth pact with Australia",
+          "url": "https://fortune.com/2025/10/21/washington-rare-earth-pact-china-australia-8-billion-four-decades"
+        },
+        {
+          "name": "Lowy Institute: A new permanent contest with China over critical minerals",
+          "url": "https://www.lowyinstitute.org/the-interpreter/new-permanent-contest-china-over-critical-minerals-will-be-hard-win"
+        },
+        {
+          "name": "CFR: Dismantling China's supply-chain weapon",
+          "url": "https://www.cfr.org/reports/dismantling-chinas-supply-chain-weapon"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}
