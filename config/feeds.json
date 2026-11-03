@@ -1,0 +1,20 @@
+[
+  {"name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "lens": "world"},
+  {"name": "BBC Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "lens": "markets"},
+  {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "lens": "world"},
+  {"name": "The Guardian World", "url": "https://www.theguardian.com/world/rss", "lens": "world"},
+  {"name": "The Guardian Business", "url": "https://www.theguardian.com/uk/business/rss", "lens": "markets"},
+  {"name": "DW", "url": "https://rss.dw.com/rdf/rss-en-world", "lens": "world"},
+  {"name": "NPR World", "url": "https://feeds.npr.org/1004/rss.xml", "lens": "world"},
+  {"name": "CNBC World", "url": "https://www.cnbc.com/id/100727362/device/rss/rss.html", "lens": "markets"},
+  {"name": "Nikkei Asia", "url": "https://asia.nikkei.com/rss/feed/nar", "lens": "asia"},
+  {"name": "OilPrice", "url": "https://oilprice.com/rss/main", "lens": "energy"},
+  {"name": "ABC Australia", "url": "https://www.abc.net.au/news/feed/2942460/rss.xml", "lens": "australia"},
+  {"name": "Dhaka Tribune", "url": "https://www.dhakatribune.com/feed/", "lens": "bangladesh"},
+  {"name": "Prothom Alo English", "url": "https://en.prothomalo.com/feed/", "lens": "bangladesh"},
+  {"name": "The Daily Star (via Google News)", "url": "https://news.google.com/rss/search?q=site:thedailystar.net+when:2d&hl=en-US&gl=US&ceid=US:en", "lens": "bangladesh"},
+  {"name": "bdnews24 (via Google News)", "url": "https://news.google.com/rss/search?q=site:bdnews24.com+when:2d&hl=en-US&gl=US&ceid=US:en", "lens": "bangladesh"},
+  {"name": "Google News: Bangladesh politics", "url": "https://news.google.com/rss/search?q=Bangladesh+politics&hl=en-US&gl=US&ceid=US:en", "lens": "bangladesh"},
+  {"name": "Google News: Bangladesh economy", "url": "https://news.google.com/rss/search?q=Bangladesh+economy&hl=en-US&gl=US&ceid=US:en", "lens": "bangladesh"},
+  {"name": "Google News: geopolitics", "url": "https://news.google.com/rss/search?q=geopolitics&hl=en-US&gl=US&ceid=US:en", "lens": "world"}
+]

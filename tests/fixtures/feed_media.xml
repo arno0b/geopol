@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>Daily Star</title>
+<item><title>ঢাকায় নির্বাচন প্রস্তুতি</title><link>https://www.thedailystar.net/news/1</link>
+<description>Election preparations in Dhaka.</description>
+<media:content url="https://images.thedailystar.net/1.jpg" medium="image"/>
+<pubDate>Tue, 03 Nov 2026 19:00:00 GMT</pubDate></item>
+<item><title>Tankers reroute near Hormuz</title><link>https://other.example/hormuz</link>
+<description>Same story, other outlet.</description>
+<enclosure url="https://other.example/h.jpg" type="image/jpeg"/>
+<pubDate>Tue, 03 Nov 2026 19:30:00 GMT</pubDate></item>
+</channel></rss>
