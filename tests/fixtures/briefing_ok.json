@@ -1,0 +1,45 @@
+{
+  "run_id": "2026-11-04-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "middle-east",
+    "new_storyline_name": null,
+    "headline": "The Strait gets tense again",
+    "story": "Two tankers rerouted overnight after drone sightings near Hormuz.",
+    "so_what": "If shipping costs keep climbing, fuel prices follow within weeks.",
+    "last_time": null,
+    "money_angle": "Brent up 2%; tanker stocks up.",
+    "my_take": {"text": "Energy shippers look like the cleaner way to play this.", "reasoning": "Insurance and rerouting costs flow straight to day rates.", "confidence": "medium", "wrong_if": "A ceasefire holds for two weeks."},
+    "image": {"url": "https://img.example/hormuz.jpg", "credit": "BBC"},
+    "sources": [{"name": "BBC World", "url": "https://www.bbc.co.uk/news/world-1"}]
+  },
+  "cards": [
+    {
+      "storyline": "us-china",
+      "new_storyline_name": null,
+      "headline": "Chip talks stall",
+      "story": "US and China fail to agree on export rules.",
+      "so_what": "Supply chains keep shifting to India and Vietnam.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [{"name": "BBC World", "url": "https://www.bbc.co.uk/news/world-2"}]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Dhaka prepares for the vote",
+      "story": "Parties finalise candidate lists.",
+      "so_what": "The result sets the direction for garment exports and IMF talks.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [{"name": "Dhaka Tribune", "url": "https://www.dhakatribune.com/x"}]
+    }
+  ],
+  "watch": {"title": "OPEC meets Thursday", "text": "Any cut would land on top of the Hormuz premium."},
+  "takes_review": [],
+  "heat": {"middle-east": 8, "us-china": 5, "bangladesh-politics": 6}
+}
