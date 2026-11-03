@@ -1,7 +1,7 @@
 import pytest
 
 from tests.conftest import write
-from tools import validate_background
+from tools import validate_background as background_cli
 from tools.store import load_json
 from tools.validate_background import add_version, validate_background
 
@@ -66,7 +66,7 @@ def test_cli_invalid_writes_nothing(doc, root, capsys):
     doc["timeline"] = []
     path = root / "bg.json"
     write(path, doc)
-    assert validate_background.main([str(path), "--root", str(root)]) == 1
+    assert background_cli.main([str(path), "--root", str(root)]) == 1
     assert not (root / "data" / "background").exists()
     assert "timeline" in capsys.readouterr().out
 
@@ -74,5 +74,5 @@ def test_cli_invalid_writes_nothing(doc, root, capsys):
 def test_cli_ok(doc, root, capsys):
     path = root / "bg.json"
     write(path, doc)
-    assert validate_background.main([str(path), "--root", str(root), "--date", "2026-11-03"]) == 0
+    assert background_cli.main([str(path), "--root", str(root), "--date", "2026-11-03"]) == 0
     assert "ok bangladesh-politics v1" in capsys.readouterr().out
