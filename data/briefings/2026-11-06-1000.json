@@ -1,0 +1,192 @@
+{
+  "run_id": "2026-11-06-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "ai-tech-power",
+    "new_storyline_name": null,
+    "headline": "The AI trade cracks: Nasdaq has its worst day in 18 months",
+    "story": "The Nasdaq fell 5.5% on Thursday and slid into correction territory, more than 10% below its record. Nearly $2tn of value vanished. Investors now expect a Democratic Congress to push tougher rules on AI data centres, and fear an AI slowdown. The S&P 500 is down about 4% since the last run.",
+    "so_what": "Until now the election was priced as good for markets. This is the first sign of who loses under divided government: the AI build-out that has carried the market all year.",
+    "last_time": {
+      "run_id": "2026-11-05-1000",
+      "text": "Two runs ago stocks cheered a checked Trump and the S&P 500 sat near 7,689. The mood has flipped: it is now 7,354."
+    },
+    "money_angle": "S&P 500 7,354 (from 7,689). Nikkei 61,078 and ASX 200 9,065 were recorded before the US fall, so Asia has more to catch up on at the open. Bitcoin $75,780.",
+    "my_take": {
+      "text": "Don't buy the AI dip in one go. If you want exposure, add small pieces over a few weeks and keep some cash back.",
+      "reasoning": "One 5.5% day is a repricing of rules and spending that nobody can measure yet. Congress can hold hearings and fight over budgets, but Trump still holds the veto, so actual law is slow. That makes the headline risk bigger than the real near-term change, and the first drop is rarely the last move when the story is still unclear.",
+      "confidence": "low",
+      "wrong_if": "The Nasdaq recovers its losses within about a week with no new policy news. That would mean this was a panic, and waiting cost you the rebound.",
+      "id": "2026-11-06-1000-1",
+      "prices_at": {
+        "brent": {
+          "label": "Brent oil ($/bbl)",
+          "value": 99.25,
+          "as_of": "2026-11-05T21:59:52+00:00"
+        },
+        "wti": {
+          "label": "WTI oil ($/bbl)",
+          "value": 91.2,
+          "as_of": "2026-11-05T21:59:59+00:00"
+        },
+        "gold": {
+          "label": "Gold ($/oz)",
+          "value": 4097.9,
+          "as_of": "2026-11-05T21:59:59+00:00"
+        },
+        "audusd": {
+          "label": "AUD/USD",
+          "value": 0.6934,
+          "as_of": "2026-11-05T22:37:25+00:00"
+        },
+        "dxy": {
+          "label": "US dollar index",
+          "value": 101.59,
+          "as_of": "2026-11-05T22:28:14+00:00"
+        },
+        "spx": {
+          "label": "S&P 500",
+          "value": 7353.73,
+          "as_of": "2026-11-05T21:34:08+00:00"
+        },
+        "asx200": {
+          "label": "ASX 200",
+          "value": 9065.1,
+          "as_of": "2026-11-05T06:08:45+00:00"
+        },
+        "nikkei": {
+          "label": "Nikkei 225",
+          "value": 61077.9,
+          "as_of": "2026-11-05T06:45:03+00:00"
+        },
+        "btc": {
+          "label": "Bitcoin ($)",
+          "value": 75780.17,
+          "as_of": "2026-11-05T22:38:16+00:00"
+        }
+      }
+    },
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/3a568c8ddd6dd680b69418b3c568815a7cbbea29/261_0_3478_2784/master/3478.jpg?width=140&quality=85&auto=format&fit=max&s=06500e89cb38f5ecdd58baa634d2acb4",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "oil-energy",
+      "new_storyline_name": null,
+      "headline": "Oil climbs back toward $100 as the war-is-ending bet fades",
+      "story": "Brent bounced to about $99 after Wednesday's 9% crash, as traders doubted that the US election result would quickly end the Iran war. Iran says five tankers and a tugboat have caught fire in Hormuz. Separately, Tehran's parliament says China, India and other partners will be exempt from its Hormuz transit limits, while the US blockade of Iranian ports continues.",
+      "so_what": "Iran is trying to split buyers from Washington by letting friendly customers through. Oil is trading on every headline about a deal.",
+      "last_time": {
+        "run_id": "2026-11-06-0000",
+        "text": "Last run Brent was $96.83 and more tankers were burning. It has added about $2.4 since."
+      },
+      "money_angle": "Brent $99.25, WTI $91.20. Gold $4,098, down from $4,134.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rebound-Sharply-After-Brutal-Midweek-Rout.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Energy/Energy-General/Iran-Opens-Strait-of-Hormuz-to-China-and-India-as-US-Blockade-Continues.html"
+        }
+      ]
+    },
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Hoax bomb threats hit 25 more European flights",
+      "story": "Hoax bomb threats disrupted at least 25 flights on Thursday, some forced into emergency landings, across countries from Ireland and the UK to Poland, Romania and Greece. More than 30 flights have now been hit this week. No one has claimed it, but the pattern looks coordinated and the UK calls it a malicious hoax.",
+      "so_what": "It is cheap, deniable disruption. Europe is asking whether this is hybrid warfare, which is a familiar Russian tactic, though nothing is proven yet.",
+      "last_time": {
+        "run_id": "2026-11-06-0000",
+        "text": "Last run the story was drone strikes on post offices and refineries. This one is aimed at European civilians instead of Ukrainian ones."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/8be530b5c237fee6a55ec439ba8a4e0c218f7f83/663_0_4160_3328/master/4160.jpg?width=140&quality=85&auto=format&fit=max&s=1a63489bf12b9e911ce58e10795eba5f",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Garment unrest eases, but Bangladesh's money is getting thinner",
+      "story": "Factories are running again after eight days of unrest, though sporadic protests shut about 70 in Ashulia and border guards remain deployed. The NYT reports Dhaka will raise the garment minimum wage. At the same time, forex reserves fell below $30bn after $1.64bn of regional import payments, foreign debt rose 8.6% to $113.4bn, and private credit growth hit a record low.",
+      "so_what": "A wage rise will lift costs for exporters just as reserves shrink and lending dries up. The unrest ending is good news, but the bill for it is still to come.",
+      "last_time": {
+        "run_id": "2026-11-06-0000",
+        "text": "Last run factories were restarting and the PM promised new wages within two months. Now the reserve and credit numbers show how little room there is to pay for it."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/423838/garment-unrest-eases-after-eight-days-as-workers-return-to-factories"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/business/economy/423832/world-bank-bangladesh%E2%80%99s-external-debt-rises-to"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Nasdaq follow-through",
+    "text": "Watch whether Asia's open drags further after the 5.5% Nasdaq fall, and whether Brent stays near $99 while Hormuz incidents continue."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-05-0000-1",
+      "verdict": "open",
+      "text": "I said not to chase the post-election 'blue trade' and to wait for a pullback. The wider market has pulled back hard, with the S&P 500 at 7,354, but I still don't track renewables prices here, so I can't say if renewables fell too. It stays open."
+    }
+  ],
+  "heat": {
+    "ai-tech-power": 8,
+    "oil-energy": 8,
+    "russia-ukraine": 6,
+    "bangladesh-economy": 7,
+    "middle-east": 7,
+    "us-midterms": 5,
+    "fed-rates-dollar": 5,
+    "bangladesh-politics": 5,
+    "us-china": 3,
+    "taiwan": 2
+  }
+}
