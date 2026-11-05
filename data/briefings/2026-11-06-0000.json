@@ -1,0 +1,135 @@
+{
+  "run_id": "2026-11-06-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "oil-energy",
+    "new_storyline_name": null,
+    "headline": "Oil bounces as more tankers burn in Hormuz",
+    "story": "Iran's Revolutionary Guard says two oil tankers and a tugboat caught fire in the Strait of Hormuz, and one tanker hit a naval mine. Tehran blames ships using routes it has not approved. South Korea now wants its anti-piracy unit to patrol closer to the strait, after pressure from Trump. Brent is back at about $96.8 after Wednesday's 9% fall.",
+    "so_what": "The market is betting on a deal, but the strait is still dangerous and mines are still going off. More allies joining naval patrols can help, but it also pulls them closer to the war.",
+    "last_time": {
+      "run_id": "2026-11-05-1000",
+      "text": "Last run Brent had crashed to $94.6 on hopes Washington wants out of the Iran war. It has since bounced about $2 as the Hormuz incidents continue."
+    },
+    "money_angle": "Brent $96.83 (up from $94.63), WTI $89.49. Gold $4,134.",
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/93931aed9b2c9de66c5e7d47a1df4c3d0c323131/535_0_1928_1542/master/1928.jpg?width=140&quality=85&auto=format&fit=max&s=b8afb3a4798ee0b6949ac7c1dfdf9107",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Reports-More-Tanker-Fires-in-Strait-of-Hormuz.html"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Continue-to-Fall-as-Democratic-Sweep-Shakes-Energy-Markets"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "fed-rates-dollar",
+      "new_storyline_name": null,
+      "headline": "Bank of England hikes to 4% as the Iran war feeds inflation",
+      "story": "The Bank of England raised its rate from 3.75% to 4%, its first rise in over three years, and warned another is coming. It expects inflation to approach 5% by mid-2027, driven by war-fuelled energy costs. The pound hit its highest level since the 2016 Brexit vote.",
+      "so_what": "Energy shocks are forcing central banks to choose between prices and growth. A weaker dollar after the US vote is lifting other currencies too.",
+      "last_time": {
+        "run_id": "2026-11-04-0000",
+        "text": "Two runs ago the RBA hiked for the fifth time this year. Britain has now joined the tightening club."
+      },
+      "money_angle": "US dollar index 101.6. AUD/USD 0.7002.",
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/d6ebd9b4d868a9da787c0f6b207548c78ad7ab28/586_197_4797_3840/master/4797.jpg?width=140&quality=85&auto=format&fit=max&s=6b8dbc64af07e342604bb536b83ddf1b",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-thre"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/05/pound-hits-highest-level-since-2016-brexit-vote"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Garment factories restart, but Dhaka turns to crackdown and a promise",
+      "story": "Production has resumed at almost all garment factories in Gazipur, and reports say most workers are back. Prime Minister Tarique promised new garment wages within two months. At the same time, the tax authority ordered banks to freeze accounts of about 100 people it suspects of instigating the unrest, and asked for records on 125 more entities.",
+      "so_what": "A wage date calms the floor for now, but freezing accounts treats the unrest as a plot. Workers who see it that way may return to the streets if the promise slips.",
+      "last_time": {
+        "run_id": "2026-11-05-1000",
+        "text": "Last run protests and a gas shortage had shut about 200 factories. Most have now restarted, and the government has put a two-month clock on wages."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/business/423805/nbr-orders-bank-account-freezing-of-100-suspected"
+        },
+        {
+          "name": "bdnews24",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zTWxhYkZ2aXdXVkpMZkl0VjRqSndjb1lSNHU4QTZCZEwtRHF0NTFFUUVOb0RMdVNiX2J"
+        }
+      ]
+    },
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Drone war moves to post offices and refineries",
+      "story": "Russia says it hit a Ukrainian postal hub and a ship overnight, while Ukraine struck the Ryazan area. Both sides report injuries. The strikes target logistics and energy, not front lines.",
+      "so_what": "Each side is trying to squeeze the other's supply lines while talks stall. With Trump weaker at home, neither has a reason to blink first.",
+      "last_time": {
+        "run_id": "2026-11-05-1000",
+        "text": "Last run the Komyshuvakha school strike toll reached 40. The fighting has since shifted to logistics and energy targets."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan"
+        }
+      ]
+    }
+  ],
+  "takes_review": [
+    {
+      "take_id": "2026-11-05-0000-1",
+      "verdict": "open",
+      "text": "I said wait for a pullback in renewables rather than chase the gap. I still don't track renewables prices here, and the S&P 500 is unchanged at 7,689 since the last run, so it is too early to call."
+    }
+  ],
+  "heat": {
+    "oil-energy": 8,
+    "middle-east": 8,
+    "fed-rates-dollar": 6,
+    "bangladesh-economy": 7,
+    "russia-ukraine": 6,
+    "us-midterms": 6,
+    "bangladesh-politics": 5,
+    "us-china": 3,
+    "ai-tech-power": 3,
+    "taiwan": 2
+  },
+  "watch": {
+    "title": "Hormuz and Dhaka's wage clock",
+    "text": "Watch whether more ships are hit in Hormuz while Brent holds near $97, and whether Bangladesh names a wage figure before its two-month deadline."
+  }
+}
