@@ -1,0 +1,130 @@
+{
+  "run_id": "2026-11-07-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "us-midterms",
+    "new_storyline_name": null,
+    "headline": "Trump answers a midterm loss by promoting Stephen Miller",
+    "story": "Days after Republicans lost both the House and the Senate, Trump named Stephen Miller as White House chief of staff. Miller is the architect of the immigration crackdown. He replaces Susie Wiles, the first woman to hold the job, who was ousted. Chuck Schumer said it shows Trump 'learned nothing from his historic defeat'.",
+    "so_what": "This is a signal of doubling down, not softening. Expect a harder line on immigration and a more combative fight with the new Democratic Congress, which has promised investigations.",
+    "last_time": {
+      "run_id": "2026-11-06-1000",
+      "text": "Earlier this week the story was the Democratic win and what it means for tech and the AI trade. Now the question is how the White House responds, and the first answer is a hardliner in charge."
+    },
+    "money_angle": null,
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/52d5fedf0fefd80dc9f1af8b5afda07122a03309/884_0_4420_3536/master/4420.jpg?width=140&quality=85&auto=format&fit=max&s=7dc71eba919edf74946965211237db2e",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "paraguay-bank-crisis",
+      "new_storyline_name": "Paraguay bank crisis",
+      "headline": "Paraguay's president quits after a bank collapse freezes savings",
+      "story": "President Santiago Peña resigned on Thursday after Ueno Bank collapsed. The digital bank had grown from obscure to one of the country's biggest lenders, claiming about 60% of Paraguay's adults as customers. Lawmakers then voted to impeach him minutes after he resigned, and impeachment proceedings have resumed.",
+      "so_what": "A government that let one bank grow too fast is now facing a political and financial crisis at once. Watch for how savers get their money back and who takes over.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12e6/live/3ccd15c0-d93a-11f1-95ea-8df9a040b6bf.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+        },
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse"
+        }
+      ]
+    },
+    {
+      "storyline": "oil-energy",
+      "new_storyline_name": null,
+      "headline": "Oil is pricing in peace, but one forecaster sees a strike first",
+      "story": "Brent fell about 15% this week on hopes of a US–Iran deal, even as attacks in the Strait of Hormuz continued. The consultancy FGE NexantECA says a deal is unlikely and that the next two months carry the highest risk of escalation, including a chance of a US or Israeli strike on Iran. Vice President Vance blamed the war for the midterm loss, but Trump says he would make the same decision again.",
+      "so_what": "The market has already taken out much of the war premium. If talks stall or a strike comes, the move back up could be quick.",
+      "last_time": {
+        "run_id": "2026-11-07-0000",
+        "text": "Last run Brent was $98.25. It is now $97.76, so the week ends with the big drop intact."
+      },
+      "money_angle": "Brent is $97.76 and WTI $90.34, after a roughly 15% weekly slide in Brent.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/FGE-NexantECA-Sees-Slim-Chance-of-US-Iran-Deal.html"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Geopolitics/Middle-East/Trumps-Iran-Strategy-Reaches-a-Critical-Crossroads-After-Midterm-Defeat.html"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Bangladesh's fuel bill doubles as it courts China",
+      "story": "Bangladesh's trade deficit widened 31% as its fuel import bill doubled, according to the Daily Star. In the same days, Chinese state firm CRCC said it will invest in infrastructure and industry, and Dhaka and Beijing signed a cooperation MoU. Meanwhile the garment wage dispute is still raw: the government and its allies are calling the unrest a political plot.",
+      "so_what": "Expensive oil is squeezing a budget that still has to find money for higher garment wages. New Chinese money helps, but it adds to Bangladesh's balancing act between big powers.",
+      "last_time": {
+        "run_id": "2026-11-07-0000",
+        "text": "Last run the story was Dhaka's hard line on Awami League. The economy side is now the pressure point, with the fuel bill and the wage clock both ticking."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "The Daily Star (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeWlBTnQ4WVZjTzJCZDJGVzgtczE5WmpfMllmS2hBUGxzNHNNWmUtbjNOSmJQbERzLUNmSUJFREJONUdYMldwR0E5QjAtcHFYd2lnTUxxd3YydkNYaXV0QnNGQWdKa2d0LWtDdTBHeFJnVlkxTDFUbTllSnhySDJaMVl4TTRGUVdTXzJWYko2Y3p0YjBOc29ZT0ZaSGtfTU5DRHdXYTY4cFhQTEk?oc=5"
+        },
+        {
+          "name": "The Daily Star (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWWJwa0E1SXVTMlFzM25ZUmdxejdZVFR2Rlo1cWFqZ0t2WEptVXBpYTNyNUpMaW01bHBSMnFJUF9YQmZMbld6V1oxWHRpcWUwUE4wVVFRckRxV3psaHlBMlJzeWVPSkxCT21uYm9QdzFVVk9tdkg5aGFlRHh2dHF0ay1mWnhUUVR5LW5waEdMQ0E0VmVXdUo5cm1ZbkM1M0p6SnBWZ3JSVVpkaXZiTi1kWmNsOF83cVYzT29vd1FENTFUWFFuZnJ0Qkw0Tm1VUQ?oc=5"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Paraguay's next move",
+    "text": "Who takes over in Asuncion and whether savers at Ueno Bank get access to their money, plus whether any Iran talks start before the Hormuz risk window closes."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-06-1000-1",
+      "verdict": "open",
+      "text": "I said not to buy the AI dip in one go. Since then the S&P 500 is about flat (7,377 from 7,354) while the Nikkei is down about 6% (57,435 from 61,078), and Democrats are renewing calls for datacenter pauses. So far it supports waiting, but it is still too early to call."
+    }
+  ],
+  "heat": {
+    "us-midterms": 6,
+    "paraguay-bank-crisis": 6,
+    "oil-energy": 7,
+    "middle-east": 7,
+    "bangladesh-economy": 6,
+    "ai-tech-power": 7,
+    "bangladesh-politics": 5,
+    "russia-ukraine": 6
+  }
+}

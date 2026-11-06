@@ -1,0 +1,55 @@
+{
+  "slug": "paraguay-bank-crisis",
+  "versions": [
+    {
+      "date": "2026-11-07",
+      "how_we_got_here": "Ueno Bank was an obscure digital bank until a few years ago. Under President Santiago Peña's rightwing government it was authorised to expand its operations drastically, and it grew into one of Paraguay's largest lenders, claiming about 60% of the adult population as customers.\n\nIn early November 2026 the bank collapsed and millions of people's savings were frozen. Paraguay has had banking crises before, and Al Jazeera describes Ueno as only the latest.",
+      "players": [
+        {
+          "name": "Santiago Peña",
+          "wants": "Survive politically. He resigned on 5 November but was impeached minutes later."
+        },
+        {
+          "name": "Paraguay's Congress",
+          "wants": "Hold the government to account for letting Ueno grow, and decide who leads next."
+        },
+        {
+          "name": "Ueno Bank savers",
+          "wants": "Access to their money. Roughly half the population is reported to be locked out of accounts."
+        }
+      ],
+      "stakes": "Trust in the banking system and the state that oversees it. If savings stay frozen for long, the damage spreads to spending, small business and the government's finances. There is also a political question: how close was the bank to the government that licensed its growth.",
+      "current_state": "President Peña has resigned and been impeached, and impeachment proceedings have resumed as the financial crisis deepens. The detail of who now leads the country and how savers will be repaid was not clear in the sources we have so far.",
+      "watch_next": "Who takes over as president, whether depositors are paid back and how fast, any criminal cases over how Ueno was allowed to grow, and whether other Paraguayan banks come under strain.",
+      "timeline": [
+        {
+          "date": "2026-11-03",
+          "event": "Ueno Bank's collapse leaves millions of savings frozen (approximate; reports describe the crisis building over recent days)."
+        },
+        {
+          "date": "2026-11-05",
+          "event": "Peña resigns; lawmakers vote to impeach him minutes later."
+        },
+        {
+          "date": "2026-11-06",
+          "event": "Impeachment proceedings resume as the financial crisis deepens."
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+        },
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}
