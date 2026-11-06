@@ -1,0 +1,172 @@
+{
+  "run_id": "2026-11-07-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "ai-tech-power",
+    "new_storyline_name": null,
+    "headline": "The AI sell-off crosses the Pacific: Nikkei drops 6%",
+    "story": "Asia caught the Wall Street fall on Friday. Japan's Nikkei dropped about 6% to 57,435 and the ASX 200 slipped half a percent to 9,021. The fear is the same as in New York: a Democratic Congress could slow data-centre building and tighten AI rules. Even so, the Nasdaq is still up 4.6% for the year.",
+    "so_what": "A US policy worry has become a global tech sell-off in a day. Japan's index is heavy with chip and AI supply-chain firms, so it falls hardest. Australia, with fewer tech names, falls much less.",
+    "last_time": {
+      "run_id": "2026-11-06-1000",
+      "text": "Last run the Nasdaq had its worst day in 18 months and I said Asia had more to catch up on. It did: the Nikkei is down from 61,078 to 57,435."
+    },
+    "money_angle": "Nikkei 57,435 (from 61,078), ASX 200 9,021 (from 9,065), Bitcoin $76,101. The S&P 500 figure is still Thursday's close of 7,354, so Friday's US session is not yet counted.",
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/d02c71f8ac66f5a933ce9e066d4f0fc73a05d3a5/282_0_3436_2750/master/3436.jpg?width=140&quality=85&auto=format&fit=max&s=53290422c3f4fcd63d98da31547a524d",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading?traffic_source=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Israel's election fight turns on the security service",
+      "story": "A majority of Israeli lawmakers have backed Gadi Eisenkot over Netanyahu, and President Herzog will name a candidate to form a government on Sunday. Netanyahu's bloc lost the vote, yet the Shin Bet chief he appointed is seeking to question four Arab party leaders over alleged foreign funding, with no evidence shown. In Lebanon, people are packing bags and stocking up for a possible third Israeli escalation.",
+      "so_what": "If Netanyahu loses power the Iran and Lebanon calculations change. But he is using the state's tools to contest the result, so Sunday may not settle it.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Energy/Energy-General/Israels-Election-Dispute-Escalates-Amid-Claims-of-Foreign-Interference.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "oil-energy",
+      "new_storyline_name": null,
+      "headline": "Oil's week ends with a big loss as Hormuz flows recover",
+      "story": "WTI fell about 11% this week, from a $102 high to a low near $87, and Brent is $98.25. Traders took out part of the war premium after the US midterms raised hopes of de-escalation with Iran. Crude flows through Hormuz are close to pre-war levels, but India's HPCL says it still struggles to find tankers because owners refuse last-minute voyages. Satellite images also show digging near Iranian missile bases.",
+      "so_what": "Oil is cheaper on hope, not on safe shipping. The physical market is still tight at the ship level, and Iran is rebuilding.",
+      "last_time": {
+        "run_id": "2026-11-06-1000",
+        "text": "Last run Brent was $99.25. It is now $98.25, and gold is $4,079 (from $4,098)."
+      },
+      "money_angle": "Brent $98.25, WTI $90.62, gold $4,079, AUD/USD 0.688 (from 0.693) as the dollar index rose to 102.0.",
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5589/live/461d3e00-d879-11f1-b441-2b33b063138f.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Plunge-as-US-Elections-Shake-Up-the-Iran-War.html"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-HPCL-Struggles-to-Secure-Oil-Tankers-as-Hormuz-Risks-Persist.html"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Ukraine peace talks set for Abu Dhabi next week",
+      "story": "US-mediated talks are scheduled in Abu Dhabi next week. Trump predicts a major Russia deal that involves all of Europe, while NATO says it wants a 'just' end. Melania Trump hosted Russian and Ukrainian officials and was credited by both sides with a role in the ceasefire. Separately, a Russian rocket-launcher deal with Iran shows Moscow's ties with Tehran deepening.",
+      "so_what": "A ceasefire is being turned into talks, but 'just' means different things to Kyiv, Moscow and Washington. Europe is worried about a deal made over its head.",
+      "last_time": {
+        "run_id": "2026-11-06-1000",
+        "text": "Last run the story was hoax bomb threats on European flights. This run the focus moves from hybrid pressure to diplomacy."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b7/live/4ad22690-d955-11f1-b7f4-8bd3c0617693.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/world/europe/423870/nato-seeks-%E2%80%98just%E2%80%99-end-to-ukraine-war-as-trump"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Dhaka's government turns the 'no return' line on Awami League",
+      "story": "On the Nov 7 anniversary, PM Tarique Rahman called for unity to defend sovereignty and democratic rights. Ministers said people will not let the Awami League back into politics, and one blamed 'fascist forces' for the garment unrest. At the same time, 'Joy Bangla' and the names of four national leaders were removed from Coast Guard ships, and a July Uprising memorial in Chandpur was burned.",
+      "so_what": "The government is rewriting national symbols and blaming the old party for unrest. That raises the temperature, and the next garment-wage fight could be framed as political.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/423879/pm-nov-7-spirit-should-guide-building-future"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/423874/salahuddin-people-won%E2%80%99t-allow-al-to-engage-in"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/423873/%E2%80%98joy-bangla%E2%80%99-names-of-4-national-leaders-dropped"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Herzog's Sunday pick",
+    "text": "Whether Herzog names Eisenkot on Sunday, and whether the Abu Dhabi Ukraine talks start on schedule; both could move oil and risk appetite."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-06-1000-1",
+      "verdict": "open",
+      "text": "I said not to buy the AI dip in one go. So far it looks right: the Nikkei fell another 6% and the Nasdaq has not recovered. But the Nasdaq is still up 4.6% for the year and it is too early to call. It stays open."
+    }
+  ],
+  "heat": {
+    "ai-tech-power": 8,
+    "oil-energy": 7,
+    "middle-east": 7,
+    "russia-ukraine": 6,
+    "bangladesh-politics": 6,
+    "bangladesh-economy": 6,
+    "us-midterms": 4,
+    "fed-rates-dollar": 5,
+    "us-china": 3,
+    "taiwan": 2
+  }
+}
