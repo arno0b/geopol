@@ -90,6 +90,100 @@
         }
       ],
       "change_note": null
+    },
+    {
+      "date": "2026-11-08",
+      "how_we_got_here": "For years the region ran on a tense standoff. Iran built a ring of allies (Hezbollah in Lebanon, the Houthis in Yemen, militias in Iraq and Syria) and edged its nuclear programme closer to weapons-grade. Israel and the US tried to contain it with sanctions, sabotage and occasional strikes. The 7 October 2023 Hamas attack and the Gaza war that followed broke that standoff open: Israel badly weakened Hamas and Hezbollah, and in June 2025 struck Iran's nuclear sites directly.\n\nNuclear talks stalled while the US built up forces in the Gulf. On **28 February 2026** the US and Israel launched hundreds of strikes on Iran and killed Supreme Leader **Ali Khamenei**. His son **Mojtaba Khamenei** succeeded him. Iran fired missiles at Israel, US bases and Gulf states, and **closed the Strait of Hormuz**, causing the biggest oil-supply disruption in history.\n\nSince then the war has swung between fighting and talks: a two-week ceasefire in April, failed talks in Islamabad, a US naval blockade, a June memorandum signed by both presidents, and a collapse in July when Iran hit ships in the strait. Israel occupied southern Lebanon. In September the Houthis reopened a second front at the Bab al-Mandab and later attacked Saudi airports.",
+      "players": [
+        {
+          "name": "United States (Trump; Vance leads talks)",
+          "wants": "An Iran that can never build a bomb and an open Hormuz, ideally a 'deal' to claim. Midterm politics shape the timing."
+        },
+        {
+          "name": "Iran (Supreme Leader Mojtaba Khamenei, President Pezeshkian)",
+          "wants": "Regime survival, an end to strikes, sanctions relief, and a deal that includes Lebanon. Hormuz is its main bargaining chip."
+        },
+        {
+          "name": "Israel",
+          "wants": "Iran's nuclear and missile capability destroyed and Hezbollah pushed back. It is in political deadlock after an inconclusive election."
+        },
+        {
+          "name": "Saudi Arabia, UAE, Qatar and Gulf states",
+          "wants": "The war to end. They have been hit by Iranian strikes and Houthi attacks, but are earning record oil revenue. Qatar is the main mediator."
+        },
+        {
+          "name": "Houthis and Hezbollah",
+          "wants": "To keep pressure on Israel, the US and Gulf states as Iran's surviving partners."
+        },
+        {
+          "name": "China, India, Japan and Korea",
+          "wants": "Oil flowing. Most of the crude that passes through Hormuz goes to Asia."
+        }
+      ],
+      "stakes": "About a fifth of the world's seaborne oil and LNG normally passes through Hormuz. Its closure sent **Brent above $100 on 8 March and up to about $126**, and it is still around $105. That flows into petrol prices, airfares, food prices and inflation everywhere. It is a big reason the Fed and the RBA are raising rates again (the RBA moved to 4.85% on 3 November).\n\n**Money angle:** energy producers, LNG exporters (including Australia's), tanker companies and defence firms have gained. Airlines, energy-importing emerging markets (India, Bangladesh, Pakistan, the Philippines) and Europe's industry have lost. A real peace deal would knock oil sharply lower; another collapse could spike it again.",
+      "current_state": "As of 3 November 2026 the war is in a \"talks and strikes\" phase.\n\n- **Talks:** Qatar is mediating indirect talks on a draft US–Iran deal. Mojtaba Khamenei has reportedly given the government room to negotiate, and Iran says Hormuz could reopen within two days of a deal. Vance says he is optimistic.\n- **Strikes:** on 2–3 November the US hit Qeshm Island, its first strike there since June, after Iran shot down a US drone. Ships are still being attacked inside the Gulf.\n- **Oil:** Brent fell more than 7% on 2 November on peace hopes, then bounced to about $105.\n- **Other fronts:** Israel occupies southern Lebanon, where a power crisis is deepening. The Houthis are active at the Bab al-Mandab and have hit Saudi targets, forcing the 2027 Asian Cup in Saudi Arabia to be postponed.\n- **US midterms (3 November)** are widely seen as the trigger for Trump's next move.\n\n**Update, 8 November:** Israel's president has tasked opposition leader Gadi Eisenkot, not Netanyahu, with forming a government (28 days, 61 seats needed). The Houthis say a Saudi strike killed at least 25 in Yemen, and the US offered a $20m reward for information on Iran's nuclear programme. Brent is about $98.",
+      "watch_next": "- **Is a US–Iran deal signed after the midterms?** Watch Qatari shuttle diplomacy and any timetable to reopen Hormuz.\n- **Hormuz flows:** tanker traffic is about 80% of pre-war levels. A return to 100% is the clearest sign of peace.\n- **Strikes on nuclear sites** (for example Pickaxe Mountain) would signal escalation.\n- **The Houthis and the Bab al-Mandab**, the second chokepoint for Red Sea and Suez traffic.\n- **Israel's coalition deadlock** and Lebanon.",
+      "timeline": [
+        {
+          "date": "2023-10-07",
+          "event": "Hamas attacks Israel; the Gaza war begins."
+        },
+        {
+          "date": "2025-06-13",
+          "event": "Israel (later joined by the US) strikes Iran's nuclear sites; a 12-day war."
+        },
+        {
+          "date": "2026-02-28",
+          "event": "US and Israel strike Iran and kill Ali Khamenei; Iran closes Hormuz."
+        },
+        {
+          "date": "2026-03-08",
+          "event": "Brent tops $100 for the first time in four years."
+        },
+        {
+          "date": "2026-04-13",
+          "event": "Islamabad talks fail; the US imposes a naval blockade on Iran."
+        },
+        {
+          "date": "2026-06-17",
+          "event": "US and Iranian presidents sign a memorandum to end the war."
+        },
+        {
+          "date": "2026-07-08",
+          "event": "Truce collapses after Iran attacks ships in Hormuz."
+        },
+        {
+          "date": "2026-11-03",
+          "event": "US strikes Qeshm Island as Qatar mediates a draft deal."
+        },
+        {
+          "date": "2026-11-07",
+          "event": "Israel's president picks Eisenkot over Netanyahu to try to form a government."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Wikipedia: 2026 Iran war",
+          "url": "https://en.wikipedia.org/wiki/2026_Iran_war"
+        },
+        {
+          "name": "Wikipedia: 2026 Strait of Hormuz crisis",
+          "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
+        },
+        {
+          "name": "Al Jazeera: US hits Qeshm Island, Pezeshkian signals more diplomacy",
+          "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest"
+        },
+        {
+          "name": "The Guardian: US strikes Qeshm Island as Vance voices optimism",
+          "url": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island"
+        },
+        {
+          "name": "Crisis Group: Strait of Hormuz flashpoint",
+          "url": "https://www.crisisgroup.org/trigger-list/iran-usisrael-trigger-list/flashpoints/strait-hormuz"
+        }
+      ],
+      "change_note": "Israel's president tasked Eisenkot, not Netanyahu, with forming a government; Saudi-Houthi strikes and a US reward on Iran's nuclear programme."
     }
   ]
 }

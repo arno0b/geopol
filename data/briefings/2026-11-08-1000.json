@@ -1,0 +1,157 @@
+{
+  "run_id": "2026-11-08-1000",
+  "kind": "full",
+  "story_of_day": {
+    "new_storyline_name": null,
+    "last_time": null,
+    "money_angle": null,
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/270_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=6659afeee8f4fc9bd6e2837c740eb609",
+      "credit": "The Guardian"
+    },
+    "storyline": "middle-east",
+    "headline": "Israel's president passes over Netanyahu",
+    "story": "After a deadlocked election last month, President Isaac Herzog gave Gadi Eisenkot, leader of the Yashar party and Netanyahu's strongest rival, the job of forming the next government. Eisenkot has 28 days to find 61 Knesset seats. Neither man won a majority, but the main parties recommended Eisenkot.",
+    "so_what": "Netanyahu has lost the first move for the first time in years. Eisenkot still needs a working coalition, so this is an opening, not a done deal. Any new government would also shape how Israel handles Iran talks and southern Lebanon.",
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "new_storyline_name": "Kraków attack",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/44d89feb8fd3d623f15ee900fa818b7ea8bacb9e/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6b1112e07502aff450bcdb9a2908dda9",
+        "credit": "The Guardian"
+      },
+      "storyline": "krakow-attack",
+      "headline": "Gunman kills six in Kraków's main square",
+      "story": "A 25-year-old Polish citizen opened fire with an automatic weapon in Kraków's market square on Saturday afternoon. Six people were killed and 16 wounded, and three more bodies were found at his home. Poland's interior minister said he held far-right, ultra-nationalist views, and the defence minister called it an act of terror. PM Donald Tusk is travelling to the city.",
+      "so_what": "A homegrown far-right attack in a NATO country on the Ukraine border. Expect a fast political fight in Poland over security, guns and extremism.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "new_storyline_name": "France cost-of-living unrest",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "storyline": "france-cost-of-living-unrest",
+      "headline": "France erupts over the cost of living",
+      "story": "More than 140,000 people rallied across France on Saturday against rising costs. Police fired tear gas in Paris and Lyon, and arrests were made as Yellow Vest groups defied a ban on their Paris rally. The interior minister said authorities were 'ready and waiting' for rioters and looters.",
+      "so_what": "Fuel and living costs from the Iran war are feeding street anger in a country already headed to a presidential race. Hard-left and hard-right candidates gain when prices bite.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "new_storyline_name": null,
+      "last_time": {
+        "run_id": "2026-11-07-1000",
+        "text": "Last run Brent was $97.76 and a forecaster saw a strike risk over the next two months. It is now $98.32, and the US reward offer fits that warning."
+      },
+      "money_angle": "Brent closed the week at $98.32 and WTI $90.83.",
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
+        "credit": "BBC"
+      },
+      "storyline": "oil-energy",
+      "headline": "Saudi strikes hit Yemen while the US puts a price on Iran's secrets",
+      "story": "The Houthis say at least 25 people were killed in a Saudi air strike in Yemen; Saudi Arabia has not commented. Separately, the US offered a $20m reward for information on Iran's nuclear programme, and the BBC notes Trump has repeatedly raised renewed strikes on Iranian nuclear sites.",
+      "so_what": "Both moves point toward more pressure, not a quick deal. The Houthi front on the Red Sea route is heating up again just as oil traders were betting on peace.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "new_storyline_name": null,
+      "last_time": {
+        "run_id": "2026-11-07-1000",
+        "text": "Last time the pressure point was the economy and the garment wage dispute. That dispute is now being framed by the government as political."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "storyline": "bangladesh-politics",
+      "headline": "BNP turns November 7 into a show of state power",
+      "story": "PM Tarique Rahman led a roughly six-kilometre procession in Dhaka, the BNP's first rally since his return and the first November 7 observed with state programmes under a BNP government. He warned of threats to democracy and sovereignty. Elsewhere the day turned violent: a municipal worker was killed at a Nov 7 event in Kurigram, and Daily Star reports the BNP's Salahuddin calling the garment unrest a planned political conspiracy.",
+      "so_what": "The BNP is now writing the national story its own way, while street violence and the garment dispute show how thin the calm is.",
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/423983/%E2%80%98bangladesh-comes-first%E2%80%99-pm-leads-thousands-in"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/423966/tarique-walks-6km-in-first-bnp-rally-since-return"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/crime/423976/kurigram-municipal-worker-killed-in-front-of-wife"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Eisenkot's 28 days",
+    "text": "Whether Eisenkot can reach 61 seats, and whether France's protests grow or fade."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-06-1000-1",
+      "verdict": "open",
+      "text": "Still no call on 'don't buy the AI dip in one go'. The S&P 500 is flat since (7,377 vs 7,354) and the Nikkei is down about 6% (57,435 vs 61,078). Waiting has cost nothing so far."
+    }
+  ],
+  "heat": {
+    "middle-east": 8,
+    "krakow-attack": 6,
+    "france-cost-of-living-unrest": 6,
+    "oil-energy": 7,
+    "bangladesh-politics": 6,
+    "russia-ukraine": 6,
+    "bangladesh-economy": 5,
+    "us-midterms": 4,
+    "ai-tech-power": 5,
+    "paraguay-bank-crisis": 5
+  }
+}

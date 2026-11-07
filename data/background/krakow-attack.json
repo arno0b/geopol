@@ -1,0 +1,51 @@
+{
+  "slug": "krakow-attack",
+  "versions": [
+    {
+      "date": "2026-11-08",
+      "how_we_got_here": "On Saturday 7 November 2026 a 25-year-old Polish citizen opened fire with an automatic weapon in Kraków's main market square at about 3pm. Six people were killed and 16 wounded. Three more victims were found at his home. Polish officials say he held far-right, ultra-nationalist views.\n\nPoland has been on high alert over sabotage and hybrid attacks linked to the war next door, so officials have watched for foreign plots. This case looks homegrown.",
+      "players": [
+        {
+          "name": "Donald Tusk (PM)",
+          "wants": "Show control and calm the country; he is travelling to Kraków."
+        },
+        {
+          "name": "Polish interior and defence ministers",
+          "wants": "Treat it as terrorism and track the suspect's extremist links."
+        },
+        {
+          "name": "Poland's far right",
+          "wants": "To distance itself from the attacker while opponents try to link it to nationalist rhetoric."
+        }
+      ],
+      "stakes": "Public safety and Poland's political temperature. A far-right attack complicates a country that casts itself as the front line against Russia, and may reshape debates on guns, extremism and policing.",
+      "current_state": "As of 8 November: six dead, 16 wounded, suspect in custody or identified (reports differ in detail). Officials call it an act of terror. Motive and any network are under investigation.",
+      "watch_next": "- Findings on the attacker's online links and ideology.\n- New security or gun measures from Tusk's government.\n- Any evidence of foreign involvement (none reported so far).",
+      "timeline": [
+        {
+          "date": "2026-11-07",
+          "event": "Gunman kills six in Kraków's Main Market Square; three more victims found at his home."
+        },
+        {
+          "date": "2026-11-07",
+          "event": "Polish ministers call it an act of terror and cite far-right views."
+        },
+        {
+          "date": "2026-11-08",
+          "event": "Tusk travels to Kraków; investigation continues."
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}

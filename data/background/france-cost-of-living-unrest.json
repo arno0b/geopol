@@ -1,0 +1,51 @@
+{
+  "slug": "france-cost-of-living-unrest",
+  "versions": [
+    {
+      "date": "2026-11-08",
+      "how_we_got_here": "The Iran war and the closure of the Strait of Hormuz pushed oil above $100 for much of 2026, raising fuel, food and transport costs across Europe. In France that has revived the anger of the 2018 Yellow Vest movement.\n\nOn 7 November more than 140,000 people marched in Paris, Lyon and other cities. Police used tear gas and made arrests, and Yellow Vest groups defied a ban on their Paris rally.",
+      "players": [
+        {
+          "name": "French government",
+          "wants": "Keep order and avoid a repeat of 2018-style riots."
+        },
+        {
+          "name": "Protesters and Yellow Vest groups",
+          "wants": "Relief from high living costs and a change of direction."
+        },
+        {
+          "name": "Opposition candidates, such as Jean-Luc Mélenchon",
+          "wants": "To turn anger into votes ahead of the presidential race."
+        }
+      ],
+      "stakes": "Political stability in the eurozone's second-largest economy. Prolonged unrest would hit consumer spending, French bonds and the government's room to act.",
+      "current_state": "As of 8 November: large, partly violent protests on 7 November; the interior minister says police are ready for rioters and looters. The size of any follow-up wave is unclear.",
+      "watch_next": "- Whether protests recur next weekend and grow.\n- Any government concessions on fuel or prices.\n- How the presidential campaign picks up the anger.",
+      "timeline": [
+        {
+          "date": "2018-11-17",
+          "event": "Yellow Vest protests begin over fuel prices."
+        },
+        {
+          "date": "2026-03-08",
+          "event": "Brent tops $100 as the Iran war closes Hormuz."
+        },
+        {
+          "date": "2026-11-07",
+          "event": "140,000+ rally across France; tear gas in Paris and Lyon."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}
