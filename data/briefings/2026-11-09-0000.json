@@ -1,0 +1,126 @@
+{
+  "run_id": "2026-11-09-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "middle-east",
+    "new_storyline_name": null,
+    "headline": "Hormuz: a diplomatic exit appears as the shooting spreads",
+    "story": "Qatar, the lead mediator, is trying to persuade Iran to let UN inspectors into its bombed nuclear sites, with the Strait of Hormuz reopening as part of the package. Iran would not have to commit to shipping out its enriched uranium. At the same time the US military said it fired on and disabled a cargo ship in the Gulf of Oman, and Saudi Arabia said it intercepted Houthi missiles aimed at Riyadh and the Eastern Province, with shrapnel damaging an Aramco building in the capital.",
+    "so_what": "There is a real off-ramp on the table, but the fighting at sea and in Yemen keeps raising the cost of missing it. Oil still carries a war premium, and this is the thread that could remove it or add to it.",
+    "last_time": {
+      "run_id": "2026-11-08-1000",
+      "text": "Last run the US put a $20m bounty on Iran's nuclear secrets and Saudi strikes hit Yemen. Since then the Houthis have hit back at Saudi targets, the US has fired on a ship, and Qatar has put a concrete inspections-for-Hormuz plan forward."
+    },
+    "money_angle": "Brent is $98.32 and WTI $90.83 (Friday close). Markets are closed until Monday, so the first reaction to the weekend's news comes then.",
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/e3e106cee8c7a119858472afd76f5d130e4d43b6/1722_527_3180_2545/master/3180.jpg?width=140&quality=85&auto=format&fit=max&s=c72bd7888aaa9fe83477f32594d1988a",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Russia hits Ukraine's grid before the Abu Dhabi talks",
+      "story": "Russian strikes cut power to about 850,000 people in Dnipropetrovsk and Kharkiv, and hit a major bridge and energy sites near Kyiv. Zelenskyy said Moscow is trying to push Ukraine into a blackout. Ukrainian and Russian delegations are due at trilateral talks in Abu Dhabi next week.",
+      "so_what": "Moscow is using pressure on the grid as leverage before it sits down. Expect it to keep escalating until the talks start, and the winter outages are what Kyiv will be negotiating under.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Dhaka cracks down on the garment unrest",
+      "story": "Garment workers are in their third day of wage protests in Narayanganj and clashed with police in Mirpur, where tear gas was fired. The government has put 33 BGB platoons into industrial hubs, and the tax authority has frozen and searched accounts of more than 200 people and firms over the unrest. Minister Salahuddin calls it a planned political conspiracy, and the SCMP quotes a warning that 'there could be anarchy'.",
+      "so_what": "Garments are most of Bangladesh's exports. The state is treating a wage dispute as a political threat, which may calm the streets for now but risks hardening the workers' side and worrying buyers.",
+      "last_time": {
+        "run_id": "2026-11-08-1000",
+        "text": "Last time the government was starting to call the unrest political. It has now followed that with troops on the ground and frozen accounts."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM3QwcHpvMG94U1ltOVdjTzhsM05ndmRzTFY5TTRJTjNNZTRhcWNjZF9jeUFvbzVhY1ZCSE9ndG1hVEEyeW0xVUZRbzFQeXltQ0IzRUFSeHhGWUt0aTM2eUt1b1MxVEt5bkNaZU9tTUZKSnhlVDg2LUhPb2pHYXREeGdHYlkxT25pdWhhZmRwSUhMajBMMHEzeFFsTlc3dmswSENxamlWd2RmSTRoOUxEWmFkaGZiaFZ4LVhTTmp0c0s1N0Ix?oc=5"
+        },
+        {
+          "name": "bdnews24",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uZm5VTFVreXk0TDhxSXBoMEFZMDlfTEdzeEo5VGZwa0lTckpLTVJtLVBvX0NhaFctRjlCWTV2QkJOcFNsREk5MHA0SjdOQ29EN1Jxag?oc=5"
+        }
+      ]
+    },
+    {
+      "storyline": "climate-food-water",
+      "new_storyline_name": null,
+      "headline": "COP31 opens in Turkey, with Australia running the talks",
+      "story": "The UN climate summit has kicked off in Turkey after a bitter row over who would host. The compromise puts Australia, whose prime minister pledged to host it back in 2021, in charge of the negotiations. Bangladesh is bringing a climate justice demand, and ten years after the Paris treaty critics are asking what the talks actually deliver.",
+      "so_what": "Australia gets a leadership test with an energy-price shock running in the background. Bangladesh, one of the most exposed countries, wants money for losses and damage.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/72678bea25c1a92a183def8f6052f58a39fa3e5a/790_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=5c03e71c63752f13b18521a75650ceb4",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Monday's market open and the Abu Dhabi talks",
+    "text": "How oil reacts to the Hormuz plan and weekend strikes, and whether Russia and Ukraine still show up next week."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-06-1000-1",
+      "verdict": "open",
+      "text": "Still too early on 'don't buy the AI dip in one go'. Markets were shut over the weekend, so the numbers are unchanged: S&P 500 7,377 (7,354 at the take) and the Nikkei 57,435 (61,078 at the take). Waiting has cost nothing so far."
+    }
+  ],
+  "heat": {
+    "middle-east": 8,
+    "oil-energy": 7,
+    "russia-ukraine": 7,
+    "bangladesh-economy": 6,
+    "bangladesh-politics": 5,
+    "climate-food-water": 4,
+    "krakow-attack": 4,
+    "france-cost-of-living-unrest": 5
+  }
+}
