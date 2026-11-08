@@ -1,0 +1,159 @@
+{
+  "run_id": "2026-11-09-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "ai-tech-power",
+    "new_storyline_name": null,
+    "headline": "Nvidia investigates its own CEO over a China spy report",
+    "story": "Nvidia said on Sunday it is opening an independent investigation after reporting that CEO Jensen Huang was the target of a foreign intelligence effort. The October New York Times report said he had a close relationship with a Chinese businesswoman who passed information to Beijing. The Republican-led House foreign affairs and intelligence committees have asked Huang to give a closed-door briefing next week on Nvidia's security against foreign espionage.",
+    "so_what": "Nvidia sits at the centre of the chip fight between Washington and Beijing, so a security cloud over its founder is more than gossip. It hands hawks in Congress a reason to push for tighter export rules, at a time when the AI trade is already shaky.",
+    "last_time": {
+      "run_id": "2026-11-07-1000",
+      "text": "Earlier this week the AI story was the market fall and Democratic calls for datacenter pauses. Now the leader of the AI boom faces a security probe of its own."
+    },
+    "money_angle": "Not priced yet. US markets are shut until Monday, so Nvidia's reaction comes at the open. The S&P 500 closed Friday at 7,377.",
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/3fc6a5d68684a58fece0294bce9094ed76072ecd/2374_660_5539_4431/master/5539.jpg?width=140&quality=85&auto=format&fit=max&s=92cbb8a7ec8156c0882d52286c3cc1a9",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-probes-ceo-jensen-huang-s-affair-amid-china-security-concerns"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "A wave of crude bombs hits Dhaka and nobody knows who is behind it",
+      "story": "More than 50 blasts and eight bus burnings have hit the capital, targeting police stations, government buildings and campuses, according to the Dhaka Tribune. On Sunday, four crude bombs went off at Dhaka University and a bomb exploded inside the CID headquarters. Another was thrown into Pallabi police station from a flyover. Police say the aim is to spread panic, but who makes, funds and directs the bombs is still unanswered.",
+      "so_what": "This is a steady campaign, not a one-off. It lands while the government is already dealing with garment unrest and a hard line on Awami League, and it adds to security worries: 186 Dhaka–Riyadh flights have been cancelled since 10 October.",
+      "last_time": {
+        "run_id": "2026-11-07-0000",
+        "text": "Last time the story was Dhaka's hard line on Awami League. The street has now answered with bombs, and the government has so far offered no culprit."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/dhaka/424076/blasts-across-the-capital-few-answers-who-is"
+        },
+        {
+          "name": "bdnews24",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEdUdyVWQ0VnlPZFAxRC13UzhkdnFhbnJmUE12YW5EWmN6bDF4Tzh6NUhoNzZveFd2ckRyTkEzWk5ZQTFMdGwtWVA1VWRGX2JLZGVmTA?oc=5"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTDUtTmt3XzJUdzRsM1hGREp0TUhpY1RDeG5VS1NKV2ZoVG96Z1pvYzF0T3g1amlVbmp1S1AzOXdnWGVfY3U2dUVGUXFKYjBmRUN5eEc0MXVJMGRzcWhzS0hLWjJTSy01b00yNjVEN25qT2gzSUFEc3ZVT3VURklIOXRySmV2SnhfQ1ZReVFMWXN1aE1UMWp0cmNKQVVGTERodUk2d1lRYWNHY0xxS0Q0?oc=5"
+        }
+      ]
+    },
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Iran and the US trade threats and no talks are happening",
+      "story": "Trump says US forces are 'locked and loaded' and ready to strike if needed, and Iran has threatened to 'rain down hell' if the US escalates. Iran's foreign minister Abbas Araghchi says there has been no progress and that Tehran is waiting to resume talks after what he called the midterm 'shock'. Separately, Iran executed three men over the January protests.",
+      "so_what": "The off-ramp Qatar is offering needs both sides to sit down, and for now both are talking tough. The longer the pause lasts, the more room there is for a strike.",
+      "last_time": {
+        "run_id": "2026-11-09-0000",
+        "text": "Last run Qatar was pushing an inspections-for-Hormuz plan. Since then the public tone has hardened and Tehran says talks have not moved."
+      },
+      "money_angle": "Brent closed Friday at $98.32 and WTI at $90.83. The first market reaction to this comes on Monday.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Europe takes a seat at the Abu Dhabi talks, over Moscow's objections",
+      "story": "France says European officials will attend this week's US-mediated talks between Russia and Ukraine in Abu Dhabi, the first three-way round since February. The Kremlin objected. The attendance follows Russian strikes on Ukraine's power network that damaged energy sites and wounded nine people.",
+      "so_what": "Europe does not want Washington and Moscow settling Ukraine's future without it. Russia's objection shows it would rather talk to the US alone.",
+      "last_time": {
+        "run_id": "2026-11-09-0000",
+        "text": "Last run Russia was hitting Ukraine's grid before the talks. Now we know Europe will be in the room, which sets up a fight over who speaks for Ukraine."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "new-zealand-politics",
+      "new_storyline_name": "New Zealand politics",
+      "headline": "New Zealand's election has no clear winner",
+      "story": "New Zealand voted and neither side has a clear path to government. Prime Minister Christopher Luxon will lead a caretaker government while coalition talks run for about three weeks. Nikkei Asia calls it a knife-edge result.",
+      "so_what": "Australia's closest neighbour may be without a settled government for weeks. Small parties will have the leverage, so expect hard bargaining before a deal.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks"
+        },
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/politics/new-zealand-s-knife-edge-election-puts-coalition-talks-in-focus"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Monday's open and Huang's briefing",
+    "text": "How oil and Nvidia react once markets reopen, and whether Huang testifies to Congress next week."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-06-1000-1",
+      "verdict": "open",
+      "text": "Still too early on 'don't buy the AI dip in one go'. Markets were shut over the weekend, so the numbers are unchanged: S&P 500 7,377 (7,354 at the take), Nikkei 57,435 (61,078). The Nvidia probe is a fresh risk for the AI trade, which supports waiting, but there is no call yet."
+    }
+  ],
+  "heat": {
+    "ai-tech-power": 6,
+    "us-china": 4,
+    "bangladesh-politics": 6,
+    "middle-east": 8,
+    "oil-energy": 7,
+    "russia-ukraine": 7,
+    "new-zealand-politics": 3,
+    "bangladesh-economy": 5,
+    "climate-food-water": 4,
+    "krakow-attack": 3,
+    "france-cost-of-living-unrest": 4,
+    "us-midterms": 4
+  }
+}
