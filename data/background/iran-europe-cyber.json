@@ -1,0 +1,59 @@
+{
+ "slug": "iran-europe-cyber",
+ "versions": [
+  {
+   "date": "2026-11-10",
+   "how_we_got_here": "Iran has long used cyber attacks as a cheap way to hit rivals: on Gulf oil firms, Israeli water systems and US banks. Once the Iran war began on **28 February 2026**, Europe was drawn in at the edges, as Gulf shipping, energy prices and the Hormuz closure raised costs across the continent.\n\nIn October 2026, fridges and freezers in hundreds of supermarkets across France overheated after their digital thermostats were taken over, spoiling tons of chilled and frozen food. On **9 November**, Paris said a cyber unit linked to Iran's **Revolutionary Guard** was behind it, in more than 1,000 stores. Foreign minister Jean-Noel Barrot called it an attack of 'unprecedented scale and unprecedented aggression' and promised Europe-wide sanctions.",
+   "players": [
+    {
+     "name": "France",
+     "wants": "Europe-wide sanctions on those responsible and better protection of shops, power and transport."
+    },
+    {
+     "name": "Iran's Revolutionary Guard",
+     "wants": "Pressure on Europe to push it away from the US position, at low cost. Tehran's response is not yet clear."
+    },
+    {
+     "name": "EU",
+     "wants": "To protect key infrastructure while not wrecking the diplomacy that Qatar is leading to end the war."
+    },
+    {
+     "name": "Qatar and the US",
+     "wants": "A deal on Hormuz and the nuclear programme. New sanctions could complicate it."
+    }
+   ],
+   "stakes": "Everyday devices such as fridges, thermostats and cameras are a weak point in Europe's defences. CNBC links the attack to a wider wave of threats, including bomb threats on flights. For markets, sanctions on Iran add a hurdle to a deal that has pushed oil down.",
+   "current_state": "France has publicly blamed Iran and promised sanctions. Europe has not yet agreed any measures, and Iran has not yet answered in the reporting we have.",
+   "watch_next": "Whether the EU agrees sanctions and how fast. Iran's denial or response. Further hacks on shops, hospitals or energy. Whether the sanctions land during talks in Doha.",
+   "timeline": [
+    {
+     "date": "2025-06-13",
+     "event": "Israel, later joined by the US, strikes Iran's nuclear sites in a 12-day war."
+    },
+    {
+     "date": "2026-02-28",
+     "event": "US and Israel strike Iran; the war begins."
+    },
+    {
+     "date": "2026-11-09",
+     "event": "France blames Iran's Revolutionary Guard and promises Europe-wide sanctions."
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Guardian: France blames Iran's Revolutionary Guards",
+     "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+    },
+    {
+     "name": "Al Jazeera: France accuses Iran of cyberattack on supermarket fridges",
+     "url": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges"
+    },
+    {
+     "name": "CNBC: A wave of threats is testing Europe's defenses",
+     "url": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html"
+    }
+   ],
+   "change_note": null
+  }
+ ]
+}

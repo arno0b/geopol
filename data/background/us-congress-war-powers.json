@@ -1,0 +1,67 @@
+{
+  "slug": "us-congress-war-powers",
+  "versions": [
+    {
+      "date": "2026-11-10",
+      "how_we_got_here": "The US Constitution gives Congress the power to declare war and the president command of the military. In practice presidents have long fought without a formal declaration, and the 1973 **War Powers Resolution** (which requires congressional approval for conflicts beyond 60 days) has rarely been enforced.\n\nThe US-Israeli strikes on Iran that began on **28 February 2026** turned this old argument into a live one. The war has run for months, through ceasefires, a naval blockade and renewed strikes, without a clear vote of authorisation. On **9 November 2026**, Republican Rep. **Thomas Massie** filed articles of impeachment against Defense Secretary **Pete Hegseth**, accusing him of illegally waging war without congressional authorisation. The House is expected to vote on it this week.",
+      "players": [
+        {
+          "name": "Thomas Massie (R)",
+          "wants": "To force a vote on the war's legality, and to push Trump to fire Hegseth before Democrats can act."
+        },
+        {
+          "name": "Pete Hegseth",
+          "wants": "To keep running the war and keep his job."
+        },
+        {
+          "name": "Donald Trump",
+          "wants": "Freedom to decide on strikes and talks with Iran without a congressional check."
+        },
+        {
+          "name": "House Democrats (Hakeem Jeffries)",
+          "wants": "To take control of the House in January and use oversight, including their own impeachment process."
+        },
+        {
+          "name": "Republican leaders",
+          "wants": "To keep the party united, pass government funding and the debt limit in the last weeks of their majorities."
+        }
+      ],
+      "stakes": "This decides whether Congress will put any limit on a long war, and it sets up a harder fight with Democrats in the House from January. A split among Republicans would also weaken Trump's hand in talks with Iran.\n\n**Money angle:** none direct, but a funding fight or a debt-limit clash in the same weeks can move markets, and war-powers fights add risk to oil.",
+      "current_state": "Massie has filed the articles and can force a vote. Reporting says it will likely fail. Congress is also back to deal with government funding and the debt limit, with Republicans having less than two months left with majorities in both chambers.",
+      "watch_next": "How many Republicans vote for impeachment or against tabling it. Whether Trump moves Hegseth. Any war powers resolution on Iran. How Democrats plan oversight from January.",
+      "timeline": [
+        {
+          "date": "1973-11-07",
+          "event": "Congress passes the War Powers Resolution over Nixon's veto."
+        },
+        {
+          "date": "2026-02-28",
+          "event": "US and Israel strike Iran; the war begins without a formal congressional vote."
+        },
+        {
+          "date": "2026-11-03",
+          "event": "US midterms hand Democrats control of Congress from January."
+        },
+        {
+          "date": "2026-11-09",
+          "event": "Rep. Massie files articles of impeachment against Hegseth and moves to force a vote."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC: Republican congressman to force impeachment vote on Hegseth",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro"
+        },
+        {
+          "name": "CNBC: Hegseth impeachment articles introduced by Rep. Massie",
+          "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html"
+        },
+        {
+          "name": "CNBC: Congress returns with funding, Hegseth and the debt limit",
+          "url": "https://www.cnbc.com/2026/11/09/congress-government-funding-debt-limit-elections.html"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}

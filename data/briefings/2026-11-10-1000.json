@@ -1,0 +1,231 @@
+{
+  "run_id": "2026-11-10-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "middle-east",
+    "new_storyline_name": null,
+    "headline": "Qatar's Iran deal reaches Trump, and Brent drops below $93",
+    "story": "Qatar's prime minister met Trump on Monday with an interim Iranian proposal to reopen the Strait of Hormuz. Diplomatic sources say Iran has signed off on the terms, and reports say Washington could accept enrichment capped at 3.67%. But Rubio told reporters the talks remain unproductive and called Iran's demands outrageous, and Trump says new strikes are unlikely only if talks progress.",
+    "so_what": "Oil has already bet on a deal: Brent fell 16% last week and slid again on Monday. The mixed signals from Washington show nothing is signed, so the price is running ahead of the paper.",
+    "last_time": {
+      "run_id": "2026-11-10-0000",
+      "text": "Last run Iran had handed Qatar a two-day proposal and the Trump meeting was only on the calendar. The meeting has now happened, with an upbeat market and a gloomy Rubio."
+    },
+    "money_angle": "Brent is $92.17 and WTI $86.38, down from $94.9 and $88.3 at the last run and $98.3 at Friday's close. Gold is $4,150.",
+    "my_take": {
+      "text": "Don't chase oil lower on deal headlines. If you want to bet on a deal, keep it small and wait for a signed text.",
+      "reasoning": "A 16% weekly fall is already a lot of peace priced in. The only hard fact today is a meeting, while Rubio is negative and Saudi pipelines are still being hit. A deal would likely knock off a few more dollars, but a collapse could send Brent back above $100 in days.",
+      "confidence": "low",
+      "wrong_if": "An interim deal is signed and Hormuz traffic visibly resumes, with Brent staying under $88 for a week.",
+      "id": "2026-11-10-1000-1",
+      "prices_at": {
+        "brent": {
+          "label": "Brent oil ($/bbl)",
+          "value": 92.17,
+          "as_of": "2026-11-09T21:59:30+00:00"
+        },
+        "wti": {
+          "label": "WTI oil ($/bbl)",
+          "value": 86.38,
+          "as_of": "2026-11-09T21:59:59+00:00"
+        },
+        "gold": {
+          "label": "Gold ($/oz)",
+          "value": 4149.5,
+          "as_of": "2026-11-09T22:00:00+00:00"
+        },
+        "audusd": {
+          "label": "AUD/USD",
+          "value": 0.6928,
+          "as_of": "2026-11-09T22:25:32+00:00"
+        },
+        "dxy": {
+          "label": "US dollar index",
+          "value": 101.681,
+          "as_of": "2026-11-09T22:15:55+00:00"
+        },
+        "spx": {
+          "label": "S&P 500",
+          "value": 7549.94,
+          "as_of": "2026-11-09T22:12:50+00:00"
+        },
+        "asx200": {
+          "label": "ASX 200",
+          "value": 9029.7,
+          "as_of": "2026-11-09T05:55:14+00:00"
+        },
+        "nikkei": {
+          "label": "Nikkei 225",
+          "value": 58775.5,
+          "as_of": "2026-11-09T06:45:03+00:00"
+        },
+        "btc": {
+          "label": "Bitcoin ($)",
+          "value": 74944.99,
+          "as_of": "2026-11-09T22:25:53+00:00"
+        }
+      }
+    },
+    "image": null,
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Sinks-to-94-as-Irans-8-Billion-Hormuz-Deal-Heads-to-Trump.html"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crashes-7-on-Iran-Peace-Hopes-Despite-Fresh-Saudi-Pipeline-Attack.html"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "us-congress-war-powers",
+      "new_storyline_name": "US Congress and war powers",
+      "headline": "A Republican forces a vote to impeach Hegseth over the Iran war",
+      "story": "Republican Rep. Thomas Massie has filed articles of impeachment against Defense Secretary Pete Hegseth, accusing him of waging war without congressional authorisation. The House is likely to vote this week. The effort will probably fail, but Massie wants Trump to fire Hegseth before Democrats, who take control in January, can start their own process.",
+      "so_what": "The vote is a test of how many Republicans will break with the Iran war before the handover of power. Even a failed vote pushes the war powers fight onto the floor.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/09/congress-government-funding-debt-limit-elections.html"
+        }
+      ]
+    },
+    {
+      "storyline": "iran-europe-cyber",
+      "new_storyline_name": "Iran and Europe's infrastructure",
+      "headline": "France blames Iran's Guards for hacking supermarket freezers",
+      "story": "Paris says a cyber unit linked to Iran's Revolutionary Guard hacked the thermostats of fridges and freezers in more than 1,000 supermarkets last month, pushing temperatures above 50C and spoiling tons of food. France's foreign minister called it an attack of unprecedented scale and promised Europe-wide sanctions.",
+      "so_what": "The Iran war is now reaching ordinary European shops. Sanctions on Tehran are a new obstacle just as Qatar tries to broker a deal.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/aed983f049b0e852c755b8dc230e7c7ba34f9947/46_0_3538_2832/master/3538.jpg?width=140&quality=85&auto=format&fit=max&s=42afd10fdc599d54a04a733cea348aeb",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html"
+        }
+      ]
+    },
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Europe will sit in at the Abu Dhabi talks, and Trump talks of a 'different shape' Ukraine",
+      "story": "France says European officials will attend this week's US-mediated talks in Abu Dhabi, the first three-way round since February, despite Kremlin objections. Trump told 60 Minutes that Ukraine will end up with a 'little bit different shape', which Kyiv has long said it will not accept. Meanwhile Russia keeps hitting the grid, and Novaya Gazeta, Russia's last major independent paper, has shut its Moscow newsroom.",
+      "so_what": "Europe getting a seat is a small win for Kyiv, but Trump's comment points to territory being on the table. The grid strikes are the pressure Russia brings to that table.",
+      "last_time": {
+        "run_id": "2026-11-09-0000",
+        "text": "Last time Russia was hitting the grid before the Abu Dhabi talks. Now the guest list is set and Trump has hinted at the price."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Geopolitics/Europe/Russia-Targets-Ukraines-Power-Grid-Ahead-of-Crucial-Abu-Dhabi-Peace-Talks.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Bombs keep going off in Dhaka, and police arrest six Awami League activists",
+      "story": "Police arrested six Awami League activists while they were allegedly throwing crude bombs in Dhaka. More blasts hit Jagannath University and Gopalganj, and buses were set alight in Pallabi and Gazipur. No casualties were reported, and security across the capital has been tightened. On Hasina's passport request, Dhaka's foreign ministry has rejected the idea and insists on extradition.",
+      "so_what": "The first arrests give the government a culprit to point at, but one group of foot soldiers does not answer who funds or directs the campaign. Expect the extradition push and the security clampdown to feed each other.",
+      "last_time": {
+        "run_id": "2026-11-10-0000",
+        "text": "Last run the story was Hasina's passport request and December return plan. The bombs have not stopped, and Dhaka now says it will not give her papers and wants her extradited."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/dhaka/424176/six-al-activists-arrested-while-hurling-crude"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/dhaka/424174/bomb-blasts-bus-arson-keep-dhaka-on-edge"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/424171/hasina-seeks-passport-to-return-govt-insists-on"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Hegseth vote and Abu Dhabi talks",
+    "text": "How many Republicans back the Hegseth impeachment, and whether the three-way Abu Dhabi round starts on schedule."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-06-1000-1",
+      "verdict": "open",
+      "text": "I said not to buy the AI dip in one go. It is a mixed picture: the S&P 500 is at 7,550, up from 7,354 at the take, and the Nikkei is 58,776 (61,078 at the take). The Nvidia probe knocked the stock down 4% but did not drag the index. A one-off buyer would have done fine in the index, so I am no longer sure waiting was right. It stays open."
+    },
+    {
+      "take_id": "2026-11-04-0000-1",
+      "verdict": "wrong",
+      "text": "Already marked wrong. Brent has now fallen to $92 from $106 when I said not to chase oil in either direction."
+    }
+  ],
+  "heat": {
+    "middle-east": 8,
+    "oil-energy": 7,
+    "us-congress-war-powers": 5,
+    "iran-europe-cyber": 5,
+    "russia-ukraine": 7,
+    "bangladesh-politics": 7,
+    "ai-tech-power": 6,
+    "climate-food-water": 4,
+    "us-midterms": 3,
+    "bangladesh-economy": 4
+  }
+}
