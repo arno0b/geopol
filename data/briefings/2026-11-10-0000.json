@@ -1,0 +1,173 @@
+{
+  "run_id": "2026-11-10-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "middle-east",
+    "new_storyline_name": null,
+    "headline": "Iran puts a two-day plan on the table, and oil slips",
+    "story": "Iran has handed Qatari mediators a two-day proposal, and Washington says it is examining it. Qatar's prime minister is due to meet Trump to push it forward. It comes after a weekend of loud threats from both sides, and a Houthi-claimed attack on Riyadh's business district on Sunday. Separately, Iraq has struck a deal with the US to ship more oil along a corridor off Oman's coast, avoiding the worst of Hormuz.",
+    "so_what": "The public tone was hardening on Sunday, but a concrete paper is now moving through Doha. If it holds, the risk premium in oil keeps shrinking; if it fails, the strike threats are still in place.",
+    "last_time": {
+      "run_id": "2026-11-09-1000",
+      "text": "Last run both sides were trading threats and Tehran said talks had not moved. Now there is a specific Iranian proposal and a Trump meeting on the calendar."
+    },
+    "money_angle": "Brent is about $94.9 and WTI $88.3, down from $98.3 and $90.8 at Friday's close, so the market is already leaning towards a deal.",
+    "my_take": null,
+    "image": null,
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Strikes-US-Deal-to-Boost-Oil-Exports-Through-Hormuz.html"
+      },
+      {
+        "name": "Dhaka Tribune",
+        "url": "https://www.dhakatribune.com/world/middle-east/424122/saudi-authorities-briefly-warn-of-%E2%80%98aerial-threat%E2%80%99"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Hasina asks for a passport and says she will be home in December",
+      "story": "Ousted prime minister Sheikh Hasina, who has lived in India for two years, has reportedly applied for a Bangladeshi passport and NID card, and has promised to return in December. The home minister says the applications are being verified. The ICT chief prosecutor calls it a political stunt, and Dhaka has formally asked India to send her back under the extradition treaty.",
+      "so_what": "Even if she cannot actually return, the move forces the government and India to answer in public. It adds to a tense mood in Dhaka after weeks of bomb attacks.",
+      "last_time": {
+        "run_id": "2026-11-09-1000",
+        "text": "Last time the story was the wave of bombs in Dhaka. Now the Awami League leader herself is back in the headlines with a return plan."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://media.prothomalo.com/prothomalo-english/2026-11-09/t4gl6ybz/Home-Minister-Salahuddin-Ahmed.avif",
+        "credit": "Prothom Alo"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/424129/home-minister-govt-verifying-reports-of-hasina%E2%80%99s"
+        },
+        {
+          "name": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/bangladesh/politics/9pwhpc27jt"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/424128/ict-chief-prosecutor-hasina-s-request-for"
+        }
+      ]
+    },
+    {
+      "storyline": "ai-tech-power",
+      "new_storyline_name": null,
+      "headline": "Nvidia drops as the Huang spy probe hits the market",
+      "story": "Nvidia shares fell more than 4 percent as investors reacted to the independent investigation into CEO Jensen Huang over his relationship with a suspected Chinese intelligence contact. China denies the spying claims. Huang has admitted being unfaithful to his wife and says he will cooperate. Some tech leaders, including Elon Musk, have backed him as too important to lose.",
+      "so_what": "The worry is less about the affair than about Congress using it to tighten chip export rules. The company that carries the AI trade now has a leadership cloud.",
+      "last_time": {
+        "run_id": "2026-11-09-1000",
+        "text": "Last run the probe was just announced and markets were shut. This is the first price reaction."
+      },
+      "money_angle": "Nvidia fell more than 4% in the first reaction, per Al Jazeera. The Nikkei is at 58,776, below 61,078 when we last gave advice on the AI dip. US index reaction is still to come.",
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/08b95212f11f3d89e76bc0696f48e07fec9913c3/2_0_1971_1577/master/1971.jpg?width=140&quality=85&auto=format&fit=max&s=38f5d69d097ceb497e05f287de44be52",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Garment workers ask for a minimum wage of about Tk 32,000",
+      "story": "Workers' alliances have proposed a minimum wage of Tk 32,131 for the garment sector, with basic pay at 60% of the total, a 15% yearly increment and a housing allowance. Another group wants Tk 37,000. Owners have not yet said what they will accept.",
+      "so_what": "Garments are Bangladesh's main export, so a big wage rise squeezes factory margins at a time of political tension. Talks that stall could bring back the factory unrest the government fears.",
+      "last_time": {
+        "run_id": "2026-11-09-0000",
+        "text": "Last time garment unrest was part of the pressure on Dhaka. Now the workers' formal demand is on the table."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/424126/workers%E2%80%99-alliances-propose-tk32-131-minimum-wage"
+        },
+        {
+          "name": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/bangladesh/2lf94gm4m6"
+        }
+      ]
+    },
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Drones set a major Russian refinery on fire as strikes continue",
+      "story": "Overnight, drones set fire to Russia's second-largest oil refinery while Russian strikes hit Ukrainian energy sites. At least four people were killed across both countries. This is days before Russia, Ukraine and Europe sit down in Abu Dhabi.",
+      "so_what": "Both sides are hitting each other's energy systems just before talks, trying to arrive with leverage. Hits on refineries also tighten Russia's fuel supply.",
+      "last_time": {
+        "run_id": "2026-11-09-1000",
+        "text": "Last run Europe had won a seat at the Abu Dhabi talks. The fighting has not paused ahead of them."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Doha plan and the US open",
+    "text": "Whether Trump takes up Iran's two-day proposal after meeting Qatar's PM, and how US stocks treat Nvidia."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-06-1000-1",
+      "verdict": "open",
+      "text": "Still open on 'don't buy the AI dip in one go'. Nvidia is down more than 4% in the first reaction and the Nikkei is at 58,776 (61,078 at the take), so waiting is looking right so far. The S&P 500 is unchanged at 7,377 (7,354) until the US opens."
+    }
+  ],
+  "heat": {
+    "middle-east": 8,
+    "oil-energy": 7,
+    "bangladesh-politics": 7,
+    "ai-tech-power": 7,
+    "bangladesh-economy": 5,
+    "russia-ukraine": 7,
+    "us-china": 4,
+    "krakow-attack": 2,
+    "new-zealand-politics": 2,
+    "france-cost-of-living-unrest": 3,
+    "us-midterms": 4,
+    "climate-food-water": 4
+  }
+}
