@@ -1,0 +1,153 @@
+{
+  "run_id": "2026-11-11-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "russia-ukraine",
+    "new_storyline_name": null,
+    "headline": "First day of Abu Dhabi talks ends 'constructive', with a second day planned",
+    "story": "Delegations from Kyiv, Washington and Moscow met for about four hours, and Zelensky called the first day constructive. Rubio said it was 'very productive', and humanitarian issues were discussed. A second day is set for Wednesday. The US says it wants a 'final end' to the war. Meanwhile Ukrainian drones have disrupted refineries making about 30% of Russia's processing capacity since late October.",
+    "so_what": "Both sides are still at the table after day one, which is more than most people expected. Borders and security guarantees are the real test, and nothing on those has been agreed.",
+    "last_time": {
+      "run_id": "2026-11-11-0000",
+      "text": "Last run the talks were just opening with a US offer of a security architecture. Day one has now ended with warm words and a second day booked."
+    },
+    "money_angle": "Brent is about $92 and has fallen almost $30 since the US midterms, partly on hopes of deals in both Iran and Ukraine. Russian fuel supply is under strain from the drone strikes.",
+    "my_take": null,
+    "image": {
+      "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8b/live/22dad050-dd25-11f1-93e1-3b657b665bcf.jpg",
+      "credit": "BBC World"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Strikes-Disrupt-30-of-Russias-Oil-Refining-Capacity.html"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Over 100 crude bombs near Padma Bridge as Hasina's backers turn violent",
+      "story": "Dhaka Tribune reports more than 100 crude bombs detonated near the Padma Bridge toll plaza, with vehicles torched in several districts and a bus driver killed. The BBC ties the violence to Awami League supporters who want Sheikh Hasina back from exile in India. India says she would need travel documents to return and that extradition will be 'resolved legally'. Jamaat claims a neighbouring country is backing attempts to destabilise Bangladesh.",
+      "so_what": "The unrest is now a nationwide pattern with its first death on the roads, and it is pulling India into the argument. A road and bridge blockade could start to hit trade and garment shipments.",
+      "last_time": {
+        "run_id": "2026-11-11-0000",
+        "text": "Last run the arson and bombs had reached the provinces. Now the numbers are far higher, a driver has died, and the India angle has sharpened."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb4a/live/173fa7e0-dd3c-11f1-a701-fddedf244c16.png",
+        "credit": "BBC World"
+      },
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/424280/bomb-blasts-arson-spread-across-country-bus"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/424262/india-says-hasina-needs-travel-documents-to-return"
+        }
+      ]
+    },
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Rubio says no need for major combat in Iran, but the Houthis keep firing at Saudi oil lines",
+      "story": "Rubio said there is 'no need' for further major combat operations against Iran, backing Trump's line that the war is effectively over. Iran says it remains committed to the non-proliferation treaty, though hardliners are talking up a bomb. Yet the Houthis launched another salvo at Saudi pumping stations on the East-West pipeline, and a UN patrol in southern Lebanon was fired on. In Israel, the new Knesset was sworn in and the opposition is moving to take control of it from Netanyahu.",
+      "so_what": "Washington is talking peace, but the shooting around the Gulf has not stopped. Tanker freight rates stay high, which says the market's peace bet is ahead of events on the water.",
+      "last_time": {
+        "run_id": "2026-11-11-0000",
+        "text": "Last run Trump called the war effectively over while two tankers burned in Hormuz. Rubio has now repeated the message, but the Houthi attacks continue."
+      },
+      "money_angle": "Brent is $92.06 and WTI $86.44. Gold fell to $4,040 from $4,150 last Monday.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Energy/Energy-General/Houthis-Launch-Another-Attack-on-Pumping-Stations-Along-Crucial-Saudi-East-West.html"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Falls-to-Lowest-Level-Since-August.html"
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in"
+        }
+      ]
+    },
+    {
+      "storyline": "fed-rates-dollar",
+      "new_storyline_name": null,
+      "headline": "US prices rose 0.4% in October, slightly above forecasts",
+      "story": "The monthly consumer price index rose 0.4%, a touch above expectations, with shelter, food and energy all adding. Petrol prices dipped during the month and the US average fell below $4 a gallon for the first time since July. The usual year-on-year figure was not published. Fed governor Bowman said AI demand and geopolitical risk could shape the Fed's stance.",
+      "so_what": "Cheaper oil is helping, but prices are still rising too quickly for the Fed to cut easily. This is why voters punished Republicans in the midterms.",
+      "last_time": {
+        "run_id": "2026-11-07-0000",
+        "text": "The Fed and the dollar were last in focus before the weekend. The new inflation number adds to the case for the Fed to stay careful."
+      },
+      "money_angle": "The US dollar index is 102.24, up from 101.68 a week ago. AUD/USD is 0.687, down from 0.693.",
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/edd11372dd6a075792b3425571de06722515ec38/886_0_6138_4911/master/6138.jpg?width=140&quality=85&auto=format&fit=max&s=cac89d31c265c953fdbc67d1636f3e40",
+        "credit": "The Guardian Business"
+      },
+      "sources": [
+        {
+          "name": "The Guardian Business",
+          "url": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Abu Dhabi talks, day two",
+    "text": "Wednesday's session is the first sign of whether borders and security guarantees can be discussed at all. A walkout would push oil back up."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-10-1000-1",
+      "verdict": "open",
+      "text": "I said not to chase oil lower on deal headlines, and my test is a signed deal with Brent under $88 for a week. Brent is $92.06 now (from $92.17 at the take), so it has gone nowhere on net. Still no signed text, and Houthi attacks continue. Too early to call."
+    },
+    {
+      "take_id": "2026-11-06-1000-1",
+      "verdict": "open",
+      "text": "I said not to buy the AI dip in one go. The S&P 500 is 7,521 against 7,354 at the take, and the Nikkei is 60,460 against 61,078, so most of the dip has been recovered. Nvidia's CEO probe is a live risk, but I'm not sure waiting was right. It stays open."
+    }
+  ],
+  "heat": {
+    "russia-ukraine": 7,
+    "middle-east": 8,
+    "bangladesh-politics": 8,
+    "fed-rates-dollar": 6,
+    "oil-energy": 6,
+    "ai-tech-power": 5,
+    "us-congress-war-powers": 6,
+    "iran-europe-cyber": 3
+  }
+}
