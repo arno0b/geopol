@@ -1,0 +1,201 @@
+{
+  "run_id": "2026-11-11-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "middle-east",
+    "new_storyline_name": null,
+    "headline": "Trump says the Iran war is 'effectively over', and Brent falls under $90",
+    "story": "Trump told reporters further US strikes on Iran are 'highly unlikely' and that the war is effectively over, though forces stay 'locked and loaded'. Brent dipped below $90 for the first time since August. Yet Iran says two tankers are on fire in Hormuz, one reportedly hit by a mine, and the US is moving aircraft off a second UK base over an Iranian threat.",
+    "so_what": "Markets are pricing peace that has not been signed. The strait is still dangerous, so a bad headline can reverse this fast.",
+    "last_time": {
+      "run_id": "2026-11-10-1000",
+      "text": "Yesterday Qatar carried an interim Iranian proposal to Trump and Brent was near $92. Since then Trump has talked down more strikes, but there is still no signed text."
+    },
+    "money_angle": "Brent is about $90.5, down from $92.2 yesterday and well below $106 a week ago. Saudi tankers are crossing Hormuz in coordination with the US military.",
+    "my_take": null,
+    "image": {
+      "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0baa/live/f351b160-dcd8-11f1-93e1-3b657b665bcf.jpg",
+      "credit": "BBC World"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "The Guardian Business",
+        "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets"
+      },
+      {
+        "name": "Dhaka Tribune",
+        "url": "https://www.dhakatribune.com/world/middle-east/424245/iran-says-two-oil-tankers-on-fire-in-hormuz"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Military-Coordinates-With-Saudi-Oil-Tankers-on-Risky-Hormuz-Crossings.html"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Abu Dhabi talks begin with a US offer of a 'long-term security architecture'",
+      "story": "Russia, Ukraine and the US have all sent delegations to the first substantive talks since February. US officials say they want a 'final end' to the war, with a proposal for security arrangements between Moscow and Europe. They also report 'some flexibility' on both sides. Russia launched deadly attacks on Ukraine only hours before the talks began.",
+      "so_what": "Talks are a step, but the hard issue is borders. Trump has already hinted Ukraine will end up a 'different shape', which Kyiv rejects.",
+      "last_time": {
+        "run_id": "2026-11-10-1000",
+        "text": "Europe won its seat at the table over Kremlin objections. The talks have now actually started."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/83dc5bf0e0260881e9cd595c706a20cd0b0a8604/761_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=c7b5181f4b6713c17b9829e20be81363",
+        "credit": "The Guardian World"
+      },
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Hasina's return plan meets another night of arson and bombs",
+      "story": "Sheikh Hasina's party says she is 'confident' of returning in December after applying for a passport, though she faces a death sentence in absentia. Meanwhile arson and clashes hit Gopalganj, Tungipara, Barguna and Cox's Bazar, and Awami League supporters chanting 'Joy Bangla' blockaded the Padma Bridge toll plaza. Crude bombs were also found at Dhanmondi 32 and grenade-like objects at Rajshahi airport.",
+      "so_what": "The unrest is spreading from Dhaka into the provinces. Any real attempt to return would raise the stakes sharply for the government.",
+      "last_time": {
+        "run_id": "2026-11-10-1000",
+        "text": "Bombs were going off in Dhaka and six activists were arrested. The violence has now reached other districts and key roads."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/b0c25ec744c32078682701261636188a517bf078/42_0_1989_1592/master/1989.jpg?width=140&quality=85&auto=format&fit=max&s=63215d83211425df87ac5d5f6bf1a103",
+        "credit": "The Guardian World"
+      },
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile"
+        },
+        {
+          "name": "The Daily Star (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPajRPa0RqVWVQS18ycEtBZFVyV1VHOWFWcFNwWXZwNUw1UEd6ell3WE1BX3oxZDR4bC1lT1MwTXpubUpGTFhPdG5tT2VsYTVwVkpRREQ0Nm9KYzloMmsyVlpIQlV3NHl0N2txNl93RXlPQlZXRVY2eFQzeVNrdV9ON3dFVk9QLTBqaUxNandPVWMzbHl3UjMwUGwxbEUtNl84bEk5NHZ0QWJwYWprTmswLVBxOWRPNVYzVnE2aVFsQk9kSUNoMnc?oc=5"
+        },
+        {
+          "name": "bdnews24 (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KVEZiY0ZxX1ZlUmJZY19TdllMakZVYmNfcUdQckxCa2IyWDlKZjFpSnItbG9EZndydHU1a3JsQzh6V0RTd2RRSWgyWTliSXR3azlMRg?oc=5"
+        },
+        {
+          "name": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/bangladesh/26kuah9l1o"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/what-is-hasinas-game-plan-as-she-seeks-passport-to-return-to-bangladesh?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "ai-tech-power",
+      "new_storyline_name": null,
+      "headline": "Trump says the FBI is investigating Nvidia's boss, and chip-export hawks pounce",
+      "story": "Trump said he spoke with Jensen Huang and that the FBI is looking into his affair with an alleged Chinese spy. Lawmakers are using the scandal to call for tighter limits on chip sales to China. Nvidia has also been hit by a shareholder lawsuit.",
+      "so_what": "A personal scandal is turning into a policy fight over what Nvidia may sell to China.",
+      "last_time": {
+        "run_id": "2026-11-10-0000",
+        "text": "Nvidia fell more than 4% when the probe hit the market. Now the White House and Congress are involved."
+      },
+      "money_angle": "Nvidia and the wider AI trade are the exposure. The S&P 500 closed at 7,550 on Monday.",
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png",
+        "credit": "BBC World"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi"
+        }
+      ]
+    },
+    {
+      "storyline": "us-congress-war-powers",
+      "new_storyline_name": null,
+      "headline": "House set to vote on impeaching Hegseth over the Iran war",
+      "story": "The House is expected to vote this week on Republican Thomas Massie's articles of impeachment against Defense Secretary Pete Hegseth. Massie blames the Iran war for the party's heavy midterm losses. Removal is very unlikely, but the vote shows how far the war has split Republicans.",
+      "so_what": "Watch the Republican count. A big defection would weaken Trump's hand on any Iran deal.",
+      "last_time": {
+        "run_id": "2026-11-10-1000",
+        "text": "Massie had just filed the articles. The vote is now scheduled."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/2c5cd38f53d2735dd874359ac9dcf8bf9ecdb06a/320_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=ee9e203f47e0af287be257ae68939c60",
+        "credit": "The Guardian World"
+      },
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates"
+        },
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Hegseth vote and Abu Dhabi day two",
+    "text": "How many Republicans back impeachment, whether the Abu Dhabi talks produce anything on borders, and whether the Hormuz tanker fires hold up Brent below $90."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-10-1000-1",
+      "verdict": "open",
+      "text": "I said not to chase oil lower on deal headlines, and my test is a signed deal with Brent under $88 for a week. Brent is $90.55 now (from $92.17), pushed by Trump's words, not a signed text, and two tankers are reportedly on fire. Too early to call."
+    },
+    {
+      "take_id": "2026-11-06-1000-1",
+      "verdict": "open",
+      "text": "I said not to buy the AI dip in one go. The S&P 500 is 7,550 against 7,354 at the take, and the Nikkei is 60,460 against 61,078, so most of the dip has been recovered. Nvidia's new FBI headline is fresh risk, but I'm not sure waiting was right. It stays open."
+    }
+  ],
+  "heat": {
+    "middle-east": 8,
+    "oil-energy": 6,
+    "russia-ukraine": 7,
+    "bangladesh-politics": 7,
+    "ai-tech-power": 6,
+    "us-congress-war-powers": 6,
+    "iran-europe-cyber": 4,
+    "bangladesh-economy": 4,
+    "us-china": 4,
+    "climate-food-water": 4
+  }
+}
