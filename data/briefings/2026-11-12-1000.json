@@ -1,0 +1,135 @@
+{
+  "run_id": "2026-11-12-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "spain-housing-strike",
+    "new_storyline_name": "Spain housing strike",
+    "headline": "Spain shuts down over rent, weeks before an election",
+    "story": "Millions of people joined Spain's first general strike in 14 years on Wednesday. It was called by tenants' associations and unions over soaring housing costs. Clashes broke out in Barcelona. The strike lands just weeks before an election in which the far right could be catapulted into power.",
+    "so_what": "Housing is now the issue that can sink governments across rich countries, and Australia has the same anger. If the far right profits in Spain, expect other European centre-left parties to rush to promise rent controls.",
+    "last_time": null,
+    "money_angle": null,
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/670f7b1292952fbdbf85579bbc17110a0b1e8a16/499_0_4522_3617/master/4522.jpg?width=140&quality=85&auto=format&fit=max&s=e1201028ddc5ea474dc793f23069ff7f",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Tehran says Trump is preparing new strikes or a squeeze, and Brent bounces",
+      "story": "An adviser to Iran's chief negotiator says Tehran believes Washington is planning either fresh strikes or ever-tighter sanctions, and could be forced into pre-emptive action. Parliament speaker Ghalibaf says Hormuz will 'never return' to its pre-war status and that Iran is waiting for an official US reply to its seven conditions. In the US, Treasury Secretary Scott Bessent has reportedly been moved to a military base after alleged Iranian threats.",
+      "so_what": "Both sides are talking like the war is not over, even as Trump says it is. Oil is the thermometer: Saudi output is back near pre-war levels, but crude exports from the Gulf are only about 80% recovered and refined products about 35%.",
+      "last_time": {
+        "run_id": "2026-11-12-0000",
+        "text": "Last run Iran called the talks 'a pure lie' and three ships hit mines. Now Iran is also warning of a US attack, and Hormuz is being described as permanently changed."
+      },
+      "money_angle": "Brent was reported up nearly 3% near $94 on Wednesday after Iran denied talks, and it is $92.63 in our latest read. Diesel (heating oil) jumped more than 4%.",
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/cf2f295d1d5a6ef4a04d6ea471994bcd584f485d/94_0_4620_3696/master/4620.jpg?width=140&quality=85&auto=format&fit=max&s=5b3b2fdd657746c6988698fdfee16f03",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/11/trump-planning-military-assault-or-tighter-sanctions-iranian-officials"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Jumps-3-to-94-as-Iran-Denies-Any-Talks-With-Washington.html"
+        }
+      ]
+    },
+    {
+      "storyline": "southeast-asia",
+      "new_storyline_name": null,
+      "headline": "Indonesia's vice president resigns as Prabowo's coalition frays",
+      "story": "Indonesia's vice president has resigned, a sign that the ruling alliance is fraying. The BBC says it comes as President Prabowo faces a growing rift with his predecessor Joko Widodo. It is a rare crack in a government that looked very stable.",
+      "so_what": "Indonesia is Southeast Asia's biggest economy and a key supplier of nickel, so a coalition fight matters beyond Jakarta. It is too early to say whether this is a one-off or the start of a real split.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e5a/live/8d137e10-dcf1-11f1-9ef0-4b5930e2f80e.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Bangladesh gets three more years before losing least-developed status",
+      "story": "RANE Worldview reports that Bangladesh and Nepal have been given three more years to prepare for leaving the UN's 'least developed country' list. The Daily Star is asking how Bangladesh can use that window at COP31, where the PM is attending.",
+      "so_what": "Leaving the list ends the duty-free access to rich markets that the garment industry relies on, so extra time lowers the near-term risk for exporters. It does not remove the need to get ready, and it comes while the country is also dealing with a wave of bombings and arson.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "RANE Worldview (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPa3huTEJDMEZybXBjT192dlcwcDJaSXViVTdLYjNES25CUGhxUUY2SlhxcnJ2N0tvVlhIaHIyOGtXSXhqcHZIUWE5NVMxazQ4Q25vbXlGR19MNG96aG90WnZra0c1RzZkVldLMWtOWWxwN3hnVUJLWTIwY1hJbXRScVpLVjV5Y1lxb0IwbFU5YmVWMWFvU3Mxd0JwcGZaZ0xEcUVrRmF2ZnpoUzliMmYwSXMwTFphblp3X09adnNCU2N4Z0dyVmNERlF4UElpc0FYcW1WUUNoSWJ5ZkRCcXc1cUFfS1lwdVE0T2x6Nmc3Q0oycHA1ZmhjeWtpdDgyNG80RV9keUtPVHQ?oc=5"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX2xoSFo4N2tpaTVnRWpOOFFvX3BKRFJ5TUVwVFgwOXF2aFFwbXZDN1VzZWpZWllodlZsbGpYbS1WQkkySDFoMi12R3N4cmxFRHhmQ0FQN3RBVDJvZGdDQVlnUFI2dWZnQUFwZDR6dERGU256REFCNHZySjRKdVVSaWVJTnRRMktQRVlzWmRyTnBlVzVjQlp1V01JeFNkd2t1QXMzUkRxREtWZWFkLVkzZA?oc=5"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Envoys in Moscow, and Iran's reply",
+    "text": "US envoys meet Putin and Zelensky separately on Thursday. Also watch whether Washington answers Iran's seven conditions, and whether Spain's strike turns into election momentum."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-10-1000-1",
+      "verdict": "open",
+      "text": "I said not to chase oil lower on deal headlines, and my test is a signed deal with Brent under $88 for a week. Brent is $92.63 now (from $92.17 at the take) and Iran denies any talks, so there is no deal. That is looking better than the deal bets, but the week is not up. It stays open."
+    },
+    {
+      "take_id": "2026-11-06-1000-1",
+      "verdict": "open",
+      "text": "I said not to buy the AI dip in one go. The S&P 500 is 7,619 against 7,354 at the take, and the Nikkei is 61,249 against 61,078, so the dip is more than recovered. Nvidia's CEO investigation is a live risk, but waiting has cost some upside. It stays open."
+    }
+  ],
+  "heat": {
+    "middle-east": 8,
+    "spain-housing-strike": 5,
+    "southeast-asia": 4,
+    "bangladesh-economy": 4,
+    "bangladesh-politics": 8,
+    "russia-ukraine": 7,
+    "oil-energy": 6,
+    "ai-tech-power": 6,
+    "us-congress-war-powers": 4,
+    "iran-europe-cyber": 3,
+    "fed-rates-dollar": 5
+  }
+}

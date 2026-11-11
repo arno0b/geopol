@@ -1,0 +1,55 @@
+{
+ "slug": "spain-housing-strike",
+ "versions": [
+  {
+   "date": "2026-11-12",
+   "how_we_got_here": "Spain's housing costs have climbed for years, and rents and purchase prices have outrun wages, especially for young people in cities like Madrid and Barcelona. Tenants' associations have organised protests over rents for some time, but until now they did not move the whole country.\n\nOn **11 November 2026**, tenants' associations and the main unions called a 24-hour general strike over housing and the cost of living. It was Spain's first general strike in **14 years**, the last being in 2012. Millions took part, according to the Guardian, and there were clashes in Barcelona.",
+   "players": [
+    {
+     "name": "Tenants' associations",
+     "wants": "Lower and capped rents, more public housing and tougher limits on speculation."
+    },
+    {
+     "name": "Main unions",
+     "wants": "Wages and protections that keep up with living costs, and a political win on housing."
+    },
+    {
+     "name": "The government",
+     "wants": "To show it is acting on housing without losing business and investor support before the election."
+    },
+    {
+     "name": "The far right",
+     "wants": "To turn voter anger over housing and living costs into votes. Reporting says it could be catapulted into power."
+    }
+   ],
+   "stakes": "Housing is a political and economic issue at once: it drives how much young people can save, spend and have families. A strong far-right result would shake the EU's political balance. For markets, rent caps and tougher rules for landlords matter to property investors in one of Europe's hottest tourist and housing markets.",
+   "current_state": "The strike has happened and turnout was high by Guardian and BBC reporting. The election is a few weeks away. There is no sign yet of a policy response from the government in our sources.",
+   "watch_next": "How the government answers, whether more strikes or marches are called, polling for the far right after the strike, and whether the housing anger spreads to other European countries.",
+   "timeline": [
+    {
+     "date": "2012-11-14",
+     "event": "Spain's previous general strike, against austerity."
+    },
+    {
+     "date": "2026-11-11",
+     "event": "Spain's first general strike in 14 years, called by tenants' associations and unions over housing costs."
+    },
+    {
+     "date": "2026-11-11",
+     "event": "Clashes erupt in Barcelona as thousands march."
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
+    },
+    {
+     "name": "BBC World",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "change_note": null
+  }
+ ]
+}
