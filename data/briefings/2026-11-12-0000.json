@@ -1,0 +1,173 @@
+{
+  "run_id": "2026-11-12-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "middle-east",
+    "new_storyline_name": null,
+    "headline": "Iran says there are no talks and Hormuz stays shut, as three ships hit mines",
+    "story": "Iran's security chief Mohsen Rezaei called reports of talks with Washington 'a pure lie' and said the Strait of Hormuz will not reopen until the US meets seven conditions. Iran has not published the list, but it reportedly includes lifting sanctions and the US naval blockade, and an end to fighting on all fronts. The IRGC says at least three ships hit mines and caught fire in the strait. Separately, the US charged three Iran-backed men over nearly 20 attacks, including a plot involving RAF Fairford, a UK base used by US aircraft.",
+    "so_what": "Trump says there is 'positive momentum', but Tehran is publicly denying any negotiation. The peace story in the oil price is running ahead of what is actually being said on the Iranian side.",
+    "last_time": {
+      "run_id": "2026-11-11-1000",
+      "text": "Last run Rubio said no more major combat was needed and the Houthis kept hitting Saudi pipelines. Now Iran itself has denied the talks and said Hormuz stays shut."
+    },
+    "money_angle": "Brent is $93.28, up from $92.06 last run, and WTI is $87.33. OilPrice says crude reversed its fall as peace optimism faded.",
+    "my_take": null,
+    "image": {
+      "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg",
+      "credit": "BBC World"
+    },
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met?traffic_source=rss"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-as-Iran-Peace-Optimism-Fades.html"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "ai-tech-power",
+      "new_storyline_name": null,
+      "headline": "Nvidia hires a top law firm as Trump says the FBI is looking at Jensen Huang's affair",
+      "story": "Trump says the FBI is looking into the affair between Nvidia's boss and Alice Huang, whom US officials believe spied for Beijing. He says Huang told him he 'had no idea' and that he believes him. Nvidia has hired a major US law firm to run an independent investigation and says it has no reason to think its secrets were compromised. China calls the claims groundless. The Guardian says about $430bn has come off Nvidia's value since the allegations, and Al Jazeera reports a Chinese university bought banned H200 chips.",
+      "so_what": "This is now a chip-export story as well as a boardroom scandal. Each new case of banned chips reaching China gives Washington's hawks more to work with.",
+      "last_time": {
+        "run_id": "2026-11-11-0000",
+        "text": "Last time the FBI claim was fresh and hawks were pouncing. Now Nvidia has hired lawyers, the loss in value has grown, and a new chip-smuggling report has landed."
+      },
+      "money_angle": "Nvidia was expected to recover about 5% in premarket trading on Wednesday after two days of losses. The Nikkei is 61,249, up from 60,460 last run.",
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png",
+        "credit": "BBC Business"
+      },
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian Business",
+          "url": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Dhaka rejects Hasina's passport request as 33 bombs go off in a day",
+      "story": "bdnews24 reports 33 crude bomb blasts and 13 vehicles torched in a single day, with 59 suspects arrested. The government has rejected Sheikh Hasina's request for a passport, though she could still try to return by other routes. Jamaat says a neighbouring country is backing attempts to destabilise Bangladesh. Biman has also suspended Riyadh flights until Nov 30 after the airport attacks.",
+      "so_what": "Saying no to her passport shuts one door but not the unrest, which is now an everyday pattern. The government is under pressure to show it can keep order without being seen as heavy-handed.",
+      "last_time": {
+        "run_id": "2026-11-11-1000",
+        "text": "Last run over 100 bombs near Padma Bridge and the first death on the roads. Now arrests have risen to 59 and the government has formally refused her a passport."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "bdnews24",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9STGVsX0V1WEZmazZBT0w4RkU5VFdnWjlFQ3RaclhrMkhacnR4N0pCcDRaNGVlWmQ4QzBlWk5ibjVRR0RZMDFjWjAxUEd2clZTbDJabQ?oc=5"
+        },
+        {
+          "name": "bdnews24",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51YThpNU1FYURjem5uUG9qcFdmbkwxNXFlY0xtOWl3cVh5VmlXd3doQXJPWENVdjZleUlVQ0VkQmp6R2lnVnF1Y0l6WHJ1cHVlRDBSVA?oc=5"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQjV5UHRSMlFLdzJWNTB2Y183RW5RbkJWdmo0QUJFbFYwTlJUMERCNWVwQkQyODg2bHZTbzBTZl9BbFFJSERfbEJjajNDUlFzNTNHaFZXY3ZsNW9wT3dVOGFIWTlmUXNhal9QWEFLU2l0Z19mOUZkMlJ2a3dsZ1FZd3p2TklobFRRTmpVejNwVVBvRHN3NmRKc2ZldTA2a0Y2MHZ3NFJYNDN0LTkxMEFtM0xiQkUydTlSTWhmbE9Oc1g?oc=5"
+        }
+      ]
+    },
+    {
+      "storyline": "us-congress-war-powers",
+      "new_storyline_name": null,
+      "headline": "Hegseth survives the impeachment vote 211 to 204, for now",
+      "story": "The House voted to send Thomas Massie's impeachment articles to the Republican-led Judiciary Committee, which effectively kills them. Every Republican except Massie voted to refer. More than a dozen members missed the vote, including 11 Democrats. Hegseth called it a 'farce'. Democrats take both chambers in January and Hakeem Jeffries said 'it's just the beginning'.",
+      "so_what": "The war-powers fight over Iran moves to next year, when Democrats will control the committees that decide what gets investigated.",
+      "last_time": {
+        "run_id": "2026-11-11-1000",
+        "text": "Last run the vote was still pending. It has now failed, narrowly, and the argument is about who skipped it."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg",
+        "credit": "BBC World"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "US envoys will now meet Putin and Zelensky separately",
+      "story": "After the Abu Dhabi round, which the Guardian says saw some progress, US negotiators will meet Putin in Moscow and Zelensky separately next. NPR notes the talks have not yet produced a significant breakthrough in any of the rounds. An Al Jazeera opinion piece argues Putin is not ready for peace because he thinks he can outlast Western support.",
+      "so_what": "Shuttle diplomacy means the hard questions on land and security guarantees are being carried back and forth, not settled in the room.",
+      "last_time": {
+        "run_id": "2026-11-11-1000",
+        "text": "Last run day one ended 'constructive' with a second day planned. The talks have now produced a next step, but no deal."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates"
+        },
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Envoys to Moscow, and Hormuz",
+    "text": "Whether Putin gives anything on borders when the US envoys arrive, and whether Iran publishes its seven conditions or the mine strikes in Hormuz continue."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-10-1000-1",
+      "verdict": "open",
+      "text": "I said not to chase oil lower on deal headlines, and my test is a signed deal with Brent under $88 for a week. Brent is $93.28 now (from $92.17 at the take), so it has risen on net as Iran denies any talks. That is looking better than the deal bets, but a week of data is not in. It stays open."
+    },
+    {
+      "take_id": "2026-11-06-1000-1",
+      "verdict": "open",
+      "text": "I said not to buy the AI dip in one go. The S&P 500 is 7,521 against 7,354 at the take, and the Nikkei is 61,249 against 61,078, so the dip is fully recovered in Japan. Nvidia's scandal is a new risk, but waiting looks like it cost some upside. It stays open."
+    }
+  ],
+  "heat": {
+    "middle-east": 8,
+    "ai-tech-power": 6,
+    "bangladesh-politics": 8,
+    "us-congress-war-powers": 5,
+    "russia-ukraine": 7,
+    "oil-energy": 6,
+    "fed-rates-dollar": 5,
+    "iran-europe-cyber": 3
+  }
+}
