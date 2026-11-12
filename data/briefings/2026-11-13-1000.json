@@ -1,0 +1,128 @@
+{
+  "run_id": "2026-11-13-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "ai-tech-power",
+    "new_storyline_name": null,
+    "headline": "Jensen Huang resigns as Nvidia CEO",
+    "story": "Huang has stepped down after reports of affairs, including one with a woman US intelligence is said to believe is a Chinese spy, and relationships with two employees. CFO Colette Kress takes over on an interim basis until a full-time successor is named. President Trump has publicly said Apple's Tim Cook should get the job. A day earlier the board was still weighing his future.",
+    "so_what": "The man who built the world's key AI chip company is gone, and the company seems to have had little succession planning. His exit also puts Nvidia in the middle of the US-China chip fight.",
+    "last_time": {
+      "run_id": "2026-11-13-0000",
+      "text": "Last time the board was weighing Huang's future and Beijing called the spy claim fabricated. Now he has gone and Kress is interim CEO."
+    },
+    "money_angle": "The Guardian reported shares falling hard on the scandal. The S&P 500 is 7,592, down from 7,619 in the last briefing.",
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=140&quality=85&auto=format&fit=max&s=0bffdc317e7389b79d2db7be06881297",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Putin holds his hard line with US envoys, but agrees Europe can join the next round",
+      "story": "In the Kremlin, Putin told Kushner and Witkoff he would target any foreign troops sent to Ukraine and would not soften his demand for full control of four Ukrainian regions. Witkoff says he did agree that European negotiators can join the next round. The envoys then met Zelensky in Dublin. Meanwhile Ukraine says a drone hit a Russian warship in the Gulf of Finland, and Starlink was disrupted again.",
+      "so_what": "A seat for Europe is a small step, but the core gap on land and troops has not moved. That makes a quick deal unlikely.",
+      "last_time": {
+        "run_id": "2026-11-13-0000",
+        "text": "Last time the envoys had just reached Moscow. Now we know the result: no change from Putin on territory or foreign troops."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/197_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=bc24ba4c55bc400bf67c2fe746d0ae70",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "oil-energy",
+      "new_storyline_name": null,
+      "headline": "Trump says the US doesn't need an Iran deal, and Brent jumps to $96",
+      "story": "On Truth Social, Trump wrote that the US no longer needs a deal with Iran and that Washington controls Iran's money and the Strait of Hormuz. That is a sharp turn from Monday, when he suggested the eight-month war was nearing its end. OilPrice reports Brent briefly touched $96.",
+      "so_what": "Oil has spent November swinging on peace hopes. Today shows how fast those hopes can reverse, and petrol prices follow with a lag.",
+      "last_time": {
+        "run_id": "2026-11-10-1000",
+        "text": "Last time Brent was $92.17 and I warned against chasing oil lower on deal headlines. It is now $95.77."
+      },
+      "money_angle": "Brent is $95.77 and WTI $88.70. Gold is $3,882.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Briefly-Hits-94-After-Trump-Says-US-Has-No-Need-for-Iran-Deal.html"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Garment owners weigh an indefinite shutdown of 210 factories",
+      "story": "The Dhaka Tribune reports that owners are weighing an indefinite shutdown of 210 garment factories. BGMEA president Mahmud Hasan Khan said wage talks cannot continue amid the unrest and that owners will take steps in the industry's interest if it does not improve. Last time we noted 146 factories had suspended work, so the number is rising.",
+      "so_what": "Garments are Bangladesh's biggest export. A long shutdown risks orders and buyers' trust, and it stalls the wage talks that could end the unrest.",
+      "last_time": {
+        "run_id": "2026-11-13-0000",
+        "text": "Last time 146 factories had suspended work. The threat has now grown to 210 factories and an open-ended shutdown."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/424473/owners-weigh-indefinite-shutdown-of-210-garment"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Nvidia's successor, and Iran",
+    "text": "Who Nvidia names as permanent CEO, and whether Trump's Iran line hardens or softens again."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-10-1000-1",
+      "verdict": "open",
+      "text": "I said not to chase oil lower on deal headlines, with a test of a signed deal and Brent under $88 for a week. Brent is $95.77, up from $92.17 at the take, and Trump now says no deal is needed. So far the call looks sound, but the week is not up. It stays open."
+    }
+  ],
+  "heat": {
+    "ai-tech-power": 8,
+    "russia-ukraine": 7,
+    "oil-energy": 7,
+    "bangladesh-economy": 6,
+    "middle-east": 7,
+    "taiwan": 3,
+    "us-china": 5
+  }
+}
