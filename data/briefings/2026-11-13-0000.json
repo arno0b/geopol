@@ -1,0 +1,145 @@
+{
+  "run_id": "2026-11-13-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "taiwan",
+    "new_storyline_name": null,
+    "headline": "Xi says Taiwan's 'reunification' will happen, and Taipei says no",
+    "story": "Xi Jinping said the tide of history 'cannot be stopped' and that the 'complete reunification' of Taiwan with China will happen. Taiwan answered by rejecting 'one country, two systems'. Al Jazeera reports Xi called for a peaceful route, so this is a statement of intent, not a new move.",
+    "so_what": "Taiwan has been quiet in this briefing for weeks. Xi choosing to say it now, while Washington is accusing China over Nvidia, adds one more strain to US-China ties.",
+    "last_time": null,
+    "money_angle": null,
+    "my_take": null,
+    "image": {
+      "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af593ae-1794479022.jpg?resize=1920%2C1440",
+      "credit": "Al Jazeera"
+    },
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen?traffic_source=rss"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "ai-tech-power",
+      "new_storyline_name": null,
+      "headline": "Nvidia's board weighs Jensen Huang's future, and China calls the spy claim fabricated",
+      "story": "Nvidia's board is reportedly meeting to decide whether Huang stays, after reports of affairs, including one with a woman US intelligence believes is a Chinese spy. The Guardian notes Huang holds a plain 3.6% stake with no special voting rights, so the board can act. China says the US is 'fabricating' the spy claims to justify a tech 'blockade'.",
+      "so_what": "A founder-CEO change at the world's key AI chip maker would be a big shock. It also now sits inside the US-China chip fight.",
+      "last_time": {
+        "run_id": "2026-11-12-0000",
+        "text": "Last time Nvidia had hired a top law firm and Trump said the FBI was looking at Huang. Now the board is weighing his future and Beijing has publicly replied."
+      },
+      "money_angle": "The Guardian says Nvidia shares fell pre-market. The S&P 500 is 7,619 and the Nikkei 60,819.",
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "US envoys sit down with Putin as Russia and Ukraine trade strikes on capitals",
+      "story": "Jared Kushner and Steve Witkoff are in Moscow to meet Putin, after two days of three-way talks in the UAE with no breakthrough. They go on to meet Zelensky in Dublin later Thursday. Russian drones have hit Kyiv again, and Ukraine says military Starlink was disrupted again. The BBC reports Ukrainians living on a few hours of power a day.",
+      "so_what": "Diplomacy is moving, but the war is not slowing. Winter blackouts raise the pressure on Kyiv to take a deal.",
+      "last_time": {
+        "run_id": "2026-11-12-0000",
+        "text": "Last time the envoys were set to meet Putin and Zelensky separately. They have now arrived in Moscow."
+      },
+      "money_angle": "OilPrice says Brent fell over $1 to about $91 on Ukraine and Iran peace hopes. Brent is $92.17 in our latest reading.",
+      "my_take": null,
+      "image": {
+        "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af573436cb0-1794470723.jpg?resize=1920%2C1440",
+        "credit": "Al Jazeera"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Sink-as-Iran-and-Ukraine-Peace-Optimism-Builds.html"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Garment unrest: 146 factories suspend work",
+      "story": "The Business Standard reports 146 garment factories have suspended work amid fresh unrest. bdnews24 reports police dispersing garment workers who blocked the Dhaka-Tangail highway. The headlines give no cause, so the reason is not yet clear to us.",
+      "so_what": "Garments are Bangladesh's main export, so repeated stoppages hurt orders and foreign buyers' trust, just as Dhaka is trying to close IMF talks by January.",
+      "last_time": {
+        "run_id": "2026-11-12-1000",
+        "text": "Last time Bangladesh won three more years before losing least-developed status. This is a reminder that the export base is under strain."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNXRXR2p2VTNUU2FoaDdCTGVQQ2UyVHdIQkxyc0xlVzRMWF9VOEg0VFdoMkRqX1hRZGIxbXZsZ0J0aV9LYi11MHNfRXlsWk1rcjMya2Fybjc3ZkRLUnRHZFRnYWdxanRpWDlSYWNTS0FyQmxkbTBTVk1YRUl5NTdEcGxlSkkyaGNfVWtKSUF4d1NFbG5fY0Rz?oc=5"
+        },
+        {
+          "name": "bdnews24",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44NVptcEZZdmFwRnBTNHhwbmtKNmotYS1NcThnN1NJbXNzOGxteWRZa0gyZENma212dGppVTViM0hlNXpUVklFRVg3dDhJczNNc09wZA?oc=5"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Nvidia's board, and Moscow",
+    "text": "Whether Nvidia's board acts on Huang, and what Putin tells the US envoys before they fly to Zelensky."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-10-1000-1",
+      "verdict": "open",
+      "text": "I said not to chase oil lower on deal headlines, and my test is a signed deal with Brent under $88 for a week. Brent is $92.17 now, exactly where it was at the take, and there is still no signed deal. Dips on peace hopes keep fading, which fits the call, but the week is not up. It stays open."
+    },
+    {
+      "take_id": "2026-11-06-1000-1",
+      "verdict": "mixed",
+      "text": "I said not to buy the AI dip in one go. The S&P 500 is 7,619 against 7,354 at the take, so waiting has cost upside there. The Nikkei is 60,819 against 61,078, still slightly below. Nvidia's CEO crisis is a real new risk that justifies caution, so I'm calling this mixed."
+    }
+  ],
+  "heat": {
+    "taiwan": 4,
+    "us-china": 5,
+    "ai-tech-power": 7,
+    "russia-ukraine": 7,
+    "bangladesh-economy": 5,
+    "middle-east": 7,
+    "oil-energy": 6
+  }
+}
