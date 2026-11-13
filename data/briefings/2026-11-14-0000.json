@@ -1,0 +1,143 @@
+{
+  "run_id": "2026-11-14-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "middle-east",
+    "new_storyline_name": null,
+    "headline": "Iran hits a US radar in Bahrain, the first direct strike in months",
+    "story": "Iran's Revolutionary Guard says it destroyed a US early-warning radar in Bahrain. It says this was payback for a US air strike on a communications tower at Sirik, which overlooks the Strait of Hormuz. Tehran now threatens an 'unlimited' response over the Strait. At the same time Trump says the US does not need a deal, and has told Vance, who had reportedly looked at direct talks, to focus on other things. The UN nuclear watchdog also says it still cannot verify what is inside Iran's underground enrichment plant.",
+    "so_what": "Both the diplomacy and the military 'quiet' of recent weeks have cracked in one day. Analysts call it 'no war, no peace', and that state can tip either way fast.",
+    "last_time": {
+      "run_id": "2026-11-12-1000",
+      "text": "Last time the story was about peace hopes and Hormuz shipping. Now there are direct strikes on US forces and Trump has walked back the deal talk."
+    },
+    "money_angle": "Brent is $96.19, up from $95.77 in the last briefing and $92.17 on Nov 9. WTI is $88.62 and gold $3,898.",
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/f76fa0a8488f1c05bc755c935f60793cc0caee3d/448_0_4480_3584/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=1827173b1be92a1da7873febef1104d0",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "ai-tech-power",
+      "new_storyline_name": null,
+      "headline": "Senate summons Huang and Lutnick as the Nvidia scandal reaches Washington",
+      "story": "The Senate Banking Committee has summoned Jensen Huang and Commerce Secretary Howard Lutnick to testify, and warns of legal action if they refuse. Lutnick is under pressure over delays in blacklisting Megaspeed, a firm tied to an alleged Chinese spy, and one report says he could be fired. Megaspeed itself looks thin: a lottery retailer in rural Australia, a run-down shopfront in Kuala Lumpur and a near-empty Singapore office.",
+      "so_what": "This turns a corporate scandal into a test of US chip-export enforcement. Expect calls for tougher curbs on chip sales to China.",
+      "last_time": {
+        "run_id": "2026-11-13-1000",
+        "text": "Last time Huang had just resigned and Kress was interim CEO. Now Congress is demanding answers from him and from the minister in charge of export controls."
+      },
+      "money_angle": "The S&P 500 is 7,592. The risk is to AI chip stocks if export rules tighten.",
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/32216a34a823211e1918352cebe5089bd9ffadb0/661_0_4502_3602/master/4502.jpg?width=140&quality=85&auto=format&fit=max&s=569749a3b191adfd37bfaeacebdf542e",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/a-baffling-trail-from-australia-to-singapore-what-is-megaspeed-the-company-implicated-in-downfall-of-nvidias-jensen-huang"
+        }
+      ]
+    },
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Russia hits a Kyiv hospital as Europe's seat at the talks stays unsettled",
+      "story": "A Russian drone hit a hospital in central Kyiv, near several Western embassies, and injured three people. Zelensky says speed limits on SpaceX's Starshield system made it harder to shoot down drones. On diplomacy, Moscow says no decision has been made on letting Europe join the talks. EU foreign policy chief Kaja Kallas warns Europe not to walk into Russia's 'traps' on the order of the negotiations.",
+      "so_what": "Yesterday's sign that Europe might get a seat is already in doubt. Ukraine's air defence also now depends on a private US company's settings.",
+      "last_time": {
+        "run_id": "2026-11-13-1000",
+        "text": "Last time Witkoff said Putin had agreed Europe could join the next round. Now the Kremlin says nothing is decided."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/dc9a234fef04146303e642fa72a7e4133f5f0332/534_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=4f6b3aa602c14144386fe6e5fd7786d7",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/world/europe/424516/russia-says-no-decision-on-letting-europe-join"
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Garment owners may decide on Saturday whether to close 210 factories",
+      "story": "Workers want a Tk32,000 minimum wage and production disruptions continue. Owners may decide on Saturday whether to close factories in Ashulia, Jamgora and Hemayetpur indefinitely. The government has started subsidised rice sales for garment workers at Tk30 a kilo, a sign it wants to cool anger over living costs.",
+      "so_what": "A closure would hit Bangladesh's biggest export and could cost orders from global buyers. It could also push workers further out into the streets.",
+      "last_time": {
+        "run_id": "2026-11-13-1000",
+        "text": "Last time owners were weighing a shutdown of 210 factories. Now a decision date, Saturday, has been named, and the government has added rice relief."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/424512/tk32-000-minimum-wage-owners-consider-shutting"
+        },
+        {
+          "name": "bdnews24 (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JcDNBS3dVZ2UwQW9Da2JpZ3YxaE5xdmU2dEVaOG50REtxTEh5MUJHNHRXNlNnVG4yMkhtR2Iwamh6Z1JobE5LaF9rV0lXd08tamtjSw?oc=5"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Saturday's garment decision, and Hormuz",
+    "text": "Whether owners close the 210 factories on Saturday, and whether Iran follows its 'unlimited response' threat or the US hits back."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-10-1000-1",
+      "verdict": "open",
+      "text": "I said not to chase oil lower on deal headlines. Brent is now $96.19 against $92.17 at the take, Trump has dropped the deal talk, and Iran and the US have traded strikes. The call looks sound so far, but the one-week test is not up, so it stays open."
+    }
+  ],
+  "heat": {
+    "middle-east": 8,
+    "oil-energy": 7,
+    "ai-tech-power": 8,
+    "russia-ukraine": 7,
+    "bangladesh-economy": 6,
+    "us-china": 5,
+    "taiwan": 3
+  }
+}
