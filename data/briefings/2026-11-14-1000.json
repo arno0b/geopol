@@ -1,0 +1,162 @@
+{
+  "run_id": "2026-11-14-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "oil-energy",
+    "new_storyline_name": null,
+    "headline": "Oil is back in surplus, yet a Fed rate hike still looks likely",
+    "story": "The IEA says world oil supply beat demand by almost 2 million barrels a day in October, the first surplus since the Iran war began. Gulf exports recovered faster than demand, and Iraq's output hit its highest since 2019 as crude leaves Hormuz on smaller tankers. Even so, Brent is back at about $96 as the US and Iran trade strikes. US inflation is still near 4%, and CME's tracker points to a Fed hike in December, even though Treasury Secretary Bessent has warned against hiking into an energy shock.",
+    "so_what": "Cheaper oil has not fixed inflation, so rates may keep rising. That is bad news for mortgages and for the Australian dollar's rate path, and it makes oil a story about the Fed as much as about Hormuz.",
+    "last_time": {
+      "run_id": "2026-11-12-1000",
+      "text": "Last time the Fed was a side note and oil was all about deal hopes. Now supply data says the market is loosening, while rate-hike talk grows."
+    },
+    "money_angle": "Brent is $96.08 (from $96.19 last briefing), WTI $88.92, the US dollar index 103.4 and AUD/USD 0.6774. A surplus caps oil rallies; a Dec hike would lift the dollar.",
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/5b2b569f416b13096426488b7fd081de3679354e/759_0_4585_3669/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=36a563ead8599d4104ca2e8aee341c08",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "The Guardian Business",
+        "url": "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Production-Soars-to-2019-High-as-Hormuz-Flows-Surge.html"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Energy/Energy-General/Why-Falling-Oil-Prices-Wont-Save-America-From-Inflation.html"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Europe picks five countries for the Ukraine talks, as car bombs hit Moscow",
+      "story": "EU leaders have agreed on five countries to speak for Europe in the Ukraine peace talks, after a row over who should go. A US envoy's comments after meeting Putin make a European seat look likely, though the Kremlin says nothing is decided. In Moscow, car bombings killed a military officer and wounded an adviser to a former Ukrainian prime minister. Russia blames Kyiv.",
+      "so_what": "Europe is trying to get into the room before the deal is shaped. Bombings inside Russia give Moscow a reason to harden its line.",
+      "last_time": {
+        "run_id": "2026-11-14-0000",
+        "text": "Last time the question was whether Europe would get a seat at all. Now it has chosen its team, but Moscow has not agreed."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cda/live/d40d3460-df57-11f1-9172-871e44a840d8.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Qatar and Turkey sign a mutual defence pact",
+      "story": "Turkey and Qatar signed a mutual defence agreement after their leaders met in Istanbul. Both describe it as a message of deterrence amid regional instability. It lands as Iran says a gas tanker hit a mine in Hormuz and as Trump says he is happy with the 'status quo'.",
+      "so_what": "Gulf states are lining up extra security options instead of relying only on Washington. Watch whether other Gulf states follow.",
+      "last_time": {
+        "run_id": "2026-11-14-0000",
+        "text": "Last time Iran had hit a US radar in Bahrain. Now regional players are hedging with their own pacts, while mines keep hitting ships."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss"
+        },
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Dhaka and Delhi stall over Hasina, as a BNP leader is murdered in Khulna",
+      "story": "India has postponed the Bangladesh–India consular dialogue again and says Hasina's return is 'a legal matter'. BBC Bangla reports Delhi hinted at two conditions. Dhaka's law and home ministers say her Awami League will not be allowed back into politics. At home, a BNP leader was murdered in Khulna with no arrests after 20 hours, and the probe into the fire at NCP MP Nusrat's home is still inconclusive.",
+      "so_what": "The India relationship is frozen over Hasina, while political violence at home is testing the government's promise of order.",
+      "last_time": {
+        "run_id": "2026-11-12-0000",
+        "text": "Last time the focus was on Hasina's return row. It has now hardened into postponed talks and open violence at home."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/424557/india-silent-on-hasina-return-conditions-says"
+        },
+        {
+          "name": "bdnews24 (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDSTBUemR6SXVqMTJOUHhKUTFlaTBoM2tqRUdubDhxaldPd3JWWlNZcy1mTUY4X0FXMEUyV2c2VGtYN0tNSF9USk9lMTMxcXFrOTJTQw?oc=5"
+        },
+        {
+          "name": "The Daily Star (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZFJpZXNydTM2R0x4cmtKbElNTkUtbGQtbjJoTjIyYjliOXNVczU2YkZkQUN1VEs3aGI1UVZYTFZCRmkzNDgwb2xHcnp6R1JGT3k0bnpkOWMzbmJOb0QxQ255bDM5eWs0SV85UDNzRVNaMFZhQ0xkZkhBTDJ0OWtwZExyQk9FSmZxRFM5Y3Y3ZTRtQ09aalRGYTU4eHUyc1Bwblp3TE9SWUl3ODQzdTZCYTlDNHV0NXo2VEtNRg?oc=5"
+        },
+        {
+          "name": "The Daily Star (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXJBNTdQYU4wOXJLR3BuWDRGUlh3eGNuVi1zT0ZDRVdpZGFaR29TQmQ1NWJKRVRVa01aeVVNNEdSV3c4YnMzN2t5cDBXczlfVmVzMFJOLWpYc0RQbXJTdjNlSGt2MENJcjJqOWcyQ2VvTXFUUzM0bktHYk1SeFhlUnZuYmdkczdNSkxLWW41R3UtUUhRR1dyVkx0X3NUZ1NRU3VQSW1XYlRQbWFPMXlKUw?oc=5"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Saturday's garment decision, and Hormuz",
+    "text": "Whether owners close the 210 factories, whether Iran follows through on its 'unlimited response' threat, and the Fed's December signal."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-10-1000-1",
+      "verdict": "open",
+      "text": "I said not to chase oil lower on deal headlines, and my test is a signed deal with Brent under $88 for a week. Brent is $96.08 against $92.17 at the take, with no deal and fresh strikes. The call looks sound, but the week is not up until Monday, so it stays open."
+    }
+  ],
+  "heat": {
+    "oil-energy": 7,
+    "fed-rates-dollar": 6,
+    "russia-ukraine": 7,
+    "middle-east": 8,
+    "bangladesh-politics": 8,
+    "bangladesh-economy": 6,
+    "ai-tech-power": 7,
+    "us-china": 5,
+    "taiwan": 3
+  }
+}
