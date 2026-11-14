@@ -1,0 +1,174 @@
+{
+  "run_id": "2026-11-15-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "ai-tech-power",
+    "new_storyline_name": null,
+    "headline": "The Nvidia scandal now reaches Trump and his Commerce Secretary",
+    "story": "A Guardian analysis says Trump bought up to $5m of Nvidia stock before his administration scrapped a Biden-era rule that limited Nvidia's chip sales to China. Treasury Secretary Bessent says several agencies wanted the firm Megaspeed on the entity list for months, pointing the blame at Commerce Secretary Lutnick. Nvidia is now run by interim CEO Colette Kress, and Beijing sees Huang's fall as a political hit.",
+    "so_what": "What began as one executive's scandal is now a question about who knew what in the White House, and whether chip export rules were bent. Expect hearings, and expect China to use it as a story about US politics.",
+    "last_time": {
+      "run_id": "2026-11-14-0000",
+      "text": "The Senate had summoned Huang and Lutnick; now the focus has widened to Trump's own Nvidia shares and a public Bessent-Lutnick split."
+    },
+    "money_angle": null,
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/5534caea091e39afe776168281e50dd327c8be8e/563_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=62c117f622bf4e5987845906efdee2f7",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+      },
+      {
+        "name": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/china-sees-nvidia-chief-huang-s-swift-downfall-as-political-hit"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "ai-tech-power",
+      "new_storyline_name": null,
+      "headline": "A Microsoft outage and a US flight shutdown in one week",
+      "story": "Microsoft says services are fully restored after a day-long global outage that hit governments and businesses. Australian experts say the cost could run into the billions and expose reliance on foreign tech. Separately, the US had its longest nationwide FAA ground stop since 9/11; officials blame an old copper-wire upgrade, not a cyber-attack.",
+      "so_what": "Neither was an attack, and both still showed how much depends on a few old or concentrated systems. For Australia, it is a real sovereignty and resilience argument.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/411_82_4687_3752/master/4687.jpg?width=140&quality=85&auto=format&fit=max&s=32d07acfc6c3a30cd9dc6332d3e3023c",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno"
+        }
+      ]
+    },
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Trump's Iran plan: keep the stalemate and squeeze",
+      "story": "NPR reports Trump now says the 'status quo' is what Gulf allies want, and the post-midterms pivot is from threats of attack to economic pressure. Al Jazeera says Washington believes its blockade and sanctions are working, and that Vance was ordered away from talks. Iran rules out UN nuclear inspectors, and the IRGC says it destroyed a US radar in Bahrain.",
+      "so_what": "Neither side is moving toward a deal, so Hormuz risk stays in oil. The danger is a tit-for-tat strike like the Bahrain radar getting out of hand.",
+      "last_time": {
+        "run_id": "2026-11-14-0000",
+        "text": "Iran had just hit the US radar in Bahrain; the US line since is a managed standoff rather than escalation."
+      },
+      "money_angle": "Brent closed Friday at $95.84, back near its pre-deal-hope level.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Rules-Out-Return-of-UN-Nuclear-Inspectors-as-US-War-Talks-Stall.html"
+        }
+      ]
+    },
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Europe is warned not to walk into Russia's 'traps'",
+      "story": "BBC's Steve Rosenberg says Putin is holding to tough demands, and Moscow sees Europe's security architecture entering the talks as a win. EU foreign policy chief Kaja Kallas warns against 'walking into the traps that Russia is setting'. US envoy Kushner says he wants to broker Europe-Russia talks, as Zelensky rejects giving up land.",
+      "so_what": "Russia is trying to widen the talks from Ukraine to the whole European security order. Europe gets a seat, but at the price of discussing Russian demands.",
+      "last_time": {
+        "run_id": "2026-11-15-0000",
+        "text": "The US had floated Donbas for NATO; since then the focus has moved to what Europe will agree to discuss with Moscow."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b4/live/54139cb0-df82-11f1-b441-2b33b063138f.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dub"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Delhi wants guarantees on Hasina; BNP offices burn in Tungipara",
+      "story": "Reports say India wants two assurances from Dhaka before any return of Sheikh Hasina: her security and a fair trial. Dhaka's law minister says she cannot be allowed to do politics in Bangladesh. Meanwhile BNP and Jubo Dal offices were vandalised and set on fire in Tungipara, and Khulna police are struggling with killings and extortion.",
+      "so_what": "The Hasina question is stuck between two governments, while violence at home keeps the Awami League and BNP trading blame. Both strain the government as the economy weakens.",
+      "last_time": {
+        "run_id": "2026-11-14-1000",
+        "text": "Dhaka and Delhi were stalled over Hasina and a BNP leader was killed in Khulna; the stalemate and the violence both continue."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Google News (Dainik Jagran)",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOFVqMnBEWmN3czhUY19Wak5XRnkyMWlUeHRpeW9YQjI1YzNGVk5MSWUwRC04MXh3T3dYWm9RZTVzeVI0Y2NmaGhvSl9wU1Y3cTNaMXlDM09waDJTSzhtaHc5am9kNERMUE1lLVdIVVBZV3N3aXB2WmE3VWp3RVFfdE1ySzRjcmF1WHllNkpzMjdDY3RmRUxYeTdyQWY3Q3VaVm51QTlFLW9GQzltMjVnbGh0NnY?oc=5"
+        },
+        {
+          "name": "New Age BD",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmluOHBtRmVyRkhJVElTcGl0M2s0endyWW1WZUVoOWVaajZDOE9QMXN5LXZTa1dzYmpRb0c5Y0pxUm9IRTNOOWkyWnpnczZQN1pyNEFCUzF0WmlmbTBEYm1MU0xWMU1sdlRhbVBucHY3cnVOMUpjdmY1QWFuOXplWkJtZXBqR3lqLW5jUEhJRWh1N1YzcW41TkM5bGp2WlJ3dXBIOFMtNGhwN3lTX3AxTmJ3?oc=5"
+        },
+        {
+          "name": "bdnews24",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BeXpESXpJd2dldWszcmNWQ2thNXFuSklQYXYzNWc3ZEp1bk1LejRobHZDV3NzUEdkYTh3LTU0OEtYbkFMRmVjeDR1SFBBbjFWNzEwUg?oc=5"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Nvidia hearings, and the China summit",
+    "text": "Whether Lutnick survives the week, what the Senate learns about Trump's Nvidia shares, and whether the Trump-Xi-Putin meeting produces anything on arms or Iran."
+  },
+  "takes_review": [],
+  "heat": {
+    "ai-tech-power": 8,
+    "middle-east": 8,
+    "russia-ukraine": 7,
+    "bangladesh-politics": 8,
+    "oil-energy": 7,
+    "us-china": 6,
+    "bangladesh-economy": 7
+  }
+}
