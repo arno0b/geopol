@@ -1,0 +1,135 @@
+{
+  "run_id": "2026-11-15-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "us-china",
+    "new_storyline_name": null,
+    "headline": "Trump, Xi and Putin plan a joint meeting in China next week",
+    "story": "The White House says Trump, Xi and Putin will hold an unprecedented three-way meeting in China next week, around APEC. Trump will raise 'reduction of nuclear weapons'. Al Jazeera says a nuclear treaty and the US war on Iran are among the priority topics for Beijing and Moscow.",
+    "so_what": "Having all three in one room is a big deal in itself. Watch for any sign that Moscow and Beijing get something on Iran or Ukraine in return for arms talks.",
+    "last_time": null,
+    "money_angle": null,
+    "my_take": null,
+    "image": {
+      "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+      "credit": "BBC"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "US floats Donbas for NATO membership, Zelensky says",
+      "story": "Zelensky says US envoys, for the first time, asked whether Ukraine would give up the Donbas in exchange for a NATO path. He says any security deal could go to a referendum. He also says Russia rejected a ceasefire on energy infrastructure.",
+      "so_what": "This is a big shift in what Washington is willing to ask of Kyiv. A referendum would make it very hard for Zelensky to say yes quickly.",
+      "last_time": {
+        "run_id": "2026-11-14-1000",
+        "text": "Europe had just picked five countries for the talks; now the US has put a land-for-NATO idea on the table."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Audit says Bangladesh's growth was overstated for a decade",
+      "story": "A government forensic audit found GDP growth was inflated by up to 1.3 percentage points a year since FY15, with data manipulation across seven sectors under the previous government. The statistics bureau plans to change the GDP base year. Other numbers are weak too: bad loans are 32.78% of bank lending, and tax revenue is more than Tk50,000cr short for July to October.",
+      "so_what": "The economy is smaller and weaker than the old figures said, just as the budget gap widens. The garment unrest adds to it: BGMEA says 147 factories with about 300,000 workers are shut, and owners threaten more closures if workers don't return.",
+      "last_time": {
+        "run_id": "2026-11-14-0000",
+        "text": "Owners were due to decide on closing 210 factories; they have now issued a closure ultimatum, while the audit adds a new data shock."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/424622/titumir-forensic-audit-finds-overestimated-gdp"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/business/424605/nbr-s-revenue-shortfall-for-jul-oct%E2%80%99fy27-exceeds"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/business/424615/report-banks-lacking-capital-to-absorb-losses-as"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/424609/rmg-owners-warn-to-quit-wage-talks-over-factory"
+        }
+      ]
+    },
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "The UN counts 25 seafarers killed around Hormuz",
+      "story": "The UN says 25 seafarers have died in and around the Strait of Hormuz since the US-Israel war on Iran began, and says the situation 'cannot become the new normal'. Iran reports three more vessels hit mines. Qatar and Turkey have also signed a mutual defence pact, which analysts see as deterrence.",
+      "so_what": "Shipping risk in the Gulf is not fading, even with oil supply recovering. It keeps insurance costs and the oil risk premium alive.",
+      "last_time": {
+        "run_id": "2026-11-14-1000",
+        "text": "Qatar and Turkey had just signed their pact; since then the UN has put a human toll on the Hormuz fighting."
+      },
+      "money_angle": "Brent closed at $95.84, up from $92.17 on 9 November.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "The China summit next week",
+    "text": "Whether the Trump-Xi-Putin meeting produces anything on nuclear arms, Iran or Ukraine, and whether Zelensky answers the Donbas idea."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-10-1000-1",
+      "verdict": "right",
+      "text": "I said not to chase oil lower on deal headlines. No deal was signed, Trump said the US doesn't need one, and Brent is $95.84 against $92.17 then. The wrong-if condition (a signed deal with Brent under $88) did not happen."
+    }
+  ],
+  "heat": {
+    "us-china": 6,
+    "russia-ukraine": 7,
+    "bangladesh-economy": 7,
+    "middle-east": 8,
+    "oil-energy": 7,
+    "ai-tech-power": 6,
+    "taiwan": 3,
+    "fed-rates-dollar": 5
+  }
+}
