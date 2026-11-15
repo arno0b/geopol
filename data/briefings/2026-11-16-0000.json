@@ -1,0 +1,191 @@
+{
+  "run_id": "2026-11-16-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "us-china",
+    "new_storyline_name": null,
+    "headline": "Trump, Xi and Putin plan to sit down together in China",
+    "story": "The White House says Trump, Xi Jinping and Vladimir Putin will meet on the edges of the APEC summit in Shenzhen next week, a first for the three leaders. Trump says he will raise cutting nuclear weapons, and Iran may come up, but Ukraine is not on the agenda. A senior US official expects no agreement. Europe is uneasy, while Albanese says dialogue is a good thing.",
+    "so_what": "The US-Russia arms treaty ran out in February, so there are no limits on the two biggest arsenals. A deal that pulls in China would be historic, but the real risk is Europe being left out while Ukraine's future is discussed nearby.",
+    "last_time": {
+      "run_id": "2026-11-15-1000",
+      "text": "The Nvidia scandal and chip export rules dominated US-China news; now the focus shifts to a face-to-face summit."
+    },
+    "money_angle": null,
+    "my_take": null,
+    "image": {
+      "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+      "credit": "BBC"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations"
+      },
+      {
+        "name": "DW",
+        "url": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-world-4025-rdf"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/politics/international-relations/eyeing-his-legacy-trump-seizes-chance-for-arms-talks-with-xi-and-putin"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Iran drones hit at a US radar in Bahrain again",
+      "story": "Iran's IRGC says it launched six drones at a US radar at an air base in Bahrain, calling it retaliation. Bahrain says its air defences stopped several attacks. Iranian media say Foreign Minister Araqchi will be in Oman on Tuesday, where talks with Oman, a key go-between with Washington, are expected.",
+      "so_what": "Strikes are continuing while diplomacy quietly restarts through Oman. The pattern of small tit-for-tat attacks keeps Gulf shipping and oil prices on edge.",
+      "last_time": {
+        "run_id": "2026-11-15-1000",
+        "text": "The US line was a managed standoff; since then Iran has hit Bahrain again and Araqchi is heading to Oman."
+      },
+      "money_angle": "Brent closed Friday at $95.84 a barrel.",
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Audit: Bangladesh's GDP growth was overstated for a decade",
+      "story": "A government forensic audit finds GDP growth has been inflated by up to 1.30 percentage points a year since FY15. Experts say an overstated manufacturing boom drove much of it. Separately, Bangladesh Bank sold $200 million to steady the taka, and the government hopes to finish a new IMF loan framework by January or February.",
+      "so_what": "Weaker real growth makes debt and reserves look tighter than reported. It also gives the IMF talks a harder starting point, though the new government may be happy to blame the past.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaXktd0w4ajdTTjZ2UG42QXRGcHZ1VXgwdUw4MGJkM2VhQzA1c1pGRGZCenpHR0QzNlhOWTZySl9PTmxpNC1fNl96ZlprRGNnRFZoTnQwTG4tLXZNMHVwWkdLNFpoNmN1VXRyRllZcWsyZS0wSXFXaU1vNEp0WUxmbjdmSmV2aDFBX2xyLVBRckMtclJ4cndqcThoU3Y4MWpNUXlkNGd1eVdOdi1xMXFoN3ZLM2w5cW5WMGl2VVJscnVmamc?oc=5"
+        },
+        {
+          "name": "bdnews24",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVU2FiR2V1QUV6M2h4d01rVjFvSzJGaWFadUViUUNRMjVVZEZGSUtiaDlZOTI1VFVuYXZURjJMaG1XTGZ3M0hNdWZEX3VHTktE?oc=5"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOem5vaENYVTFTOU1rS0ZNaW45RnFFSmxQaVNUbzNvaG9LcEJKdkVMbF9RNy02QnYtQjRta3ZNWW56d3JxclpkVnJqZ0RWMnJDU3M1TGxnZm9BSmhoMjN2R0g3YWlOWlFJMWhsbmk0NmpMeXdWYXJRZHlCZS1zaWRhMmU5ZDh5MW1vOExMRVNiRkFJdXJyREJOWVpyallQQk5IdnlFS2EzZnQwdw?oc=5"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWRyQ0xaNkNlNXRIa3hnU3BfNDd2UTdNa05EZnN3WXNjNS1jVHJiNHBZN2NlRG5Fa0VTN2NwQVV3b2xjZDVEZWpGNVpaSGpTQnFfM1EybGZfTTJZU2YtOVNjMnFfMlhmdFZVaE56SlVpbzdQLXRtM2czYWctMzlMMzNFZUFjN2JBVnphQnVSUHBSN0hZbzF4YXhGWFhqeEpfTGEtXzFWbUREUzlfUWpSM3I2Mzlwdw?oc=5"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkRCR0tXVG5mYnpScUNsZkhHbkhNVlBIV04wSzNrenI1MzhxUWNDbGQ5ODlkSWRZX1lnNnhEakpJUnhlQlNNRnVfYmNmNzhhcXc1QmxQMGk0Z1o0YnEwVFFRa0xZUEtIUHo1dVM5cFpXLWZvX1QydFd0NXhPSFV6U3VxQ1A0R1JxZ0pXN2Y1YU9fTlhucTdyVGlhVDVDak5YNDhyUWNaT2Q?oc=5"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Armed Awami League march in Gopalganj; officials moved",
+      "story": "Banned Awami League activists staged an armed rally in Gopalganj, vandalised property and torched a memorial. The government has transferred the local DC and SP, and deployed 41 BGB platoons to industrial areas and Gopalganj. Separately, a depression in the Bay is expected to become a cyclonic storm by Monday.",
+      "so_what": "The Awami League is testing whether a ban can hold in its home district. The quick removal of officials shows Dhaka sees it as a security failure, and it adds to pressure on the government before a possible storm.",
+      "last_time": {
+        "run_id": "2026-11-15-1000",
+        "text": "Violence and the Hasina extradition standoff were the story; now the Awami League has shown it can still mobilise in Gopalganj."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://media.prothomalo.com/prothomalo-english/2026-11-15/223fs0n5/gola.avif",
+        "credit": "Prothom Alo"
+      },
+      "sources": [
+        {
+          "name": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/bangladesh/local-news/ae51ukice3"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/424702/gopalganj-dc-sp-transferred-after-armed"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/424689/41-platoons-of-bgb-deployed-in-industrial-areas"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/weather/424704/depression-over-bay-is-likely-to-intensify-into-a"
+        },
+        {
+          "name": "bdnews24",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hakstTkZ6WVJ4a3hoc0gyWldHQXRDWGJPb1lFWVA2SHZFLWxpV0lOSUd3VTFKM3d6ZHBnV3pTSjdoU0ZGNDFXaWUwMlBhOEJiMVItWA?oc=5"
+        }
+      ]
+    },
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Zelensky: Donbas-for-NATO could go to a referendum",
+      "story": "Zelensky says the US has floated Ukraine giving up the Donbas in return for NATO membership, and that any security deal could be put to a referendum. A US official only says 'many ideas continue to be discussed'. The Trump-Xi-Putin summit is not expected to cover Ukraine, and European leaders are urging the US not to make big concessions.",
+      "so_what": "Ukraine is signalling it will not give up land without its voters deciding. Meanwhile, the biggest conversation about the war is happening without Kyiv or Europe in the room.",
+      "last_time": {
+        "run_id": "2026-11-15-1000",
+        "text": "Europe was being warned about Russia's 'traps'; now Zelensky has confirmed the Donbas-for-NATO idea and floated a referendum."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Shenzhen: APEC, then the three-leader meeting",
+    "text": "Trump arrives Wednesday, meets Xi Thursday, then the trilateral. Watch for any nuclear talks, what is said on Iran, and whether Ukraine comes up despite the agenda."
+  },
+  "takes_review": [],
+  "heat": {
+    "us-china": 8,
+    "middle-east": 8,
+    "russia-ukraine": 7,
+    "bangladesh-economy": 8,
+    "bangladesh-politics": 8,
+    "oil-energy": 7,
+    "ai-tech-power": 6,
+    "taiwan": 3,
+    "fed-rates-dollar": 4
+  }
+}
