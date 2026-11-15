@@ -1,0 +1,97 @@
+{
+  "run_id": "2026-11-16-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "russia-ukraine",
+    "new_storyline_name": null,
+    "headline": "Estonia shuts every Russian border crossing after a drone-factory attack",
+    "story": "Estonia will close all three of its border crossings with Russia from 1 December. On Saturday eight people were detained during an attempted arson and bomb attack on Threod Systems, a company that makes long-range attack and reconnaissance drones. Estonian authorities say Russia's GRU military intelligence ordered it. The prime minister says Moscow wants to make Estonia afraid and weaken its support for Ukraine.",
+    "so_what": "This is a NATO member answering a sabotage attempt with a hard border move, not just words. It fits a pattern of Russian hybrid attacks on European defence industry, and other frontline states may now copy the step.",
+    "last_time": {
+      "run_id": "2026-11-15-0000",
+      "text": "The focus was a US idea of Donbas for a NATO path and Russia rejecting an energy ceasefire; now the pressure has moved to NATO's own border."
+    },
+    "money_angle": null,
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/871b52d53845d358d898e60304c0661c3bf28013/293_0_4672_3738/master/4672.jpg?width=140&quality=85&auto=format&fit=max&s=4699c1636ab8599033326f36694ff0a4",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Garment strike spreads as owners threaten an indefinite shutdown",
+      "story": "Nearly 150 clothing factories in Savar, Ashulia and Gazipur were shut this weekend as workers demand a minimum wage of 30,000 taka a month, up from 12,500. Workers blocked the Dhaka-Tangail highway on Sunday. The two main owners' groups say factories that cannot run will stay closed indefinitely under the 'no work, no pay' rule, and they question whether to keep joining wage board talks without protection.",
+      "so_what": "Garments are about 10% of GDP and nearly $40bn of exports a year. The wage board aims to report by the end of November, so a long shutdown would hit orders just as the new pay structure is meant to start on 1 December.",
+      "last_time": {
+        "run_id": "2026-11-14-0000",
+        "text": "Owners were weighing closing 210 factories; now nearly 150 are shut and owners say closures will be indefinite."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlJyaEdtRUh3WVhkbGtFX0pZbllELTZQWjc1eUpoRzYzdGNSOVFtS3BLRHBJcmRZeTlDa0VZWFVHZlRmQjlEVzFwT29VQWV1OW55Y3prcTZ0VDI3MEs1aFN6bE1YVFo3akZ0d0lqTlpPdEIxNVpoNllyNDUxUmhFUjBIbV9kVzNjUlNrLXp4QTJaSjBGaFp0OVJVR0xKUVlaaXZydA?oc=5"
+        }
+      ]
+    },
+    {
+      "storyline": "southeast-asia",
+      "new_storyline_name": null,
+      "headline": "World court to rule on whether Myanmar committed genocide against the Rohingya",
+      "story": "The International Court of Justice will deliver its judgment this week. It has never before found a state guilty of genocide. Bangladesh hosts around a million Rohingya refugees who fled Myanmar's military.",
+      "so_what": "A ruling against Myanmar would be a landmark and would also shape the case against Israel. For Bangladesh it could revive pressure on repatriation, but a verdict alone will not send anyone home.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/c5d561832d1bf74db164791e4e9b6d4e167dfae9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=090ff017f584b6c02d4f46319d31927c",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Estonia's 1 December border closure",
+    "text": "Watch for Russian retaliation and whether Latvia or Lithuania follow, plus the ICJ Rohingya ruling this week and the Shenzhen summit from Wednesday."
+  },
+  "takes_review": [],
+  "heat": {
+    "russia-ukraine": 8,
+    "bangladesh-economy": 8,
+    "southeast-asia": 5,
+    "us-china": 7,
+    "middle-east": 8,
+    "bangladesh-politics": 8,
+    "oil-energy": 7,
+    "ai-tech-power": 5,
+    "taiwan": 3,
+    "fed-rates-dollar": 4
+  }
+}
