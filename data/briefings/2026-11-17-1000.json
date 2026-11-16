@@ -1,0 +1,157 @@
+{
+  "run_id": "2026-11-17-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "middle-east",
+    "new_storyline_name": null,
+    "headline": "The Houthis close in on Aden, and Saudi oil exports are in the line of fire",
+    "story": "Iran-backed Houthi fighters have pushed to within about 100 km of Aden, the Saudi-backed government's temporary capital, after government forces pulled back from the Bab el-Mandeb strait. Riyadh has sacked the commander of its coalition forces, and its Yemeni allies are openly blaming Saudi strategy. The government says the retreat is to break the siege of Taiz and defend Aden.",
+    "so_what": "The Red Sea is Saudi Arabia's backup route around Hormuz, with crude shipped from Yanbu through Bab el-Mandeb to Asia. With Hormuz mined and three US carriers nearby, a Houthi grip on the second chokepoint would leave oil with no safe exit.",
+    "last_time": null,
+    "money_angle": "Brent is about $91.84, close to where it was a week ago, as forecasts of a surplus offset the risk. The market is not yet pricing a Red Sea cutoff, so a real closure would be a fresh shock.",
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/0ecb2503f6896c388697d436947fbafcc58a2e97/345_0_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=2beb9c59f77d4a48f505b75c6220edf0",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Energy/Energy-General/Houthi-Advance-Puts-Saudi-Crude-Exports-at-Risk.html"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "us-china",
+      "new_storyline_name": null,
+      "headline": "China confirms the Xi-Trump-Putin summit for Thursday, with the Nvidia scandal in the room",
+      "story": "Beijing says the first three-way summit will be held on Thursday, with nuclear limits, the Iran war, trade and possibly Ukraine on the agenda. Trump now says he would not mind Jensen Huang returning to Nvidia, even as Washington issues a new chip rule and senators press Commerce Secretary Lutnick to halt AI chip sales to China.",
+      "so_what": "Mixed signals on chips right before the meeting weaken Washington's hand. Expect Beijing to push for looser export rules in exchange for little.",
+      "last_time": {
+        "run_id": "2026-11-17-0000",
+        "text": "The summit was a plan with Trump en route; now China has fixed the date."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "CNBC World",
+          "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQalpqR2hQT1VZbE00dk9jWnZyTXFCRlQtYmFxcHd3cDF6V2Z6NGJENGxES042dVlTOEdTOFVyazRRVHA0dmlWRTFKLTNfSFVIMTJIb09KZjFKMkhicksxZnlIel9mSGM4b1k3LWl3a29tcnU3QUlud2NadzlVMTYxV0lCeVhVeEdkc0FBa25IM2pfUE5hbzUzZE5BbEh1UHB6dlcyRnJROA?oc=5"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-issues-new-chip-rule-as-china-s-ai-companies-fear-nvidia-scandal-fallout"
+        },
+        {
+          "name": "CNBC World",
+          "url": "https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html"
+        }
+      ]
+    },
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Ukraine hits the Kerch bridge as Russia reports its biggest drone attack of the war",
+      "story": "A Ukrainian drone struck an arch of the Kerch bridge linking Crimea to Russia, stranding thousands of drivers for hours. Russia says Ukraine launched more than 2,000 drones in a day, and Kyiv had a record 17 air raid alerts.",
+      "so_what": "The bridge is symbolic and logistic: even brief closures strain Russian supply into Crimea. Ukraine is showing it can hit hard while peace talks stall.",
+      "last_time": {
+        "run_id": "2026-11-17-0000",
+        "text": "Russia was offering NATO states separate pacts; now the war has escalated in the air."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/5d9bc8ebc5b7c43c5302bea08323e6024d72f453/860_0_4299_3439/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=7704ea25baced0d528d3fa4575ad26ad",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Around 40 garment factories in Savar and Ashulia shut as labour unrest drags on",
+      "story": "At least 40 factories in the Savar-Ashulia belt are closed, most under a legal power to suspend work and nine indefinitely, after workers blocked roads and police used tear gas. Separately, Dhaka businesses report gunfire and arson tied to extortion, with police working through a list of 545 suspects.",
+      "so_what": "Garments are Bangladesh's main export earner, so a long shutdown risks missed orders. A minimum wage board meeting that is overdue is the lever to watch.",
+      "last_time": {
+        "run_id": "2026-11-16-1000",
+        "text": "Owners were threatening a shutdown; now dozens of factories have actually closed."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/nation/424817/40-factories-shut-in-savar-ashulia-industrial-belt"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaHRzVVhRZnNFUUhIdHlBV2pyVU5NZjRiaFkzMGVlckFSdEtOZDlUaGNjNk1Ea2FMUXU5MTZCNEJpNjloM28tZDltcHdGQmlDN0xndUF3NG1Bc0Z2OGM1Nmx6SHg1VElIVjlPRDZzd0RkR1p2S0dxM1pCRlphMHgtcnQzd0lVSkZnazZtQjhUbW9UeTBmTGtjSFFXc1lQMWlJQ1p5LVRxc3diV0VxaEVPaEt2aktUZzJ4TmdtVzBWOU4yMjl4?oc=5"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/dhaka/424832/dhaka-extortion-attacks-gunfire-arson-hit"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUR6Y2ZzU0VjWmdqSFhkdXVwVVFjRWpXZmRjcE43SXFuWkpXZGM3QlBzaTBrYjhfejBLemx4VUlRaExaZnFwdzhXQnctMVNtaktLczJfbGhIaXJldi1Sc2VVekNvYjFFaUhuSVhZVS1JaklWUXZBN242MVIydU5JSG96dEZsNnZ5VjNrQmhkLXVNMEhNN20xdmNCYk1tcU9pRjlDbFl2TDU?oc=5"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/business/424819/minimum-wage-board-meeting-delay-raises-concern"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "The Xi-Trump-Putin summit on Thursday",
+    "text": "Watch for any Ukraine or Iran side deal, a chip-export concession, and whether the Houthis reach Aden before then."
+  },
+  "takes_review": [],
+  "heat": {
+    "middle-east": 9,
+    "russia-ukraine": 8,
+    "us-china": 8,
+    "ai-tech-power": 7,
+    "bangladesh-economy": 8,
+    "bangladesh-politics": 7,
+    "oil-energy": 7,
+    "southeast-asia": 4,
+    "taiwan": 3,
+    "fed-rates-dollar": 4
+  }
+}
