@@ -1,0 +1,168 @@
+{
+  "run_id": "2026-11-17-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "middle-east",
+    "new_storyline_name": null,
+    "headline": "A third US carrier reaches the Gulf as Iran says two more tankers hit mines",
+    "story": "The USS Theodore Roosevelt has arrived in the Middle East, joining two other US carriers. On Monday Iran's Revolutionary Guard said two oil tankers exploded after hitting mines in the Strait of Hormuz. The IRGC says the ships were using a southern route Iran has not authorised, under US guidance. These are Iranian claims and are not independently confirmed.",
+    "so_what": "Three carriers plus mines in the world's key oil chokepoint is a bigger build-up than a stalemate needs. It raises the odds that the US-Iran war resumes, and every ship that dares the southern route is a test of who controls Hormuz.",
+    "last_time": {
+      "run_id": "2026-11-15-1000",
+      "text": "The plan was to keep the stalemate and squeeze Iran; now the US has added a third carrier and the mine incidents are multiplying."
+    },
+    "money_angle": "Brent is $94.68, up from $92.17 a week ago, even though Goldman Sachs expects a glut in 2027 (Brent averaging $88). Near-term risk is to the upside, long-term pressure is down.",
+    "my_take": null,
+    "image": {
+      "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260718__C2HZ4C4__v1__HighRes__UsMilitaryRimpacArmament-1794786315.jpg?resize=1920%2C1440",
+      "credit": "Al Jazeera"
+    },
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Claims-Two-More-Oil-Tankers-Hit-Mines-in-Strait-of-Hormuz.html"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Warns-of-Massive-Oil-Glut-in-2027.html"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Russia offers non-aggression pacts to single NATO states and stalls Ukraine talks",
+      "story": "Russia has proposed non-aggression pacts with individual European countries, a move that could split NATO's collective defence. A Russian voice quoted by Al Jazeera says 'NATO will collapse'. The Kremlin is also angry that Zelensky made public a US offer linking Donbas to a NATO path, and wants US-Russia talks kept confidential.",
+      "so_what": "Moscow is trying to talk to Europeans one by one while Estonia and others harden their borders. If any state bites, NATO's promise that an attack on one is an attack on all gets weaker.",
+      "last_time": {
+        "run_id": "2026-11-16-1000",
+        "text": "Estonia shut its Russian border after a drone-factory attack; now Russia is offering pacts to divide the alliance."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/world/europe/424789/kremlin-slams-zelensky-for-divulging-us"
+        }
+      ]
+    },
+    {
+      "storyline": "us-china",
+      "new_storyline_name": null,
+      "headline": "Trump flies to Asia for a first three-way summit with Xi and Putin",
+      "story": "Trump lands in Manila for the Quad leaders' summit, then goes to Shenzhen for the first Trump-Xi-Putin meeting, on the sidelines of APEC. He travels after his party's heavy midterm loss, and analysts expect a bigger focus on foreign policy. Albanese meets him on Tuesday and wants the US engaged in the Indo-Pacific and the Iran and Ukraine wars ended. China, meanwhile, is resisting a nuclear treaty with the US and Russia because its arsenal is smaller.",
+      "so_what": "Expect big photos, not quick deals: Beijing will not sign limits on its nuclear build-up, and Putin will use the room to split the US from Europe. For Australia, the Quad meeting is the real test of US commitment.",
+      "last_time": {
+        "run_id": "2026-11-16-0000",
+        "text": "The summit was only planned; now Trump is on his way, with the Quad stop and Albanese meeting added."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/a079ab0a449ab532375e30c24aa3a9afc3fa2d2d/131_0_1307_1045/master/1307.jpg?width=140&quality=85&auto=format&fit=max&s=8bded43e353fe0508c8852e7a6576d5e",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "ai-tech-power",
+      "new_storyline_name": null,
+      "headline": "Musk and 165,000 others demand Nvidia take back Jensen Huang as the AI sell-off resumes",
+      "story": "Elon Musk has joined an open letter with over 165,000 signatures asking Nvidia's board to bring Huang back while an independent investigation runs. He resigned four days ago over an affair with a suspected Chinese spy, and is reported to be discussing a comeback. The US Treasury secretary wants a 'dramatic shake-up' instead. AI shares fell again on Monday.",
+      "so_what": "A single founder-CEO is now a market and national-security risk at once. The board's choice will show whether Washington or Silicon Valley wins this fight.",
+      "last_time": {
+        "run_id": "2026-11-15-1000",
+        "text": "The scandal had reached Trump and his Commerce Secretary; now it has become a public campaign to reinstate Huang."
+      },
+      "money_angle": "The AI sell-off is hitting tech shares again; Bitcoin is around $64,000 and Nvidia headlines are the main swing factor for the AI trade.",
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/e480adfe7860e9e4439f965fe15e55a5e4ff13f0/555_0_5960_4770/master/5960.jpg?width=140&quality=85&auto=format&fit=max&s=50878ed33290d246ee0c626a144dabdb",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Dhaka says Delhi's reported conditions on Hasina have no legal basis",
+      "story": "State minister Shama Obaed says India never discussed 'terms' for handing over Sheikh Hasina and that reported conditions have no legal basis. Dhaka expects her return under the existing extradition treaty. The Election Commission says a possible return will not affect the first phase of union parishad elections in 1,026 unions on 21 January.",
+      "so_what": "The government is playing down the risk and keeping the legal route open, while Delhi has so far given no sign of handing her over. Any real move would be a big shock for Awami League politics at home.",
+      "last_time": {
+        "run_id": "2026-11-15-1000",
+        "text": "Delhi was said to want guarantees on Hasina; now Dhaka publicly rejects the idea of any conditions."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/424802/shama-obaed-dismisses-reports-of-india-linked"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/424787/ec-hasina%E2%80%99s-possible-return-will-not-affect-local"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Trump's first Manila and Shenzhen meetings",
+    "text": "Watch for any Trump-Putin side deal on Ukraine, a Hormuz incident involving a US-escorted ship, and the Nvidia board's decision on Huang."
+  },
+  "takes_review": [],
+  "heat": {
+    "middle-east": 9,
+    "russia-ukraine": 8,
+    "us-china": 8,
+    "ai-tech-power": 7,
+    "bangladesh-politics": 8,
+    "bangladesh-economy": 8,
+    "oil-energy": 7,
+    "southeast-asia": 4,
+    "taiwan": 3,
+    "fed-rates-dollar": 4
+  }
+}
