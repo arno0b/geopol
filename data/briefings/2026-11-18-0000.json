@@ -1,0 +1,161 @@
+{
+  "run_id": "2026-11-18-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "russia-ukraine",
+    "new_storyline_name": null,
+    "headline": "Ukraine cripples the Kerch bridge, Putin's showpiece link to Crimea",
+    "story": "Ukraine says weeks of planning went into an overnight strike that partly collapsed the Kerch bridge, and Russian officials concede it is not usable for now. The Kremlin vows to rebuild it. Meanwhile Kyiv says a Russian 'double-tap' strike in the south killed 72 and that attacks are hampering the rescue.",
+    "so_what": "Crimea's road and rail supply runs over this bridge, so Russia must lean on slower routes. It also hands Kyiv a win just as Putin heads to a summit with Trump and Xi.",
+    "last_time": {
+      "run_id": "2026-11-17-1000",
+      "text": "Then a drone had hit an arch and stranded drivers for hours; now the bridge is critically damaged and out of use."
+    },
+    "money_angle": null,
+    "my_take": null,
+    "image": {
+      "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
+      "credit": "BBC"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/17/first-thing-russia-crimea-kerch-bridge-ukraine-strike"
+      },
+      {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Two more vessels burn after hitting mines in Hormuz, while oil keeps sliding",
+      "story": "Iran says two vessels caught fire after hitting naval mines in the Strait of Hormuz, and Bahrain says it stopped a drone attack that Iran's Guards claim targeted a US radar. Iran's foreign minister is also in Oman discussing shipping security and reviving talks.",
+      "so_what": "The shooting goes on but so do the back channels. Oman talking to Tehran is the only visible diplomatic track right now.",
+      "last_time": {
+        "run_id": "2026-11-17-0000",
+        "text": "Then a third US carrier had reached the Gulf; now more tankers have hit mines and Oman is mediating."
+      },
+      "money_angle": "Brent is about $92.83, near last run's $91.84. Glut forecasts are outweighing the attacks, but airlines are still squeezed as fuel hedges expire.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-and-Oman-Hold-Talks-on-Strait-of-Hormuz-Security-as-Tanker-Attacks-Surge.html"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-as-Global-Glut-Fears-Eclipse-Hormuz-Attacks.html"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Energy/Energy-General/Airlines-Face-Fuel-Crisis-as-Price-Hedges-Expire.html"
+        }
+      ]
+    },
+    {
+      "storyline": "us-china",
+      "new_storyline_name": null,
+      "headline": "China threatens retaliation over new US chip limits before the Trump-Xi-Putin summit",
+      "story": "Washington has tightened remote access to AI chips and servers, which hits Chinese firms renting computing power through South East Asia. Beijing says it will take 'necessary measures'. A separate US probe targets Singapore-based Megaspeed over suspected shipments of Nvidia chips to China.",
+      "so_what": "Beijing is arriving at the summit angry and holding a threat in hand. Expect chips to be a bargaining chip, not a footnote.",
+      "last_time": {
+        "run_id": "2026-11-17-1000",
+        "text": "Then the summit date was confirmed; now China has threatened retaliation over the chip rules."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/ba481d82e267325ef8519025c0b17f3d0b3e89be/478_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=31f862bc58f9d4915592de39fbc28520",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian Business",
+          "url": "https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "65 garment factories are now closed indefinitely as unrest spreads",
+      "story": "Ten more factories shut, taking the total closed indefinitely to 65. Police fired tear gas on workers blocking highways in Gazipur and Mirpur, and Al Jazeera reports bricks thrown and vehicles torched. The wage board meeting that was postponed has been rescheduled for 23 November.",
+      "so_what": "Garments are Bangladesh's main export, and a long shutdown risks missed orders. The 23 November wage board meeting is the lever that could calm things.",
+      "last_time": {
+        "run_id": "2026-11-17-1000",
+        "text": "Then about 40 factories were shut; now the number is 65 and protests have reached Dhaka's Mirpur."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Google News: Bangladesh economy",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc0o3dldWb2xwRWJwRTRESEdodkVENm0tMU95NlYzR3ViRmVRaXZIY1g2WjNoQVJYcUQ3WXBCcThCQWR2Z29PSmVXeDZPSUtnY0FVU21TMWhVLUtrUV9LN1hQVE5iVU0yd1FWdjlab0ZYUDd2dWxxcDBDOFdhdWtIMmVwYUFmelp4eW5KVHAwSENvTzRVNzdxSktkMF81Q2UwUVRoM0kteEstdw?oc=5"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss"
+        },
+        {
+          "name": "bdnews24",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aTDRpdTM0Qks3bmF3TW83T1d0SXJReDE5VllMUERyd0lvMHRIREN2SjNkRnhoVTZVdnJqQmM1bFp4REM1a3hnYUhENi1oV2VLalZqUQ?oc=5"
+        },
+        {
+          "name": "bdnews24",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MTjRqbEZ3b1NlNjdOcWg0T1JhTkcxNnhXalB6ZnRFaEhweUVXZTlwNVN5aElkMVhadmRubElXdVp5Qmx0dm1OYVNxZUFnQ1VwdXREcg?oc=5"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "The Trump-Xi-Putin summit",
+    "text": "Watch for whether China acts on its chip retaliation threat, and for any Ukraine deal after the Kerch strike."
+  },
+  "takes_review": [],
+  "heat": {
+    "russia-ukraine": 9,
+    "middle-east": 9,
+    "oil-energy": 7,
+    "us-china": 8,
+    "ai-tech-power": 7,
+    "bangladesh-economy": 8,
+    "bangladesh-politics": 6,
+    "southeast-asia": 5,
+    "taiwan": 3,
+    "fed-rates-dollar": 4
+  }
+}
