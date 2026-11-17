@@ -1,0 +1,143 @@
+{
+  "run_id": "2026-11-18-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "bangladesh-politics",
+    "new_storyline_name": null,
+    "headline": "Awami League supporters torch a police station as arson and bombs spread beyond Dhaka",
+    "story": "Hundreds stormed a police station in Gopalganj after Chhatra League activists were detained, and set fire to a BNP lawmaker's house and vehicles. A Krishak Dal leader burned to death in Faridpur during a road blockade, and crude bombs went off at five spots in Dhaka's Mohammadpur. The home minister says the banned Awami League will become 'Tungipara Limited', and promises action without 'indiscriminate force'.",
+    "so_what": "The violence is now in several districts, not just the capital, and the government is vowing to keep the Awami League out of politics for good. Add the garment shutdowns and this is a real test of whether Dhaka can keep order.",
+    "last_time": {
+      "run_id": "2026-11-17-0000",
+      "text": "Then the story was Dhaka rejecting reported Indian conditions on Hasina's return; now the fight has moved onto the streets with arson and deaths."
+    },
+    "money_angle": null,
+    "my_take": null,
+    "image": null,
+    "sources": [
+      {
+        "name": "Dhaka Tribune",
+        "url": "https://www.dhakatribune.com/bangladesh/nation/424935/awami-league-torch-police-station-bnp-mp-house"
+      },
+      {
+        "name": "Dhaka Tribune",
+        "url": "https://www.dhakatribune.com/bangladesh/424937/arson-attacks-beyond-dhaka-fuel-fears-of-fresh"
+      },
+      {
+        "name": "Dhaka Tribune",
+        "url": "https://www.dhakatribune.com/bangladesh/nation/424936/krishak-dal-leader-dies-after-motorcycles-set"
+      },
+      {
+        "name": "Dhaka Tribune",
+        "url": "https://www.dhakatribune.com/bangladesh/dhaka/424939/crude-bombs-explode-at-five-locations-in"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Iran hits Bahrain a third time and the US fires back along the shipping lane",
+      "story": "Iran fired drones at a US radar site in Bahrain, home of the US Navy's 5th Fleet, and the US retaliated against Iranian targets along a key shipping route. A gas tanker was also reportedly struck in the Strait of Hormuz and its crew abandoned ship. The US Navy chief told senators the war is straining his forces.",
+      "so_what": "This is now tit-for-tat, not a one-off. The Navy's own admission of strain matters if the Gulf stays this hot for months.",
+      "last_time": {
+        "run_id": "2026-11-18-0000",
+        "text": "Then two vessels had burned after mine hits and Oman was mediating; now Iran has struck Bahrain again and the US has hit back."
+      },
+      "money_angle": "Brent is $93.07, barely changed from $92.83 last run. Markets are shrugging off the attacks for now.",
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/7ac7eb4c22d2585e711481761223008925e95cb8/63_0_1138_910/master/1138.jpg?width=140&quality=85&auto=format&fit=max&s=6216ff0aa23c60c1b7c0f70bb8204ab2",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain"
+        },
+        {
+          "name": "The Guardian Business",
+          "url": "https://www.theguardian.com/world/video/2026/nov/17/inferno-engulfs-gas-tanker-in-strait-of-hormuz-after-reported-strike-video"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "west-bank-settlements",
+      "new_storyline_name": "West Bank & settlements",
+      "headline": "UK and Australia sanction settlement firms after settlers kill a 72-year-old woman",
+      "story": "The UK sanctioned eight Israeli companies tied to illegal West Bank settlements, its first sanctions since announcing a tougher line. Australia announced its own tranche, and Penny Wong said settlement growth and settler violence are 'extinguishing the possibility of a two-state solution'. Palestinian officials say settlers shot dead Fadda Fheidat, 72, near Jericho and wounded about 10 others; Israel's military says the settlers fired after being attacked.",
+      "so_what": "Allies are moving from words to sanctions on settlers, and Australia is now part of that. Expect friction with Washington and Jerusalem.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "ai-tech-power",
+      "new_storyline_name": null,
+      "headline": "Nvidia's revenue doubles to $115.8bn, but the board still won't take Huang back",
+      "story": "Nvidia reported third-quarter revenue of $115.84bn, double a year ago and above expectations, in its first results since Jensen Huang resigned over an alleged affair with a suspected Chinese spy. Huang says he would be honoured to return and will testify to House committees. The board says it is not reinstating him.",
+      "so_what": "The business is booming without him, which weakens the case that Nvidia needs Huang. The House hearing and chip rules are now the bigger risks.",
+      "last_time": {
+        "run_id": "2026-11-17-0000",
+        "text": "Then Musk and 165,000 signers were demanding Huang's return; now the board has said no, even as the numbers beat."
+      },
+      "money_angle": "S&P 500 is 7,340, down from 7,619 on 12 November. The AI trade is carrying more risk than the earnings alone suggest.",
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/8113a55d4f67088521e43617481262c2f4f3358a/366_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=886ec09740a96447a99058c23e7d0c2e",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Bangladesh's 23 November wage board",
+    "text": "See whether the wage meeting calms the factories while the Awami League arson continues."
+  },
+  "takes_review": [],
+  "heat": {
+    "bangladesh-politics": 8,
+    "middle-east": 9,
+    "west-bank-settlements": 5,
+    "ai-tech-power": 7,
+    "russia-ukraine": 9,
+    "us-china": 8,
+    "bangladesh-economy": 8,
+    "oil-energy": 6
+  }
+}

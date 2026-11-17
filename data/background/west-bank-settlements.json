@@ -1,0 +1,63 @@
+{
+  "slug": "west-bank-settlements",
+  "versions": [
+    {
+      "date": "2026-11-18",
+      "how_we_got_here": "Israel captured the West Bank from Jordan in the 1967 war and has built settlements there ever since. Most of the world, including the UK and Australia, treats them as illegal under international law; Israel disputes that. The Oslo accords of the 1990s split the territory into zones, leaving Israel in full control of about 60% of it. Since then the settler population has grown to roughly half a million, and settler violence against Palestinian villages has risen sharply, especially since the Gaza war began in October 2023.",
+      "players": [
+        {
+          "name": "Israeli government and settler movement",
+          "wants": "More settlements and lasting control of the West Bank; many ministers openly reject a Palestinian state."
+        },
+        {
+          "name": "Palestinian Authority and Palestinian villagers",
+          "wants": "An end to land seizures and settler attacks, and a state on the 1967 lines."
+        },
+        {
+          "name": "UK, Australia and other Western allies",
+          "wants": "To keep a two-state solution alive, now using sanctions on settlers and settlement firms."
+        },
+        {
+          "name": "United States",
+          "wants": "To protect Israel and avoid new public rifts with it; it has been far less willing to sanction settlers than its allies."
+        }
+      ],
+      "stakes": "The core question is whether a Palestinian state remains physically possible. For Australia and the UK it is also about credibility: governments that recognised Palestine or call for two states are under pressure to act. Sanctions hit firms that build or supply settlements, so the money link is small but growing. Expect diplomatic friction with Israel and, possibly, Washington.",
+      "current_state": "On 17-18 November 2026 the UK sanctioned eight Israeli companies tied to illegal settlements, its first sanctions since announcing a tougher approach. Australia announced its own tranche against individuals and a construction company. Foreign minister Penny Wong said settlement growth and settler violence are 'extinguishing the possibility of a two-state solution'. The same day, Palestinian officials said settlers shot dead a 72-year-old woman, Fadda Fheidat, near Jericho and wounded about ten people; the Israeli military said the settlers fired after being attacked.",
+      "watch_next": "Whether the EU and Canada follow with their own sanctions. Whether Israel retaliates diplomatically against London or Canberra. Any US move, since Washington has resisted such measures. And whether settler attacks continue at this pace, which would add pressure for more sanctions.",
+      "timeline": [
+        {
+          "date": "1967-06-10",
+          "event": "Israel captures the West Bank from Jordan at the end of the Six-Day War."
+        },
+        {
+          "date": "1993-09-13",
+          "event": "Oslo accords signed, dividing the West Bank into administrative zones."
+        },
+        {
+          "date": "2023-10-07",
+          "event": "Hamas attack on Israel starts the Gaza war; settler violence in the West Bank rises sharply afterwards."
+        },
+        {
+          "date": "2026-11-17",
+          "event": "UK sanctions eight Israeli companies over settlements; settlers kill a 72-year-old Palestinian woman near Jericho."
+        },
+        {
+          "date": "2026-11-18",
+          "event": "Australia announces new sanctions on settlement-linked individuals and a construction company."
+        }
+      ],
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}
