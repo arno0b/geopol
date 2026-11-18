@@ -1,0 +1,166 @@
+{
+  "run_id": "2026-11-19-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "us-china",
+    "new_storyline_name": null,
+    "headline": "Trump shakes hands with Xi and Putin, then sits down alone with Putin",
+    "story": "Trump, Xi and Putin posed together in Shenzhen ahead of their first three-way talks on Thursday. Trump and Putin will also meet one-on-one, with Ukraine and post-war security guarantees on the table. Putin's nuclear briefcase was seen at the summit, and Australia's Albanese stood in the leaders' photo with Putin despite pleas from Ukrainian Australians.",
+    "so_what": "A Trump–Putin meeting on Chinese soil, with Xi as host, shows how the map has shifted. Watch whether Ukraine's future is discussed without Kyiv or Europe in the room.",
+    "last_time": {
+      "run_id": "2026-11-19-0000",
+      "text": "Then the leaders were arriving with low expectations; now the handshakes are done and the real meetings start Thursday."
+    },
+    "money_angle": null,
+    "my_take": null,
+    "image": {
+      "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
+      "credit": "BBC"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss"
+      },
+      {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/18/anthony-albanese-defies-critics-for-apec-summit-photo-with-vladimir-putin"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "US strikes Iran's Qeshm Island; Kuwait and Bahrain brace for more",
+      "story": "US forces hit Qeshm Island in the Strait of Hormuz after the IRGC said it attacked a US site in Bahrain. Kuwait and Bahrain then faced fresh Iranian attacks, drawing condemnation across the Gulf. Officials describe the conflict as low-level but still flaring, despite regional mediators.",
+      "so_what": "Tit-for-tat strikes keep Gulf states in the line of fire and shipping nervous. Nothing here suggests a ceasefire is close.",
+      "last_time": {
+        "run_id": "2026-11-19-0000",
+        "text": "Then an ADNOC ship had been hit in Hormuz; now the US has hit back at Iranian territory and Gulf states are being targeted directly."
+      },
+      "money_angle": "Brent is $88.68, down from $90.30 last run. The market is still shrugging off the attacks.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Geopolitics/Middle-East/US-Iran-Conflict-Flares-Again-as-Gulf-Nations-Brace-for-Attacks.html"
+        }
+      ]
+    },
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Israel pushes tanks past the Yellow Line in Gaza",
+      "story": "Israel launched a rare ground operation beyond the Yellow Line in Gaza, saying it is dismantling a 'terror tunnel'. Hamas calls it a flagrant ceasefire violation, and Palestinians are being forced to flee again.",
+      "so_what": "The Gaza ceasefire line is being tested. Meanwhile the $18bn pledged to Trump's Board of Peace has little to show for it.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Four killed as Awami League violence spreads, and the PM calls the party 'terrorist'",
+      "story": "Two BNP leaders were killed in Narail, and a Krishak Dal leader died in Faridpur. Arson hit lawmakers' homes and party offices across the country, and bombs went off in Dhaka. Former minister Nurul Islam Nahid was detained in Uttara. The PM called the Awami League a 'terrorist group' and accused a neighbouring country of sheltering terrorists.",
+      "so_what": "The government is now openly treating the Awami League as a security threat. That raises the risk of clashes ahead of Jamaat's 21 November march.",
+      "last_time": {
+        "run_id": "2026-11-19-0000",
+        "text": "Then police had detained 71 activists and Jamaat had called a march; now the violence has turned deadly in several districts."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425074/four-killed-as-violence-arson-spread-ahead-of"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/politics/425075/pm-calls-awami-league-a-%E2%80%98terrorist-group%E2%80%99-urges"
+        },
+        {
+          "name": "bdnews24 (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JWk4zSnRiWVBYN1lLVEpLbmtWSnJoaERKcWwxVzhZSlREbTktMDZDRGQ2b1BmU3dvdl8tbU1QRGFWTEJ2LWdLRTRGYmw3bWZIMTRyUw?oc=5"
+        },
+        {
+          "name": "bdnews24 (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZUEtiNEFoeXlQd1N2d1JxeUZtY1FiRFV3cEhpQmVZUXM0WjNGaUxoLTZDOVpaa081ZDB5WENSdmpLX2ctendXb0hWV1U3T3JSQ1JFYg?oc=5"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Garment unrest escalates: 300 arrested, 112 factories shut in Savar",
+      "story": "Workers demanding a Tk30,000 minimum wage blocked highways in Savar and Mirpur, and a police vehicle was torched in Gazipur. About 300 people have been arrested and 112 factories suspended operations.",
+      "so_what": "Garments earn most of Bangladesh's export income. Political violence and wage unrest at once could hit orders, and Cyclone Akvan is also approaching.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/dhaka/425070/rmg-unrest-escalates-300-arrested-as-clashes"
+        },
+        {
+          "name": "bdnews24 (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WclZuRWtPcW9WaEdxeGg0X1FoSGtKZm9kakhkZFphWmU1QW4xMEZLVTNjRlcyRGU5VWFwTmQ4LVJaRGJpcVNtZFB0b3BVTFlPYUFsOA?oc=5"
+        },
+        {
+          "name": "Google News: Bangladesh politics",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQ3dfNWNZczNyeFJzbDlnUHJ4THU0VXdwNkxrUDk3cFpHdUxnQ25ZNmxvRmt5dEUwUk1oRGhkNVROYmJiWlpUSUwzY1NVWG1ySVdYMGF3ZktDOEhqMFBPbjhNTk9aM2ZZX0RuQm1Rbkp1ckRJY1BBNW5rTVdwRkV3aFhYM21SWktTdExwZ0dsYzdyT1ozUTZISlN1NlhneWhJNjU5aU5FVVk5b2dPeWZYS1BkcWdadEd0aTdxbEFxVEJnX2g2cWlfVVRTcm9BZ1Q0ZExPdi02OVktTlpRaTlDLWhzUjFzRGFfY2tzZzVBazZzeVFGWTN5MF9XUXBoZw?oc=5"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Thursday in Shenzhen and Dhaka",
+    "text": "The Trump–Putin one-on-one, the ICJ Rohingya ruling, and Jamaat's march in Dhaka on 21 November."
+  },
+  "takes_review": [],
+  "heat": {
+    "us-china": 9,
+    "russia-ukraine": 8,
+    "middle-east": 9,
+    "oil-energy": 5,
+    "southeast-asia": 5,
+    "bangladesh-politics": 9,
+    "bangladesh-economy": 8,
+    "ai-tech-power": 5,
+    "west-bank-settlements": 4
+  }
+}
