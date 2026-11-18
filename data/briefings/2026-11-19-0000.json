@@ -1,0 +1,169 @@
+{
+  "run_id": "2026-11-19-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "us-china",
+    "new_storyline_name": null,
+    "headline": "Trump lands in China for a three-way summit with Xi and Putin",
+    "story": "Xi greeted Trump on the tarmac in Shenzhen, returning the favour from his Washington visit in September. On Thursday Trump, Xi and Putin sit down together at the APEC summit, a first of its kind. Analysts expect few concrete results on trade or tech. Putin arrives after Ukraine partly collapsed the Kerch bridge, and says Europe is in 'humiliating decline'.",
+    "so_what": "The signal matters more than any deal: Moscow and Beijing get to be seen as equals with Washington while Europe is left out. Watch for any hint of a Ukraine settlement being discussed without Kyiv or Brussels.",
+    "last_time": {
+      "run_id": "2026-11-18-0000",
+      "text": "Then China was threatening retaliation over new US chip limits; now the leaders have arrived and the mood is polite but low on expectations."
+    },
+    "money_angle": null,
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=140&quality=85&auto=format&fit=max&s=ea3a6c350de36a5ebefbb42b1e349a25",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/18/as-trump-arrives-in-china-low-expectations-for-breakthroughs-in-rivalry?traffic_source=rss"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6044242/putin-to-meet-with-trump-and-xi-after-ukrainian-attack-on-russian-bridge"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Another ship hit in Hormuz as Iran targets supertankers",
+      "story": "An ADNOC Logistics vessel was attacked in the Strait of Hormuz on Tuesday evening, and one crew member is still missing. Small tankers carried a wartime-high 2 million barrels a day out of the Strait in October, while supertankers are being avoided as incidents with mines and unknown projectiles hit a wartime peak. Saudi-led forces also struck 60 Houthi sites as the Houthis push toward Aden.",
+      "so_what": "Shipping is adapting around the danger, not escaping it. Yemen is a second front that could threaten Red Sea routes too.",
+      "last_time": {
+        "run_id": "2026-11-18-1000",
+        "text": "Then Iran had hit Bahrain and a gas tanker burned; now a state oil company's ship has been hit and Yemen is flaring."
+      },
+      "money_angle": "Brent is $90.30, down from $93.07 last run. The market is still looking past the attacks.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Ship-Attacked-in-Hormuz-as-Maritime-Security-Risks-Rise.html"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Small-Vessel-Trade-Thrives-in-Hormuz-as-Iran-Targets-Supertankers.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "oil-energy",
+      "new_storyline_name": null,
+      "headline": "The Iran war reaches British bills: inflation 3.6%, energy up 26% in January",
+      "story": "UK inflation rose to 3.6% in October as petrol prices climbed and diesel hit a record high. Regulated household energy bills are forecast to jump 26% to about £2,166 a year from January, an extra £443.",
+      "so_what": "This is how a far-off shipping war becomes a cost-of-living story. It limits how far the Bank of England can cut and adds pressure on the government.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/8ae5d123fc8871ebf2d020abb219f5c9483c3014/969_14_6501_5202/master/6501.jpg?width=140&quality=85&auto=format&fit=max&s=5d287d7dec7852dec1dcb26be9a276f7",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "southeast-asia",
+      "new_storyline_name": null,
+      "headline": "ICJ rules Thursday on Myanmar's genocide against the Rohingya",
+      "story": "The International Court of Justice will rule on The Gambia's case against Myanmar. The court has never before found a state responsible for genocide. Fears are growing that the US could sanction ICJ judges, including Nobel peace prize winner Navi Pillay, if the ruling goes against Myanmar.",
+      "so_what": "Bangladesh hosts around a million Rohingya refugees, so a ruling would put pressure on Dhaka's repatriation talks. It could also set a precedent for the court's case on Israel and Gaza.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=140&quality=85&auto=format&fit=max&s=47f1524f7013cb8ff259c8847b637917",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Bangladesh braces for a Jamaat march as Awami League unrest continues",
+      "story": "Police detained 71 Awami League activists in Dhaka in 24 hours and recovered more than 2kg of gunpowder. A petrol bomb killed an activist in Hasina's home district, and security forces are deployed in Gopalganj ahead of an Awami League programme. Jamaat plans a rally and march in Dhaka on 21 November over the political violence. A lawyer also served notice demanding the government bring Hasina back within 15 days.",
+      "so_what": "Violence from several sides raises the odds of clashes on the 21st. Cyclone Akvan is also approaching, adding strain on the state.",
+      "last_time": {
+        "run_id": "2026-11-18-1000",
+        "text": "Then Awami League supporters had torched a police station; now police are cracking down and Jamaat is calling its own march."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/dhaka/425021/71-awami-league-activists-detained-in-dhaka-in-24"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425025/law-enforcers-on-alert-over-awami-league-program"
+        },
+        {
+          "name": "Google News: Bangladesh politics",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZC1vZmhGQUxDb2ZCQmg1RnFUVjJyOUhiSjdZOEYzdW53STRZWWVlM0hxaUZTTHFjR3VKUUZ0bUxsa1ZVQTFnaFRGVGlXTHBfLUE1ZU05MXdHb0tzUEFwcWYyemtXOThrdkNIdTdrRkxKaFE3M1dqTVdrTTh6TFh4VEswYlotX2pzODdjel9kbGs4eFNVM3hJRlZiRGtVOXJhYzF2RXFRblluNWd6LS1ScDlfdmxmSVNCTzVfQQ?oc=5"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/government-affairs/425011/legal-notice-urges-govt-to-bring-back-hasina"
+        },
+        {
+          "name": "Google News: Bangladesh politics",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRUpCMWZvR2Jkd3R2N2VDOWhlLURJR3IydXZRN0dscFRYWTVZMmpRTFYyRmpaRE5RUUNLUWYweTdfbnlqOWxEV1hCcTNBNE9UQjZhd1o0SnFxY0xaUFB2Z19zYUdjYXRHMmlaYkROdmhkSGVYaGNVeDZFLTRoTnUxazJESURTN2lEZDg1V0N1Z2NzNTdDQVpCMGxDS3hNMzU0VzE3RUVFa2NTaXR6bUg4M2w0aVgwWWxJSHhfSnpvMzVGdw?oc=5"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "21 November in Dhaka",
+    "text": "Jamaat's march and the aftermath of Thursday's trilateral summit and ICJ ruling."
+  },
+  "takes_review": [],
+  "heat": {
+    "us-china": 9,
+    "russia-ukraine": 9,
+    "middle-east": 9,
+    "oil-energy": 6,
+    "southeast-asia": 5,
+    "bangladesh-politics": 8,
+    "bangladesh-economy": 7,
+    "ai-tech-power": 6,
+    "west-bank-settlements": 4
+  }
+}
