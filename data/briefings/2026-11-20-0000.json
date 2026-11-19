@@ -1,0 +1,212 @@
+{
+  "run_id": "2026-11-20-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "us-china",
+    "new_storyline_name": null,
+    "headline": "Trump, Xi and Putin sign a 'peace declaration' that never mentions Ukraine",
+    "story": "The three leaders met in Shenzhen and issued a joint declaration pledging 'strategic stability'. Trump called Putin a 'friend' and urged nuclear arms cuts. The text, released by Chinese state media, makes no mention of Ukraine or Europe, and Nikkei reports a joint statement briefly vanished from the APEC website. Xi also told Trump to 'do right thing' on Taiwan while the trade truce stays unsettled.",
+    "so_what": "Big-power summitry is now happening without Kyiv or Brussels in the room. Europe's answer, a Berlin meeting and a proposed €45bn Ukraine loan, shows it is trying to keep a hand on the table.",
+    "last_time": {
+      "run_id": "2026-11-19-1000",
+      "text": "Then the leaders had just posed together and the Trump–Putin one-on-one was still ahead; now the trilateral has happened and the declaration is out."
+    },
+    "money_angle": null,
+    "my_take": null,
+    "image": {
+      "url": "https://media.prothomalo.com/prothomalo-english/2026-11-19/zlg8p1gz/917083-01-02.jpg",
+      "credit": "Prothom Alo English"
+    },
+    "sources": [
+      {
+        "name": "Prothom Alo English",
+        "url": "https://en.prothomalo.com/international/verftbzksv"
+      },
+      {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/politics/international-relations/apec/xi-trump-putin-promise-to-raise-energy-supplies-and-lower-nuclear-risk"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/politics/international-relations/apec/apec-live-joint-statement-disappears-from-website"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/politics/international-relations/apec/xi-tells-trump-to-do-right-thing-on-taiwan-as-trade-truce-remains-in-flux"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Crimea's rail bridge is hit too, two days after the road bridge fell",
+      "story": "The Kremlin-appointed governor of Crimea says the remaining Kerch rail bridge was attacked overnight, halting trains. It follows a Ukrainian raid that destroyed the road section, and BBC Verify has analysed footage of explosions just before it collapsed. Ukraine's allies met in Berlin on air defence, energy and money, and the EU proposed a €45bn loan for 2027.",
+      "so_what": "Cutting Crimea's links strains Russian supply lines and gives Kyiv leverage just as Washington warms to Moscow. Watch how Russia retaliates.",
+      "last_time": {
+        "run_id": "2026-11-18-0000",
+        "text": "Then Ukraine had crippled the road bridge; now the rail link has also been hit and the allies are pledging more support."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
+        "credit": "BBC World"
+      },
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates"
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Lockdown day turns violent: Yunus's homes burned, blasts in Dhaka, four dead",
+      "story": "The Awami League's nationwide shutdown, called to build support for Sheikh Hasina's planned December return, brought clashes, bomb blasts and arson. Yunus's family home was set ablaze, with a second fire at his ancestral home in Chattogram. Police detained ex-minister Nahid in Uttara, and PM Tarique Rahman told security forces to prepare 'like in 2024'. The opposition leader urged the PM to talk to all parties.",
+      "so_what": "The government has chosen a hard line and the Awami League is escalating, so Jamaat's 21 November march is now a flashpoint. Hasina's return is the next trigger.",
+      "last_time": {
+        "run_id": "2026-11-19-1000",
+        "text": "Then four people had died and the PM called the Awami League a 'terrorist group'; now the shutdown itself has brought blasts and arson to Dhaka."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire?traffic_source=rss"
+        },
+        {
+          "name": "bdnews24 (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZUEtiNEFoeXlQd1N2d1JxeUZtY1FiRFV3cEhpQmVZUXM0WjNGaUxoLTZDOVpaa081ZDB5WENSdmpLX2ctendXb0hWV1U3T3JSQ1JFYg?oc=5"
+        },
+        {
+          "name": "bdnews24 (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XVGtjRFVaRUdQQ0ZZMElCUnVzVXZfcUh3M0tZeEFkQjA2SmFGVFAxbmk0X3pLZ25mM0NPeW1tQ3k3QlBRM1JKNGhocnREb1JVdGhoVQ?oc=5"
+        },
+        {
+          "name": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/bangladesh/politics/bleiqktry6"
+        }
+      ]
+    },
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Kuwait repels Iran's first attack in two months as the US blockade bites",
+      "story": "Kuwait says it stopped its first Iranian attack in two months, and Bahrain was hit too, after a US strike on Iran's Qeshm island. Al Jazeera reports the US blockade of Iranian ports is hurting Iran's economy, though Tehran says it can cope. Trump also claimed Iran is developing bioweapons and threatened to 'wipe out' Iran if attacked, with little evidence offered.",
+      "so_what": "Both sides are escalating in words and in strikes, with Gulf states caught in between. The IEA says the war has already cost about 2.8bn barrels of oil supply.",
+      "last_time": {
+        "run_id": "2026-11-19-1000",
+        "text": "Then the US had struck Qeshm and Kuwait and Bahrain were bracing; now Kuwait confirms the attack and the blockade's effect is in focus."
+      },
+      "money_angle": "Brent is $89.97, up from $88.68 last run. Hormuz tanker risk is offsetting talk of a supply glut.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/The-Middle-East-War-Has-Wiped-28-Billion-Barrels-Off-Global-Oil-Supply.html"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Steady-as-Hormuz-Tanker-Threats-Offset-Supply-Glut-Fears.html"
+        }
+      ]
+    },
+    {
+      "storyline": "ai-tech-power",
+      "new_storyline_name": null,
+      "headline": "Anthropic lists at a $1.5tn valuation in a record $81bn IPO",
+      "story": "Anthropic went public after raising $81bn, the largest IPO on record, after raising its price range on strong demand. Commentators are split on whether it proves the AI boom or marks a peak, and BlackRock's CEO warned tighter AI regulation could tip the US into recession. Separately, US senators are pressing the White House to fix vulnerabilities after mass outages.",
+      "so_what": "A listing this size makes AI a mainstream market bet. A fall in AI shares would hit wider markets, including Nikkei and Korea, where AI drives growth.",
+      "last_time": {
+        "run_id": "2026-11-18-1000",
+        "text": "Then Nvidia's revenue had doubled and its board refused to bring Huang back; now the biggest AI IPO ever has landed."
+      },
+      "money_angle": "The S&P 500 closed at 7,323.63 and the Nikkei is near 59,444. Both are heavily tied to AI sentiment.",
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/528c5e0e23b611527cf28de1432433186338dd96/424_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=2e98bfa657e5b7b733044f3950fd723d",
+        "credit": "The Guardian Business"
+      },
+      "sources": [
+        {
+          "name": "The Guardian Business",
+          "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates"
+        },
+        {
+          "name": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/corporate/global/ql4k7h6w6p"
+        },
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/markets/ipo/anthropic-hikes-ipo-to-83-on-strong-demand-1.5tn-valuation-possible"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "name": "The Guardian Business",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "21 November in Dhaka",
+    "text": "Jamaat's march, plus any move on Hasina's return or fresh violence after the shutdown."
+  },
+  "takes_review": [],
+  "heat": {
+    "us-china": 9,
+    "russia-ukraine": 9,
+    "middle-east": 9,
+    "oil-energy": 5,
+    "bangladesh-politics": 9,
+    "bangladesh-economy": 7,
+    "ai-tech-power": 7,
+    "taiwan": 3,
+    "west-bank-settlements": 3,
+    "southeast-asia": 4
+  }
+}
