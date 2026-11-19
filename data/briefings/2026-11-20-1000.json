@@ -1,0 +1,162 @@
+{
+  "run_id": "2026-11-20-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "southeast-asia",
+    "new_storyline_name": null,
+    "headline": "The world's top court rules Myanmar committed genocide against the Rohingya",
+    "story": "The International Court of Justice found that Myanmar's military acted with intent to destroy a substantial part of the Rohingya in its 2017 crackdown. It is the first time the court has ever held a state responsible for genocide. The vote was nine to six. Refugees in the camps in Bangladesh erupted in applause as the verdict was read.",
+    "so_what": "Bangladesh hosts about a million Rohingya and has just welcomed the ruling, while a UN expert says it cannot carry the burden forever. The verdict gives Dhaka more leverage to demand repatriation, but enforcement is up to governments, and the ruling is also being read as a message for the Israel-Gaza case.",
+    "last_time": {
+      "run_id": "2026-11-19-0000",
+      "text": "Then the ruling was still pending and the worry was US sanctions on the judges; now the verdict is in and the question is who acts on it."
+    },
+    "money_angle": null,
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/16e3b91946d9a70788aadd1f8242b43c0244fe94/443_0_2913_2329/master/2913.jpg?width=140&quality=85&auto=format&fit=max&s=dd0fed01b92f1c8ac94e55192bc965d1",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "Dhaka Tribune",
+        "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/425193/bangladesh-welcomes-icj-ruling-calls-for-global"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Europe says it is ready to talk to Russia, and Putin promises a 'more painful' reply for Kerch",
+      "story": "Leaders in Berlin said Europe now has a united negotiating position and warned that a 'Yalta format' of big powers deciding Ukraine's fate will not bring peace. Jared Kushner said Russia is 'comfortable' with NATO-like guarantees for Ukraine. Putin, meanwhile, vowed a 'more painful' response to the Kerch bridge strikes.",
+      "so_what": "Europe is trying to get back to the table after the Shenzhen summit left it out. Germany's foreign minister also warned Ukraine to be ready for talks to fail, so expect harsher Russian strikes before any real negotiation.",
+      "last_time": {
+        "run_id": "2026-11-20-0000",
+        "text": "Then the rail bridge had just been hit and Berlin was meeting; now Europe has set out its position and Russia has promised retaliation."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
+        "credit": "BBC World"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/wadephul-coalition-of-the-willing-talks-in-berlin-send-strong-signal-to-moscow/a-79990664?maca=en-rss-en-world-4025-rdf"
+        }
+      ]
+    },
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Israel pushes a new ground offensive into Gaza, and the US Senate leaves Trump's Iran war powers alone",
+      "story": "Israel says it finished a ground operation beyond the Yellow Line to destroy a 'terror tunnel'. Hamas calls it a flagrant ceasefire violation, and families are fleeing Bureij camp. Separately, the US Senate rejected a bid to limit Trump's war powers over Iran by 51 to 48, with three Republicans voting for it.",
+      "so_what": "The Gaza ceasefire is fraying while the Iran war has no new check from Congress. Both fronts now depend on decisions made in the White House and in Israel's cabinet.",
+      "last_time": {
+        "run_id": "2026-11-19-1000",
+        "text": "Then Israeli tanks had moved past the Yellow Line; now the operation has been declared finished but a new offensive is under way."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
+        "credit": "BBC World"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "A new garment wage scale from 1 December, as the World Bank warns of a low-growth trap",
+      "story": "The wage board chief says a new pay scale for garment workers will be announced soon and take effect on 1 December. That follows weeks of factory closures and arrests. The World Bank warns Bangladesh risks a low-growth cycle but says tax and energy reforms could lift growth to 5.7% by FY35. A US envoy says the DFC is opening access to loans, and Germany pledged 402m euros.",
+      "so_what": "A firm wage date is the best chance yet to calm the factories. The longer-term question is whether reforms and foreign money arrive faster than the political violence.",
+      "last_time": {
+        "run_id": "2026-11-19-1000",
+        "text": "Then 112 factories were shut in Savar and 300 had been arrested; now a pay-scale date is on the table."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "The Daily Star (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOTAtbFNDQ2hkMXRtNGtIUHg1X3ZYTk1DOThxOHQ4MTluYXpXN21SYjlGYXJ1QzNLR3ZmTjhGYV9yQnJfN01scXNpMmdjdzZfVXpSN1VJcV9BUFZyZUNwUERnYWdGZldJcnZ4endyZjdOQy1QRXdOOGZ1NzBFU2Qwa2h6TzVSSWM2RnZJUW5KWXl6WlBtVWtEclV3YmNYVFpST2hzd2Z6NmRPbUVYc3RJVTYzeXIxS1dfcnAtY0VrdUQ2OVlFYUZ0U1NhR0RIdw?oc=5"
+        }
+      ]
+    },
+    {
+      "storyline": "ai-tech-power",
+      "new_storyline_name": null,
+      "headline": "Anthropic ends its first day at a $1.3tn valuation as Wall Street closes sharply lower",
+      "story": "Anthropic closed its first day of trading at $97 a share, a valuation of about $1.3tn, below some intraday talk of $2tn. All three major US indexes finished sharply lower. Anti-AI protesters rallied outside the Nasdaq and Anthropic's San Francisco office, and three were arrested. The Guardian's Nils Pratley compared the mood to the late 1990s.",
+      "so_what": "AI is now a mainstream market bet, so a wobble in one name can drag the whole market. A House committee also revealed the US approved sales of nearly 900,000 AI chips to China in six months, which keeps chip policy in the spotlight.",
+      "last_time": {
+        "run_id": "2026-11-20-0000",
+        "text": "Then Anthropic had just listed in a record $81bn IPO; now we have the first-day close and a falling market."
+      },
+      "money_angle": "Wall Street closed sharply lower on listing day. The S&P 500 was 7,175.83 at the latest price, down from 7,323.63 last run. It is a warning for AI-heavy markets such as the Nikkei.",
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/8226cf45c1bc20ad59eddec748cb40e245b6796d/378_0_2428_1942/master/2428.jpg?width=140&quality=85&auto=format&fit=max&s=97d0f5d644f173d2ba42f67590e1aa3d",
+        "credit": "The Guardian Business"
+      },
+      "sources": [
+        {
+          "name": "The Guardian Business",
+          "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Jamaat's march in Dhaka on 21 November",
+    "text": "Watch for violence around the march, the wage board's announcement, and any Russian retaliation after Berlin."
+  },
+  "takes_review": [],
+  "heat": {
+    "southeast-asia": 6,
+    "russia-ukraine": 9,
+    "middle-east": 9,
+    "bangladesh-economy": 7,
+    "bangladesh-politics": 9,
+    "ai-tech-power": 7,
+    "us-china": 8,
+    "oil-energy": 5,
+    "west-bank-settlements": 3
+  }
+}
