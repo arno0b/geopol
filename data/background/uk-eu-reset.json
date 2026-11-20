@@ -1,0 +1,59 @@
+{
+  "slug": "uk-eu-reset",
+  "versions": [
+    {
+      "date": "2026-11-20",
+      "how_we_got_here": "Britain voted to leave the EU in **2016** and left the bloc in 2020, then the single market and customs union at the end of 2020. The trade deal that followed left new paperwork on food, goods and travel, and cut off easy movement for young people and students.\n\nRelations stayed cold through the Johnson and Sunak years. Labour promised a 'reset' and talks on closer ties began in 2025, covering food and farm standards, youth mobility, carbon markets and security. The talks have been slow because each side wants something the other resists.",
+      "players": [
+        {
+          "name": "UK government (PM Andy Burnham)",
+          "wants": "Easier food and goods trade, a youth mobility scheme and lower student fees, without rejoining the single market or customs union."
+        },
+        {
+          "name": "European Commission and EU leaders",
+          "wants": "A closer, more stable neighbour on trade and security, in return for UK alignment with EU rules and fair access for EU fishers and students."
+        },
+        {
+          "name": "Conservatives and Brexit supporters",
+          "wants": "To stop 'backsliding' on Brexit, and to attack any deal that ties the UK to EU rules."
+        }
+      ],
+      "stakes": "Food and animal product checks are one of the costliest Brexit frictions, so a deal could cut prices and delays. A youth mobility scheme reopens work and travel for young people. **Money angle:** a more settled UK-EU relationship is mildly positive for sterling and UK exporters, but details and months of talks remain, so the effect is small for now. Politically it will fuel the debate over how far Britain should follow EU rules.",
+      "current_state": "On 20 November 2026, at a summit in Brussels, the UK and EU agreed deals on food and animal goods, youth mobility and student fees, with carbon emissions also on the table. Both sides say talks will continue in some areas for months. Senior Conservatives are reportedly urging their leader to drop Brexit talk.",
+      "watch_next": "The legal text and start dates of the food and youth mobility deals. Whether the unresolved areas, such as fishing and carbon market links, are settled. How the Conservatives and Reform respond.",
+      "timeline": [
+        {
+          "date": "2016-06-23",
+          "event": "UK votes to leave the EU."
+        },
+        {
+          "date": "2020-12-31",
+          "event": "Transition ends and the UK leaves the single market and customs union."
+        },
+        {
+          "date": "2025-05-19",
+          "event": "First UK-EU summit on a 'reset' of relations since Brexit."
+        },
+        {
+          "date": "2026-11-20",
+          "event": "Summit in Brussels agrees deals on food trade, youth mobility and student fees."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/eu-and-uk-hold-a-rare-summit-in-bid-to-rebuild-ties/a-80001076?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "change_note": null
+    }
+  ]
+}

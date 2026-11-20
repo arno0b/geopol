@@ -1,0 +1,234 @@
+{
+  "run_id": "2026-11-21-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "russia-ukraine",
+    "new_storyline_name": null,
+    "headline": "A Russian missile lands in Poland as Kyiv's bridges burn",
+    "story": "Poland's prime minister Donald Tusk says a Russian missile hit Polish territory while Western forces were holding a military exercise nearby, and that it does not look like an accident. The same day Russia hit Kyiv in one of its biggest air attacks yet, damaging three bridges, a key infrastructure site and some embassies, and killing at least three people. It is the 'painful' answer Putin promised after Ukraine's strike on the Crimean Bridge, and it has ended Trump's October energy truce.",
+    "so_what": "A NATO member being hit, even by mistake, is the test case for how the alliance responds. Watch whether Warsaw asks for formal NATO consultations or treats it as a deliberate signal.",
+    "last_time": {
+      "run_id": "2026-11-20-1000",
+      "text": "Europe said it was ready to talk to Russia and Putin promised a 'more painful' reply for Kerch. That reply has now arrived, and it reached Poland as well as Kyiv."
+    },
+    "money_angle": "Brent is about $89 and falling on a supply glut, so Ukraine's energy strikes are not moving oil much. Europe's defence stocks are the more direct market link.",
+    "my_take": null,
+    "image": {
+      "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d1/live/638e94f0-e4dd-11f1-9cc5-e9713e77fd78.jpg",
+      "credit": "BBC"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Energy/Energy-General/Trumps-Ukraine-Energy-Truce-Unravels-as-Russian-Missiles-Hit-Kyiv.html"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Oil falls even as Iran steps up tanker attacks",
+      "story": "Iran's attacks on tankers in the Strait of Hormuz hit their highest level since the war began in February, and continue almost daily. Yet oil is sliding: WTI is down more than 5% this week as more Gulf crude reaches buyers and US stockpiles build. Meanwhile the US says ships swapping Iranian cargo at sea can be stopped, boarded or seized, while Iran moves to restart exports despite the blockade.",
+      "so_what": "The market is betting supply beats disruption. If the blockade starts to squeeze Iran's exports for real, the next escalation will come at sea.",
+      "last_time": {
+        "run_id": "2026-11-20-1000",
+        "text": "We covered Israel's new Gaza push and the Senate leaving Trump's Iran war powers alone. The Gulf is now where the pressure is rising."
+      },
+      "money_angle": "WTI is about $82 and Brent about $89, both falling on glut fears despite the attacks.",
+      "my_take": {
+        "text": "I would not pay up for a Hormuz risk premium right now. If you want oil exposure, wait for a clear break in tanker flows before adding.",
+        "reasoning": "Attacks are at a record but prices are falling, which tells you traders think the physical supply is fine. Buying a headline-driven spike after a week of declines is a poor entry unless flows actually drop.",
+        "confidence": "low",
+        "wrong_if": "Brent closes above $100, or Hormuz flows fall sharply for several days.",
+        "id": "2026-11-21-0000-1",
+        "prices_at": {
+          "brent": {
+            "label": "Brent oil ($/bbl)",
+            "value": 89.22,
+            "as_of": "2026-11-20T12:28:16+00:00"
+          },
+          "wti": {
+            "label": "WTI oil ($/bbl)",
+            "value": 82.2,
+            "as_of": "2026-11-20T12:28:19+00:00"
+          },
+          "gold": {
+            "label": "Gold ($/oz)",
+            "value": 3579.1,
+            "as_of": "2026-11-20T12:28:18+00:00"
+          },
+          "audusd": {
+            "label": "AUD/USD",
+            "value": 0.6667,
+            "as_of": "2026-11-20T12:37:43+00:00"
+          },
+          "dxy": {
+            "label": "US dollar index",
+            "value": 103.856,
+            "as_of": "2026-11-20T12:28:20+00:00"
+          },
+          "spx": {
+            "label": "S&P 500",
+            "value": 7175.83,
+            "as_of": "2026-11-19T21:59:18+00:00"
+          },
+          "asx200": {
+            "label": "ASX 200",
+            "value": 8592.6,
+            "as_of": "2026-11-20T06:07:14+00:00"
+          },
+          "nikkei": {
+            "label": "Nikkei 225",
+            "value": 56436.65,
+            "as_of": "2026-11-20T06:45:03+00:00"
+          },
+          "btc": {
+            "label": "Bitcoin ($)",
+            "value": 61535.32,
+            "as_of": "2026-11-20T12:38:20+00:00"
+          }
+        }
+      },
+      "image": null,
+      "sources": [
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Steps-Up-Hormuz-Tanker-Attacks-as-Oil-Prices-Slide.html"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Energy/Energy-General/WTI-Crude-Sinks-More-Than-5-as-Global-Oil-Glut-Fears-Grow.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Moves-to-Restart-Oil-Exports-Despite-US-Naval-Blockade.html"
+        }
+      ]
+    },
+    {
+      "storyline": "ai-tech-power",
+      "new_storyline_name": null,
+      "headline": "Anthropic's IPO can't stop the AI sell-off",
+      "story": "Global stocks slumped on Friday and Asia is heading for its worst week since 2020, as chip makers fell hard. Taiwan's market dropped 6.7% and TSMC about 6%. Anthropic's record IPO, which raised $81bn at about $1.5tn, did not stem the fall. California has also served a subpoena on Nvidia over whether its chips reached China, after the departure of chief executive Jensen Huang.",
+      "so_what": "Taiwan's market is the most exposed to an AI downturn, and the Nvidia probe adds a US-China chip angle on top.",
+      "last_time": {
+        "run_id": "2026-11-20-1000",
+        "text": "Anthropic closed its first day at about a $1.3tn valuation as Wall Street fell sharply. The slide has now spread to Asia and Europe."
+      },
+      "money_angle": "The S&P 500 last closed at about 7,176 and futures point lower, and the Nikkei is around 56,400.",
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/4099c293fe0771f309ff9ec3954f9933d234c1a0/272_0_3245_2596/master/3245.jpg?width=140&quality=85&auto=format&fit=max&s=8054262018f759c5048bb4a149c0afd5",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbG41cEtNOWNmZDFzdHMxQVpKbGFQMXIzZ3JpM3ZTalJlNmQ1dndxTU1aZlgtUEZzam9fTG1FMEF4UnNEd2paamVXOUk1MGxaM1F4Q0dpMy1CM0szOHNmbVZxU2RBRFNNWG5NYjFyZDZIaUU2STlQUUxrNUxNT1l0eFphNEIxVkl0UkJCU2hrTkdaXzZPNmtndm1NaXBzbTExMklRWmx5Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "storyline": "uk-eu-reset",
+      "new_storyline_name": "UK–EU reset",
+      "headline": "Britain and the EU seal their reset deal",
+      "story": "At a rare summit in Brussels, UK prime minister Andy Burnham and EU leaders agreed deals on food and animal products, a youth mobility scheme and student fees. Talks will continue in some areas for months. It is the biggest repair of ties since Brexit.",
+      "so_what": "Easier food trade and youth mobility help the UK economy, and the deal shows Europe pulling its neighbours closer as the US drifts. Brexit sceptics in the Tory ranks may now push back.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/eu-and-uk-hold-a-rare-summit-in-bid-to-rebuild-ties/a-80001076?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Dhaka on edge: 474 arrests, airport on alert, firebombs nightly",
+      "story": "Police counted 78 crude-bomb blasts and 74 vehicle arsons across the country in 12 days, and government sites are on high alert. Intelligence warned of possible sabotage at Dhaka airport's third terminal, and 474 people, 124 of them called Awami League members, were arrested in Dhaka. Prime minister Tarique Rahman marked his first birthday in office as ministers brand Awami League activists a terrorist group.",
+      "so_what": "The unrest is hardening into a security crackdown ahead of Hasina's planned December return. The longer it lasts, the more risk to garment shipments and investor confidence.",
+      "last_time": {
+        "run_id": "2026-11-20-0000",
+        "text": "The Awami League's shutdown turned violent, with Yunus's homes burned and four dead. Violence has continued and the state is now responding with mass arrests."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425250/govt-installations-on-high-alert-amid-nationwide"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/dhaka/425249/security-tightened-at-dhaka-airport-amid-sabotage"
+        },
+        {
+          "name": "bdnews24",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwX21FSEJxU3JCYjd2dTY4T1NLMldvdkQxd1dycmJPV2VjTlVsME9IRGdjYVZuMmRtUkFVYThjakJ2WUh6NVdsdENXZ2tuY2ZOMjIxTA?oc=5"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425259/tarique-rahman-marks-first-birthday-as-prime"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Poland's response",
+    "text": "Whether Warsaw seeks NATO consultations, and what Putin does next after Kyiv. Also Jamaat's Dhaka march on 21 November."
+  },
+  "takes_review": [],
+  "heat": {
+    "russia-ukraine": 10,
+    "middle-east": 9,
+    "oil-energy": 6,
+    "ai-tech-power": 8,
+    "taiwan": 4,
+    "uk-eu-reset": 4,
+    "bangladesh-politics": 9,
+    "bangladesh-economy": 6,
+    "us-china": 7,
+    "southeast-asia": 4
+  }
+}
