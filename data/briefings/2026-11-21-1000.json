@@ -1,0 +1,251 @@
+{
+  "run_id": "2026-11-21-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "ai-tech-power",
+    "new_storyline_name": null,
+    "headline": "The Nasdaq gives back all of 2026, and Trump threatens 'tremendous penalties' on AI built abroad",
+    "story": "The Nasdaq closed Friday down 5% on the year, wiping out all its 2026 gains, even as Anthropic's record IPO went into its second day of trading. Then Trump told reporters US tech firms would face a 'tremendous tax' or penalties if they build AI data centres outside the US. He gave no details and said he had not yet told his own officials. The S&P 500 is down about 6% since I flagged the AI dip two weeks ago.",
+    "so_what": "A vague threat is still a threat to the plan of building AI capacity in the Gulf, Canada and Asia. Markets hate not knowing the rules, so expect more swings until there is a text.",
+    "last_time": {
+      "run_id": "2026-11-21-0000",
+      "text": "Anthropic's IPO could not stop the AI sell-off. A day later, the sell-off has taken the whole Nasdaq back to where it started the year."
+    },
+    "money_angle": "S&P 500 fell to 6,910 from 7,176 the day before. Bitcoin is near $59,000, down from $61,500.",
+    "my_take": {
+      "text": "I would not buy this drop in one go. If you want AI exposure, add in small pieces over weeks, and wait until the data-centre rule is written down.",
+      "reasoning": "The fall is driven by doubts about how much is being spent on AI, and now a new policy risk has landed with no details. When the rule is unclear, the first low is rarely the last. The chance is that Trump walks it back or it is narrow, which is why I would not sell everything either.",
+      "confidence": "low",
+      "wrong_if": "The Nasdaq recovers its 2026 losses within a week, or the White House says the plan covers only a few countries.",
+      "id": "2026-11-21-1000-1",
+      "prices_at": {
+        "brent": {
+          "label": "Brent oil ($/bbl)",
+          "value": 89.87,
+          "as_of": "2026-11-20T21:59:18+00:00"
+        },
+        "wti": {
+          "label": "WTI oil ($/bbl)",
+          "value": 83.62,
+          "as_of": "2026-11-20T21:59:59+00:00"
+        },
+        "gold": {
+          "label": "Gold ($/oz)",
+          "value": 3539.0,
+          "as_of": "2026-11-20T21:59:57+00:00"
+        },
+        "audusd": {
+          "label": "AUD/USD",
+          "value": 0.6619,
+          "as_of": "2026-11-20T22:29:46+00:00"
+        },
+        "dxy": {
+          "label": "US dollar index",
+          "value": 103.84,
+          "as_of": "2026-11-20T21:59:59+00:00"
+        },
+        "spx": {
+          "label": "S&P 500",
+          "value": 6910.39,
+          "as_of": "2026-11-20T21:35:54+00:00"
+        },
+        "asx200": {
+          "label": "ASX 200",
+          "value": 8592.6,
+          "as_of": "2026-11-20T06:07:14+00:00"
+        },
+        "nikkei": {
+          "label": "Nikkei 225",
+          "value": 56436.65,
+          "as_of": "2026-11-20T06:45:03+00:00"
+        },
+        "btc": {
+          "label": "Bitcoin ($)",
+          "value": 59003.77,
+          "as_of": "2026-11-20T22:38:18+00:00"
+        }
+      }
+    },
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/9532d886df85f2ca4c23d7e6a6341c606f995971/357_0_3572_2857/master/3572.jpg?width=140&quality=85&auto=format&fit=max&s=07ff49e86c3162c2f8cbd055b6230888",
+      "credit": "The Guardian World"
+    },
+    "sources": [
+      {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "us-china",
+      "new_storyline_name": null,
+      "headline": "California subpoenas Nvidia as new US curbs freeze chip shipments to Southeast Asia",
+      "story": "California's attorney general has subpoenaed Nvidia over whether advanced chips ended up in China, after a scandal that led to co-founder Jensen Huang leaving as CEO. Nikkei reports Nvidia's server suppliers have halted shipments to Southeast Asia over the new US curbs. US lawmakers say the new limits on remote access to US AI chips do not go far enough.",
+      "so_what": "The chip war is now being enforced by states and lawmakers, not just the White House. That keeps pressure on Malaysia, Singapore and Vietnam, which sit between the two powers.",
+      "last_time": {
+        "run_id": "2026-11-20-0000",
+        "text": "Trump, Xi and Putin signed a 'peace declaration' in Shenzhen. The trade and chips fight underneath it has not eased."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
+        "credit": "BBC Business"
+      },
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china"
+        },
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-server-suppliers-halt-southeast-asia-shipments-over-us-curbs"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Denmark expels a Russian attache over an alleged plot to kill a Ukrainian-American rapper",
+      "story": "Denmark says Russian intelligence is suspected of being behind a plan to kill the US-Ukrainian musician Kyivstoner before a concert there, and is expelling Russia's defence attache. Moscow denies it. Meanwhile Trump's October energy truce is over after Russian missiles hit Kyiv on Friday, and Putin has floated a second 'humanitarian ceasefire' to evacuate Kostiantynivka that experts call a possible trap.",
+      "so_what": "Moscow is pushing on the battlefield, in Kyiv and on European soil at once. Each new incident makes a European response harder to delay.",
+      "last_time": {
+        "run_id": "2026-11-21-0000",
+        "text": "A Russian missile landed in Poland and Kyiv's bridges burned. This is the next day's fallout, and the diplomatic cost is now reaching Copenhagen."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg",
+        "credit": "BBC World"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Energy/Energy-General/Trumps-Ukraine-Energy-Truce-Unravels-as-Russian-Missiles-Hit-Kyiv.html"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/putin-proposes-second-humanitarian-ceasefire-is-it-a-trap/a-79996772?maca=en-rss-en-world-4025-rdf"
+        }
+      ]
+    },
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Iraq confronts Iran-backed militias as the Saudi coalition warns Hodeida",
+      "story": "Iraq's prime minister sent forces into Jurf al-Sakhar, a Kataib Hezbollah stronghold, and called it the start of a nationwide push to assert state control. DW calls it the most dangerous standoff between Baghdad and Iran-allied militias in decades. In Yemen, the Saudi-led coalition told civilians to leave Hodeida, and the Houthis threatened Jeddah and other Red Sea ports.",
+      "so_what": "The war with Iran is spreading to other fronts. A fight in Iraq or the Red Sea would put more oil routes at risk, even while prices have been falling.",
+      "last_time": {
+        "run_id": "2026-11-21-0000",
+        "text": "Iran's tanker attacks were at a record while oil kept falling. Two new fronts, Iraq and Yemen, are now adding to the risk."
+      },
+      "money_angle": "Brent closed at $89.87, up slightly from $89.22. WTI is $83.62.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/world/middle-east/425255/saudi-led-coalition-warns-civilians-to-evacuate"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Two BNP leaders killed in Narail, and 300 police are investigated over secret Awami League links",
+      "story": "Awami League activists attacked a BNP procession in Narail, killing two leaders, according to the Daily Star. Intelligence agencies are investigating more than 300 police and administrative officials for alleged secret contact with banned party leaders. Four buses were burned in Dhaka, and the President warned against 'self-destruction through violence'. The unrest has also reached London, where an Awami League group attacked an event for NCP leader Nahid Islam.",
+      "so_what": "The violence is now both street fighting and an attempt to purge the state. That raises the question of whether the police can keep order if Hasina returns in December.",
+      "last_time": {
+        "run_id": "2026-11-21-0000",
+        "text": "Dhaka was on edge with 474 arrests and nightly firebombs. The attacks have now turned deadly for BNP, and the government is looking inside its own police."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRzB3bXFpc2UyNEZDNXAyaXNzSXU3NFBTeE81SzVXRDJxS3BBRGRrelByRi1HV3l0d0VpNmJ6WVBFazFMZHktY0FWT1ZLNFRjRF80a3ZqOW5LNlIzLVRHLTBYZ0d0UzZ6eE1ZX1pJMFRNMlZvVUI2eGQ1MVV0dmVBeHJfNjFFYmNEVXpfaEdDMVkzc25VaFVib05WaHAxQ2RweXd4dGl5cVlyLWpValRYZHBXR3dDcWRLZFNHbzlqR0I1eS0yLWZVbkNZSjI?oc=5"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425291/secret-al-contact-300-plus-police-under"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeGZTNGhtLUdjWk5CZEEzME5Ha2N0SzM3aEdhMVN0ZHVrQXNOLXlNMlMzMmhSdng2UDNCYW82cEpkQWwzT1RubS1JN0lUcVU2UTdJM3lMVnhkVTVFQkxBTnh5RjFfbVNVNVZWQU9rWFg2a3F1c2Qta1JacDFaWXFONk1PSGhDc3JIVW9FbUdXRGZpQWs?oc=5"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/nation/425285/president-warns-against-self-destruction-thru"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYVNmRWdLS1JLRnhRQUpqZWI4bnpBRWZYOEl0djZCa0FhZEtnYXEtUjBmQXJ1QzBZSDNsSnF2VDJfTlEwZ1RMSzlIMHE4LU5PeGNYSmE2dFVVWXFSMUdIN0RZM0tSSGszRXZtUWlTLVF2Sko0LTN1bm5HbWI1dWJrU3BJQmtHYjkwVm4wTUFmNy1uN1JNby1BaXR5bjlFai0yZUFFM3RMTGRWTnA1b3JEN2NtQzU3TUlBQ2V4M3AxbGF6UVBKSy11MGJyamlYbzdLNm81RERmRXBMUQ?oc=5"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "The White House's data-centre plan",
+    "text": "Whether Trump's team puts any detail on the overseas AI data-centre penalty. Also Dhaka's reaction as the Hasina return date nears."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-06-1000-1",
+      "verdict": "right",
+      "text": "I said not to buy the AI dip in one go. The S&P 500 was 7,354 then and is 6,910 now, about 6% lower, and the Nasdaq has given back all of its 2026 gains. Waiting would have saved money so far."
+    }
+  ],
+  "heat": {
+    "ai-tech-power": 9,
+    "us-china": 8,
+    "russia-ukraine": 10,
+    "middle-east": 9,
+    "bangladesh-politics": 9,
+    "oil-energy": 5,
+    "uk-eu-reset": 3,
+    "bangladesh-economy": 5,
+    "southeast-asia": 3,
+    "taiwan": 4
+  }
+}
