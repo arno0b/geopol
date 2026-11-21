@@ -1,0 +1,181 @@
+{
+  "run_id": "2026-11-22-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "russia-ukraine",
+    "new_storyline_name": null,
+    "headline": "The war reaches the Baltic: a Russia-bound ship is hit off Finland",
+    "story": "A drone struck a Russia-bound cargo ship in the Gulf of Finland, and Finland's military says Ukraine was likely behind it. The ship is on a US sanctions list. Soon after, a Russian helicopter is suspected of crossing into Finnish airspace, which Helsinki links to the strike. Overnight Russia fired more than 400 drones and 110 missiles across Ukraine, killing at least seven in Kyiv, and Zelensky called Putin a 'killer' after Trump called him a friend.",
+    "so_what": "The fighting is now close to a NATO border on the sea route Russia relies on. Each side's reply can drag Finland and Poland in, even if neither wants it.",
+    "last_time": {
+      "run_id": "2026-11-21-1000",
+      "text": "Denmark expelled a Russian attache over an alleged assassination plot. Since then the war has moved onto the Baltic, and Russia's barrage on Ukraine has grown."
+    },
+    "money_angle": null,
+    "my_take": null,
+    "image": {
+      "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg",
+      "credit": "BBC World"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "DW",
+        "url": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-world-4025-rdf"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Dhaka moves to ban the Awami League for good",
+      "story": "A state minister says the constitution may be amended to ban the Awami League permanently, and that government and opposition could agree on it. The commerce minister says the party has 'lost the right to do politics'. Hefazat-e-Islam is also demanding a ban. Hasina's son accuses the BNP of 'arson and terror' after about 200 homes burned in Kalia, while the BNP rejects claims that Hindu homes were targeted.",
+      "so_what": "A ban written into the constitution would be hard to undo and would leave millions of supporters outside politics. That makes Hasina's planned return, and more street violence, harder to calm.",
+      "last_time": {
+        "run_id": "2026-11-22-0000",
+        "text": "Revenge attacks spread from Narail to Kalia and Dhaka blamed India. Now the government is talking about a permanent legal ban."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425357/govt-opposition-may-reach-consensus-on-permanent"
+        },
+        {
+          "name": "Google News: Bangladesh politics",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lV3BHbjdBUVJpZWdfYkhUSEZpcmFLd0VVR0hyc3ZCVEFQSlpDbVU3eTZXbDNVYjJDcFM3ZVlqdFg0ejM2OTNGanRDYlZfZjRxQ3hnQmNQeXVDS1ZLbzc2RA?oc=5"
+        },
+        {
+          "name": "Google News: Bangladesh politics",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQm40QW9sVWVUVFhUUllaOGNvSmxYX1VEVDVTM1JvdndjWXFEWmNYcHlWUy1nVzRreENZVElIQkdxLW5jSk1iajJmWndjdGJpd05zYXN3N0o4eDZIVDh1ZW9qN0tMWlg1RHIwS0tBYWowM3M5TjZoS1lNYkJrVURDRGFUcnRESUN0ZVhlRWJFUlR2eGVfX1VtSTNwZkp5eWpheFZBcmJ2NE42RGpIMEE?oc=5"
+        },
+        {
+          "name": "Google News: Bangladesh politics",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVmwtbDdSeFFWQ01wVHpDcWRwTXBaclhQVUVLdDdueVpOUUFCMHFwTTVRZmhCWUhRRDByLThackc0N2VOVG9ybEpMOS1telgzY2hjVnFNLXAxZW1Fc2N2YmdmZ05wWmdIMVlnWXdIQzdoOGRjbE9yaFZPWFoyTDNEdXIzbFE4QnhxdkdHcDZKX200M0VKX3Rta2wwd3Z0TmE1d3NkTUhMbXlKM0lOd052WFpmbUEtNUs2NXF5U1didGFicFlBUGc4NmRkRWZQeDFtUWhqU2VoN0lFU01p0gHiAUFVX3lxTE1RaGFORF90TTBrbllKRWpySEFId0pPMDZrSUgxSHVKUXVEYWY4UnV3NkhJTllqOEtlM3dyMllHNUFfUWF4bDRyb0RWSWRHUjhEaFVCXzRIazVtV1dfblRGanAwSHZfd0V5RlRCRzNWbldROE80c01WMlFuT1VqSUtMaENHRGFTNHNNa0prUUk0S3pTdk1fdzRQdzRreXJobjZwT080blowWUxibHhfN2NQVWRiV0VEcldDa19lTmMyZTRONkpKSjdXQVdmQXhQOUM4cFl0WjZuTjhYYjRLMUh6ZVE?oc=5"
+        },
+        {
+          "name": "bdnews24",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkR0l4bWVsYlR5TGdfcXJLd20xSE1fZ0F3N0JlSm1uZWlWQkxRWFNGWjFnc2FYMG5wNXVXRUVvbHctd3JPcVJwRm1NclhuVFNEMjh1dA?oc=5"
+        }
+      ]
+    },
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Iran hits Bahrain and mines the Strait while offering talks via Qatar",
+      "story": "Iran's Revolutionary Guards say they targeted US positions at two bases in Bahrain, and Bahrain reports a fire at an industrial facility with no injuries. Two more tanker incidents were reported near Oman, and Iran says one tanker caught fire from a naval mine. At the same time Tehran says it held talks with Qatari mediators and that reopening the Strait is 'not difficult' if the US accepts its conditions. Trump says he wants a 'permanent' nuclear deal, but Vance would not back his claim that Iran was close to a bomb.",
+      "so_what": "Iran is hitting and bargaining at once, and Gulf states are now being hit directly. A deal still looks far off.",
+      "last_time": {
+        "run_id": "2026-11-22-0000",
+        "text": "Iran said it downed US drones and the Houthis named Saudi targets. Now the fire has reached Bahrain, with Qatar passing messages."
+      },
+      "money_angle": "Brent closed at $89.95 on Friday, little changed. Oil is soft because Gulf barrels keep reaching Asia, with China's October Gulf imports up 42%. Markets are shut for the weekend.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Oil-Imports-from-Persian-Gulf-Jump-to-Wartime-High.html"
+        }
+      ]
+    },
+    {
+      "storyline": "ai-tech-power",
+      "new_storyline_name": null,
+      "headline": "UN talks on 'killer robots' collapse as Russia blocks a treaty mandate",
+      "story": "After a week of talks in Geneva, states failed to agree a mandate to negotiate a binding treaty on autonomous weapons. The all-night session broke down just before 5am over Russian objections, even though an overwhelming majority of states backed it. Campaign groups warn military AI is moving much faster than diplomacy. Separately, Nvidia server suppliers have halted shipments to Southeast Asia over new US curbs.",
+      "so_what": "No rules are coming soon for weapons that choose their own targets. The tech race and the arms race are now the same race.",
+      "last_time": {
+        "run_id": "2026-11-21-1000",
+        "text": "The Nasdaq gave back all of 2026 and Trump threatened penalties on AI built abroad. This week's news adds a military side and more chip curbs."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=140&quality=85&auto=format&fit=max&s=19283afd22dbc9bfead542bffab860d5",
+        "credit": "The Guardian World"
+      },
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+        },
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones"
+        },
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-server-suppliers-halt-southeast-asia-shipments-over-us-curbs"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Monday's garment wage meeting and Hasina's return",
+    "text": "Employers are due to propose a new garment wage scale on 23 November, and the board says it will set one anyway. Also watch whether the Awami League ban moves to a formal amendment."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-21-0000-1",
+      "verdict": "open",
+      "text": "I said not to pay up for a Hormuz risk premium. Brent is $89.95 against $89.22 when I wrote it, still well below the $100 line that would prove me wrong. Markets are shut for the weekend, so it is too early to call."
+    },
+    {
+      "take_id": "2026-11-21-1000-1",
+      "verdict": "open",
+      "text": "I said not to buy the AI drop in one go. The S&P 500 is 6,910, unchanged since the take because markets are shut. The wrong-if (Nasdaq recovering its 2026 losses) has not happened, but it is too early to call."
+    }
+  ],
+  "heat": {
+    "russia-ukraine": 10,
+    "bangladesh-politics": 9,
+    "middle-east": 9,
+    "ai-tech-power": 8,
+    "us-china": 7,
+    "oil-energy": 5,
+    "bangladesh-economy": 6,
+    "taiwan": 3,
+    "uk-eu-reset": 2,
+    "southeast-asia": 3,
+    "west-bank-settlements": 3
+  }
+}
