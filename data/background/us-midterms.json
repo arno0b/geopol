@@ -100,6 +100,72 @@
         }
       ],
       "change_note": "Democrats swept both chambers; updated current state and what to watch."
+    },
+    {
+      "date": "2026-11-23",
+      "how_we_got_here": "Every two years all 435 House seats and about a third of the Senate are up for election. The party of the sitting president usually loses ground in the first midterm. Trump's party won both chambers in 2024, so this vote is widely seen as a referendum on his second term.\n\nThe run-up included fights over election rules and counting. Trump asked the Supreme Court to set aside about 20,000 disputed California ballots, and the court refused.",
+      "players": [
+        {
+          "name": "Trump and Republicans",
+          "wants": "Keep both chambers so the agenda (tariffs, tax, foreign policy) stays unchecked."
+        },
+        {
+          "name": "Democrats",
+          "wants": "Win at least the House to gain oversight powers and block legislation."
+        },
+        {
+          "name": "Markets",
+          "wants": "Clarity on tariffs, spending and tax policy; gridlock is usually seen as calm."
+        }
+      ],
+      "stakes": "Control of Congress decides whether Trump faces investigations, budget fights and limits on funding. Markets have historically tended to rise after midterms once uncertainty clears, but that is a tendency, not a rule. Foreign policy (Iran, Ukraine, trade) sits mostly with the president either way.",
+      "current_state": "Democrats hold both chambers. With a North Carolina flip on 22 November they have at least 258 House seats to Republicans' 173, the largest House majority since 1992, with a few races undecided. They take control in January. Commerce Secretary Howard Lutnick is emerging as their first target, over the Nvidia chip-sales scandal and China.",
+      "watch_next": "Final House tallies, whether Lutnick resigns before January, the first subpoenas and hearings (chips, Iran war, tariffs), and the year-end funding fight.",
+      "timeline": [
+        {
+          "date": "2024-11-05",
+          "event": "Trump wins the presidency; Republicans take Congress."
+        },
+        {
+          "date": "2025-01-20",
+          "event": "Trump's second term begins."
+        },
+        {
+          "date": "2026-11-03",
+          "event": "Midterm elections held; Supreme Court refuses to block counting of California ballots."
+        },
+        {
+          "date": "2026-11-04",
+          "event": "Democrats win control of the House and Senate."
+        },
+        {
+          "date": "2026-11-22",
+          "event": "Democrats reach 258 House seats, the biggest majority since 1992."
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china"
+        }
+      ],
+      "change_note": "House majority now the largest since 1992; Lutnick named as first oversight target."
     }
   ]
 }

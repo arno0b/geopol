@@ -1,0 +1,169 @@
+{
+  "run_id": "2026-11-23-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "russia-ukraine",
+    "new_storyline_name": null,
+    "headline": "A Russian warship sinks in Libya, and Ukraine's drone war now reaches the Mediterranean",
+    "story": "The Russian navy corvette Merkury was hit by a suspected Ukrainian sea drone while docked at Benghazi, in eastern Libya, and sank after a night-time explosion. Libya's eastern government says it had stopped to refuel on its way back to Russia. Nobody has claimed the strike, and a second ship, Maltese-flagged, was reported hit off Benghazi too. It comes days after the Gulf of Finland strike on a Russia-bound cargo ship and Ukraine's Kerch Bridge hits.",
+    "so_what": "Ukraine is now striking Russian shipping from the Baltic to North Africa, and a port in a third country is part of the war zone. Libya's eastern authorities, who host Russian ships, are caught in the middle.",
+    "last_time": {
+      "run_id": "2026-11-23-0000",
+      "text": "Last briefing Russia hit Kryvyi Rih and Lviv in reply to the Kerch strikes. Since then Ukraine's reach has extended to a Russian warship in Libya."
+    },
+    "money_angle": null,
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "us-midterms",
+      "new_storyline_name": null,
+      "headline": "Democrats lock in their biggest House majority since 1992",
+      "story": "A North Carolina flip gives Democrats at least 258 House seats to the Republicans' 173, with a few races still undecided. They take control in January. The Guardian says Commerce Secretary Howard Lutnick is already their top target, over his role in the Nvidia chip-sales scandal and China, and he is resisting calls to resign.",
+      "so_what": "From January, Trump faces subpoenas and hearings on chips, the Iran war and tariffs. The AI and China export rules are where that scrutiny will bite first.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aab/live/8ca719f0-e6b0-11f1-b45e-bf1e220bd648.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china"
+        }
+      ]
+    },
+    {
+      "storyline": "climate-food-water",
+      "new_storyline_name": null,
+      "headline": "COP31 ends with no deal after a fight over the words 'fossil fuels'",
+      "story": "The longest talks in the summit's history collapsed two days past the deadline. The draft did not mention fossil fuels at all, and the EU, the UK and several developing countries rejected it as failing 'to meet the moment'. Oil producers had opposed the term. Australia's Chris Bowen, who had a leading role, faces criticism at home.",
+      "so_what": "With no common line on fossil fuels, the fight moves to national policy and to energy security, which the Hormuz crisis has already put first.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "The NCP says it will shun Tarique's unity push unless its demands are met",
+      "story": "Ahead of Monday's meeting with the Prime Minister, NCP leader Nahid Islam says his party will stay out of the BNP-led national unity initiative unless its demands are met. Four NCP leaders are due to attend. Jamaat has separately threatened to skip local polls, and the Daily Star reports 50 garment factories shut amid wage protests.",
+      "so_what": "The dialogue could stall before it starts. Unrest in the garment belt is the part that hits exports and the economy.",
+      "last_time": {
+        "run_id": "2026-11-23-0000",
+        "text": "Last time the NCP meeting was set up as the first sign of de-escalation. Now the NCP is signalling a conditional, not a warm, welcome."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUExmT1RiLU5zakFzRmZLSlVuYmtESzZTZG9TSG4zb1FxZWRwQmg4Znc2NWJNMlhnM0tUd1VYaDZQU3dYbXdMVnEwY3hhVnFjVHhWeVMzQU5TNnh3blN4NUMzWDFRWE9XQTRQM2pQZ2pJUTN3V0ktTTNzeGpKdkJLUkZ1c3BxQWIyQXc2OXZQbDItYklmeS1WVDRQc3luUmNSb0pXdE1DSWhhWmJSX3BTYXROd29kWFJZV1Bv?oc=5"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0JuYmZCN2RhTE1Tc3VtVHFhV2JZZk9aeEFqZmVqZVM1NkVrcU9iLXU3Y0VwM0REZmwwbDliaFhGdHVHRFVsNV9rRXJWNEUwOEZFX2hKOGtTazhDM1h5UnhrQmtfdlJESGhyQ2VvZWd0Nlh5WkNvZ05kUGJSN1EyaWxGWVQwcmt6bGRfVk5ubUwzc2dtbUl4bnFTMzBBcGM?oc=5"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425446/minimum-wage-board-meets-monday-rmg-owners-set-to"
+        }
+      ]
+    },
+    {
+      "storyline": "oil-energy",
+      "new_storyline_name": null,
+      "headline": "Oil exports hit a record even with Hormuz shut",
+      "story": "Nikkei Asia reports global crude exports hit a record high despite the closure of the Strait of Hormuz, with US exports at records too. Producers outside the Gulf are filling the gap, which helps explain why Brent sits near $90 rather than $100 or more.",
+      "so_what": "The market is pricing a shipping problem it can work around. The risk is a bigger shock, such as a new attack on non-Gulf supply.",
+      "last_time": null,
+      "money_angle": "Brent closed Friday at $89.95. The Monday open is the first reaction to a weekend of Gulf attacks.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/energy/global-crude-exports-hit-record-high-despite-hormuz-closure"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Monday's open and the Dhaka meetings",
+    "text": "How oil and tech trade after the weekend, whether the NCP meeting and the wage board produce anything, and whether Russia answers the Benghazi sinking."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-21-0000-1",
+      "verdict": "open",
+      "text": "Brent is $89.95 against $89.22 at the take, with markets shut. The record crude exports support the view that the Hormuz premium is not being paid. Monday is the test."
+    },
+    {
+      "take_id": "2026-11-21-1000-1",
+      "verdict": "open",
+      "text": "The S&P 500 is unchanged at 6,910 since the take because markets are shut. The wrong-if, a Nasdaq recovery within the week, has not happened."
+    }
+  ],
+  "heat": {
+    "russia-ukraine": 10,
+    "middle-east": 9,
+    "us-midterms": 6,
+    "climate-food-water": 6,
+    "bangladesh-politics": 8,
+    "oil-energy": 5,
+    "us-china": 6,
+    "ai-tech-power": 7,
+    "bangladesh-economy": 5,
+    "taiwan": 3,
+    "west-bank-settlements": 2,
+    "uk-eu-reset": 2,
+    "southeast-asia": 3
+  }
+}
