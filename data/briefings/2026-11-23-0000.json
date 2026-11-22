@@ -1,0 +1,184 @@
+{
+  "run_id": "2026-11-23-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "middle-east",
+    "new_storyline_name": null,
+    "headline": "Iran is hitting tankers almost daily, and Hormuz traffic is thinning",
+    "story": "About 25 tankers have been hit in and around the Strait of Hormuz since 14 November, and Iran says it has shot down its 20th US drone of the war. It also struck at US bases in Bahrain, and Bahrain reported a fire at a civilian industrial site. Al Jazeera's read is that Tehran is using its leverage: it calls the US blockade a 'silent economic war' and wants Gulf states to press Trump to end the war. Ship transits fell to 263 in the week to 18 November, against about 135 a day before the war.",
+    "so_what": "This is pressure to force talks, not a bid for a wider war, and the Gulf insurance cost is already up from 0.1-0.25% to 3.5-7.5% of a ship's value. An easing of the blockade is the likeliest way this winds down.",
+    "last_time": {
+      "run_id": "2026-11-22-1000",
+      "text": "Yesterday Iran had hit Bahrain and mined the Strait while offering talks via Qatar. Since then the attacks have kept coming, and a US-struck Iranian radar site (Hengam Island) is cited as the trigger for the latest Bahrain raid."
+    },
+    "money_angle": "Brent closed Friday at $89.95, well off the $100 peak, so markets are treating the attacks as a shipping problem rather than a supply collapse. Markets are shut until Monday's open, so the first reaction is still to come.",
+    "my_take": null,
+    "image": {
+      "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-22T054830Z_561340037_RC2TSOAVQ66D_RTRMADP_3_IRAN-CRISIS-BAHRAIN-1-1795348266.jpg?resize=1758%2C1080",
+      "credit": "Reuters via Al Jazeera"
+    },
+    "sources": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "ai-tech-power",
+      "new_storyline_name": null,
+      "headline": "An Anthropic mathematician says Claude helped prove the Riemann hypothesis",
+      "story": "Levent Alpöge, an Anthropic staff member, says six weeks of work with Claude produced a proof of the 166-year-old Riemann hypothesis, released as about 17 million lines of Lean code that a computer can check. The Guardian reports that two groups have verified the claim. DW says it still needs independent verification, and a mathematician told the AP that a machine-checked proof is not the same as human understanding of it. Note that this is Anthropic's own model, and the briefing is written by Claude.",
+      "so_what": "If it holds, it is the clearest sign yet that AI can do frontier research, which feeds the argument over how much the AI build-out is worth just as the sector is selling off.",
+      "last_time": {
+        "run_id": "2026-11-22-1000",
+        "text": "AI news this week was about the sell-off, chip curbs and killer-robot talks. This is a different kind of story: capability, not policy."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a7ad1c833428adafc056e7f188ca63a",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-rdf"
+        }
+      ]
+    },
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Russia hits Zelensky's hometown and Lviv as Putin's 'painful' reply to the Kerch strikes begins",
+      "story": "Russian ballistic missiles hit Kryvyi Rih, Zelensky's hometown, killing two and wounding dozens, and a missile struck a residential area of Lviv in the west. Putin had promised a 'painful' response after Ukraine hit the Kerch Bridge to Crimea three times this week. In the Gulf of Finland the Russia-bound cargo ship Sparta II is still burning after a drone strike that Finland says Ukraine was likely behind. Kyiv has not commented.",
+      "so_what": "Strikes on bridges and on ships near NATO waters are widening the war's reach, and there is little sign of progress in peace talks.",
+      "last_time": {
+        "run_id": "2026-11-22-1000",
+        "text": "We covered the drone hit on the ship off Finland. Since then Russia has launched its retaliation strikes on Kryvyi Rih and Lviv."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg",
+        "credit": "Finnish Border Guard / Reuters via BBC"
+      },
+      "sources": [
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Dhaka talks about talking while Jamaat threatens a local-poll boycott",
+      "story": "Prime Minister Tarique Rahman is set to hold a dialogue with political parties soon, and the NCP, including Nahid Islam, is due to meet him on Monday. Jamaat's Shafiqur Rahman says his party won't join local elections unless expatriates get the vote. Meanwhile extra paramilitary troops are being deployed to calm unrest, and bdnews24 says the BNP faces questions over ministers' words and a muted government response to the violence.",
+      "so_what": "After a week of arson and reprisals, talks are the first sign of de-escalation. But the Awami League ban push and the boycott threat show how narrow the common ground is.",
+      "last_time": {
+        "run_id": "2026-11-22-1000",
+        "text": "Yesterday the government floated a permanent constitutional ban on the Awami League. Now the focus shifts to whether the opposition and the NCP will sit down."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Prothom Alo English",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yWTc0a2I3QnNmUkhjMEhnSlMydGZGeXUtSjFtWlo3dW1WYkI2dThvMWtLOVc1R2tXYm9kSWhRNWp4Z2JqQkRXc0xUQWlFZXJwT2VtRTBueEw4X0tyejV5MUJlZUJKc0HSAXRBVV95cUxQUU5rcnZMRGR2cWQ3VUV0c3ZaNEdHUVFnZ1RsaUFweVI1M2QzZGNEVVduU0VzZzhNYVRJUkZrSkVqQk1EeTJpeDV4S0NpWEtXcHF0UUNYSE9kbTVUaTg4cDl5NEFvMVc3eUw4NjgxRG9vNzNzVQ?oc=5"
+        },
+        {
+          "name": "Prothom Alo English",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qbll5bDdLdWFvQ05Xc3E5d1dCeU9lSXpOR3N1M0dpUXJYckNILXFtd29GYlU0UnlDV1VDMG1rWThtV2RtWjBhdTNveW00STI1ZC1LOExBMVRMTE55MW8zcUJCU3F6aknSAXRBVV95cUxQQV91Qkg4UlV2WW9SaGN6Z2RSNnpiWE5IOS12b2hoNnRReXpUODllT0lLVERBWXVBYkZoMUxhc1pCS2ljbTQtVzExMGNhYzB2cUdZcmFsb1FRZEYxNURuc2N4bVVJRFlKc2c1NDFmQ2hKT256dg?oc=5"
+        },
+        {
+          "name": "The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNjdzbnhrNWRvZE4tYUxreVJpeWk4U0VUalpQVklINVB1RjFSTTVtZVpuVVFwZTZjOTg3ZDVTSXlFcm1MV2FHWFZQcFpGMGdCc0xKQTJqMG1LalpiTWtuNDNkVFhDX2JpbUM4ZjZPdE1sd3BCLUFpOGhNdDl6MjNkQk1WUllicmYtWVMtWnBlQzQ3ZjJIS3J5cC1oc0xBd0Y4c1B0V0tZd3V1N3BzT0h1X0l2Q200cC1DNFBHUw?oc=5"
+        },
+        {
+          "name": "bdnews24",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FZ01FODMyOHNWUGstSmE5a2xyeG1TX1pUc0tpZ2p0T3pON1YyLVE4Yms4ZnZPbXZveUFFMk1tUEp2T1U5WnpVRGN2aWtpc2JZVXptQw?oc=5"
+        }
+      ]
+    },
+    {
+      "storyline": "us-china",
+      "new_storyline_name": null,
+      "headline": "Shenzhen: friendly summit, few results, and Beijing is calling it a win",
+      "story": "Analysts say Trump and Xi's Shenzhen meeting produced plenty of warm gestures and little in concrete deals, which Nikkei Asia frames as a win for Beijing. NPR notes Trump offered mostly a joint statement. Separately, China is asking the US to reverse restrictions on phone numbers for its telecom firms.",
+      "so_what": "The chip curbs and export controls remain in place, so the pressure on supply chains does not ease.",
+      "last_time": {
+        "run_id": "2026-11-22-0000",
+        "text": "We noted Trump touted the Xi and Putin meetings with little to show. Analysts are now settling on 'style over substance'."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/opinion/bro-hugs-no-deals-why-shenzhen-was-a-win-for-beijing"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ1pOaDl1dWV6U3V5VG1hT1Bfd1YwVWRGbld4eml1OVFSZWYycVpEV3NPVG9KeUVHSmhVVG9PMHo3ZHVyclVMVTVPVEhIcnlLNzNjMGkxb3pUaHpuSUpIbDRVTW5XM2pzbWZhUlNZRTN0N1RKTFRVZE94V0NRY1h5bzhFSVRUakdUb2p4VndIZzM1Y1B3Q1BZZDJsQUo0TWdtalI5Yzc0Z05Pc01pZnlvNU1TTzNtZHhXQ1hNSGZBWkdScFgzbEY0LWZ4Ulk?oc=5"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Monday's market open and the wage meeting",
+    "text": "Whether oil and tech react when markets reopen after the weekend of Gulf attacks, and whether Dhaka's garment wage talks and the NCP meeting calm things down."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-21-0000-1",
+      "verdict": "open",
+      "text": "I said not to pay up for a Hormuz risk premium. Brent is $89.95 against $89.22 at the take, still far below the $100 line that would prove me wrong. Markets are shut, so it is too early to call, but the weekend's attacks make Monday the test."
+    },
+    {
+      "take_id": "2026-11-21-1000-1",
+      "verdict": "open",
+      "text": "I said not to buy the AI drop in one go. The S&P 500 is 6,910, unchanged since the take because markets are shut. The wrong-if (the Nasdaq recovering its 2026 losses) has not happened."
+    }
+  ],
+  "heat": {
+    "middle-east": 9,
+    "ai-tech-power": 8,
+    "russia-ukraine": 10,
+    "bangladesh-politics": 8,
+    "us-china": 6,
+    "oil-energy": 5,
+    "bangladesh-economy": 5,
+    "taiwan": 3,
+    "uk-eu-reset": 2,
+    "southeast-asia": 3,
+    "west-bank-settlements": 2
+  }
+}
