@@ -1,0 +1,185 @@
+{
+  "run_id": "2026-11-24-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "russia-ukraine",
+    "new_storyline_name": null,
+    "headline": "Ukraine owns the Libya strike, the Kremlin warns of 'escalation', and Zelensky asks for four-way talks",
+    "story": "Ukraine's security service says it launched seven sea drones from a mothership to hit two Russian vessels off Libya, sinking the new corvette Merkury. Zelensky called it an 'exemplary' operation. The Kremlin warned of 'an escalation of tensions in the region' but would not comment on Libya directly, and Albania denied that the drones were launched from its territory. Russia, meanwhile, hit the Kyiv region again, killing at least 15, after Putin promised a 'painful' reply to the Kerch strikes.",
+    "so_what": "Kyiv is now openly claiming strikes far from the front, while Moscow answers on cities. Zelensky also called for four-way talks with Russia 'as soon as possible', ideally before Christmas, while still demanding full NATO membership. The two tracks are moving at once.",
+    "last_time": {
+      "run_id": "2026-11-23-1000",
+      "text": "Yesterday the Merkury sank off Benghazi and nobody had claimed it. Since then Kyiv has taken responsibility, Moscow has warned of escalation, and Russia has hit the Kyiv region."
+    },
+    "money_angle": null,
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/cfb76673617a9119c98c92a444bacae6ca40eb5c/404_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=8c0889c3bdc2c172aa530662154d2f6c",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss"
+      },
+      {
+        "name": "Dhaka Tribune",
+        "url": "https://www.dhakatribune.com/world/europe/425531/zelensky-calls-for-four-way-talks-with-russia-%E2%80%98as"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Trump says strikes on Iran could resume after New Year; Tehran warns it will answer any attack",
+      "story": "Trump told Fox News that major US combat operations against Iran could resume after the New Year if there is no deal. He called the indirect talks 'all BS' and said Iran is 'more aggressive now than before the election'. Iran says it will use 'all available means' against the US naval blockade of its ports and will respond to any attack.",
+      "so_what": "This is a deadline on a stalled process, not a new offensive. It gives both sides about five weeks to find a face-saving exit, and it raises the odds of another round of tanker attacks in the meantime.",
+      "last_time": {
+        "run_id": "2026-11-23-0000",
+        "text": "Iran was hitting tankers almost daily and Hormuz traffic was thinning. Now Washington has put a rough date on the next phase."
+      },
+      "money_angle": "Brent is $88.65 on Monday, below Friday's $89.95, so oil is not pricing a new escalation yet.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-Strikes-on-Iran-Could-Resume-After-New-Year.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/iran-threatens-response-to-any-attack-amid-naval-blockade?traffic_source=rss"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/world/middle-east/425508/iran-says-will-use-%E2%80%98all-available-means%E2%80%99-to"
+        }
+      ]
+    },
+    {
+      "storyline": "oil-energy",
+      "new_storyline_name": null,
+      "headline": "Europe's gas price jumps as a cold snap meets record-low stocks",
+      "story": "The Dutch month-ahead gas contract, Europe's benchmark, rose as much as 8.6% to €96.08 per MWh on Monday before settling about 4% higher at €92.50. Forecasts show colder weather coming. Storage is at record lows after a hot summer and slower Qatari supplies. The price has nearly tripled from 30 euros, and is just below the four-year high above 100 euros in late October.",
+      "so_what": "Europe is more exposed to a hard winter than to Hormuz oil flows right now. A cold January would hit household bills and could revive talk of energy-support packages.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/596fc4064aaba881cdfb43c17488ceec612369a6/809_389_3588_2872/master/3588.jpg?width=140&quality=85&auto=format&fit=max&s=552d72399ddcd69d987bcc9eddb97c9c",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Surge-86-as-Cold-Snap-Looms.html"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Dhaka vows to arrest Hasina if she returns, as attacks on Awami League homes pass 240",
+      "story": "Bangladesh says it will arrest Sheikh Hasina if she comes back from India. A rights group says 247 Awami League-linked homes and businesses have been attacked, and Al Jazeera reports that Grameen Bank has become a target of Hasina supporters' violence. After the PM's meeting with an NCP delegation, minister Mahdi Amin said no conditions were set. NCP leader Nahid Islam says he asked for a roadmap on the Awami League and India issues.",
+      "so_what": "Talks are happening, but the NCP is tying its support to the Awami League and India questions, which are the hardest ones for Tarique's government. The risk is that the unrest turns into a long cycle of reprisals.",
+      "last_time": {
+        "run_id": "2026-11-23-1000",
+        "text": "The NCP said it would shun the unity push unless its demands were met. After the meeting, the government says no conditions were set, while the NCP wants a roadmap."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://media.prothomalo.com/prothomalo-english/2026-11-23/5ffrn4hk/NCP.avif",
+        "credit": "Prothom Alo"
+      },
+      "sources": [
+        {
+          "name": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/bangladesh/politics/wjkv2iqd8p"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/politics/425509/mahdi-amin-no-conditions-set-during-pm-s-meeting"
+        },
+        {
+          "name": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLTRUVmJjMDRQOUF4dHdHQ3ZkVVFzSXlBZVAyenpDNW5lT1lsVGsycldEQ1kwaHJXWjRVVl9UUWlURGhQQkxXRjh2R2lCeC1nVGNjM3BBYU4wZU1ZNDVYWUR3MExsbVVibUxnb2dNc1VNcTQtVWZPUERGQnUwZ181c0ZPV1dLNGdYOXVFbHJmTDVPNV9VTEN6X1o4cjRfRXEzeFVEVFQ0cVFVY192czJCWDUtMklTX1pjM3hCRzRmdw?oc=5"
+        },
+        {
+          "name": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWnVKY1dxMmI0OWVSdFpTUkJxU2VWRFp6dUVkamV4b1paZUNWSFVkdTRSeDdXUlFFdVduNjJqNnBka1ZvdnRqNTlWNmVPUUNraHJzYTNZVGpadlJhaEdfTW8tOUJCWllzR1p0aUxkSkY4MldfYWJxSDdOc2E5SnRwc1ZqUXotelA4MWlkYTZXbFgxbmJiSDFDX1Z4dUo5di1uVDZ0YU1hOEszbFFtcENWMUwxR0ZJODI3cUh1Vkgyb1A2eWhLbjU4NUtZXzMzdw?oc=5"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/why-is-bangladeshs-grameen-bank-under-attack?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "World Bank warns Bangladesh risks a low-growth cycle",
+      "story": "The Daily Star reports the World Bank warning that Bangladesh risks falling into a low-growth cycle. A separate Daily Star piece calls the country's growth 'a conundrum'. This comes as garment factories have been shut by wage protests and politics stays tense.",
+      "so_what": "Weak growth makes the political fight harder, because there is less to share out. The 1 December garment wage scale is the next concrete test.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0Z0LXMzWlEwZFhhcDBCYms5UU5yVHRpcTFtWTNOeDZxN3c2ZXVoN0k1M2tBWGNVMW5mMTZ6ZDk3MG9FMmxQRmNPQkJ6cXhqUmNQWkEyNHdabFFLUE9iMFJEUXJFemUwcS1xdEJIelp1a0JlNmlJRjdCQ2dyNUhnSmcyN2YxRjd3amNuY1BLM0kzcExaTDlJUk1KaHV4ZzkwOTVuN3dndmtHSEZMTXc?oc=5"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc1lCLTJGYW1wYm8wQndYMXVpbHpqWmtxd2VmVXlhbkN6VlNoWFdETDVQeWpIQ2xxOUUtbDNWVHdPalBjZUhCRW13Z0dYc2VXS1VsdXNSSC1TejBkZlJkN0U4LTFIUGNtbWRwSjBKa2VGUWowT3lObk5lTmZhV2s2LVlnbkU1TU91ZjJzSXc1N05LSW5WbVU2OG1kSjk?oc=5"
+        }
+      ]
+    }
+  ],
+  "takes_review": [
+    {
+      "take_id": "2026-11-21-0000-1",
+      "verdict": "open",
+      "text": "I said not to pay up for a Hormuz risk premium. Brent is $88.65 in Monday trade against $89.22 at the take, so the first market test has passed, with no spike despite the weekend's attacks. The $100 line is far off, but flows are the other test, so it stays open."
+    },
+    {
+      "take_id": "2026-11-21-1000-1",
+      "verdict": "open",
+      "text": "I said not to buy the AI drop in one go. The S&P 500 shows 6,910 from Friday's close, since US markets have not yet traded Monday. The wrong-if, a Nasdaq recovery within the week, has not happened. It stays open."
+    }
+  ],
+  "heat": {
+    "russia-ukraine": 10,
+    "middle-east": 9,
+    "oil-energy": 6,
+    "bangladesh-politics": 8,
+    "bangladesh-economy": 5,
+    "us-china": 5,
+    "ai-tech-power": 6,
+    "us-midterms": 5,
+    "climate-food-water": 5,
+    "taiwan": 3
+  },
+  "watch": {
+    "title": "Kremlin's reply and the Iran deadline",
+    "text": "Whether Russia answers the Libya strikes, whether any four-way talks get a date, and whether Iran and the US find a way out before the New Year. Also the 1 December garment wage scale in Dhaka."
+  }
+}
