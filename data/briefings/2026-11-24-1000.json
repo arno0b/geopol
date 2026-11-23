@@ -1,0 +1,139 @@
+{
+  "run_id": "2026-11-24-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "ai-tech-power",
+    "new_storyline_name": null,
+    "headline": "Trump gets Jensen Huang his Nvidia job back, and a $1tn rally follows",
+    "story": "Nvidia reinstated Jensen Huang as chief executive less than two weeks after he left over a scandal involving an alleged Chinese spy. Trump says he spoke to board members 'directly and indirectly' and 'convinced them'. Nvidia's value jumped by almost $1tn, the S&P 500 rose about 4.5% and the Nasdaq about 6.5%, winning back nearly half of last week's losses. Republican senators and top Democrats both criticised the move, and some are calling for Huang to testify before Congress.",
+    "so_what": "Markets just priced in one man and one president's goodwill. That is a fragile base: the chip-smuggling inquiries and a Democratic House from January are still coming, and the US is moving to blacklist the Asian firm Megaspeed over chips reaching China.",
+    "last_time": {
+      "run_id": "2026-11-23-1000",
+      "text": "Last time the Nvidia chip-sales scandal was making Commerce Secretary Lutnick a top Democratic target. Since then the CEO has been brought back, and the scandal has become a question about presidential influence over a private board."
+    },
+    "money_angle": "The S&P 500 is 7,237, up from 6,910 on Friday (about +4.7%), and Nvidia was up around 31% at the open. One day does not undo a week that was among the worst since 2008.",
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=140&quality=85&auto=format&fit=max&s=9777f3efbe0433b8488aa88bcecef998",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Moscow threatens Estonia with 'open war'",
+      "story": "Russia accused Estonia of 'hostile actions', citing a border closure and a claim that Tallinn lets Ukraine launch attacks from its territory. It warned of 'open war'. Russia also warned Kyiv of a 'dangerous trend' after the strikes in Libya and the Baltic. Separately, the EU's 22nd sanctions package was set out to 'strike harder' at Russia's ability to fund the war.",
+      "so_what": "Estonia is a NATO member, so a threat against it is a threat to the alliance. It looks like pressure and a pretext, not a plan, but it follows Ukraine's strikes in the Baltic and raises the risk of a mistake at the border.",
+      "last_time": {
+        "run_id": "2026-11-24-0000",
+        "text": "Last time Kyiv owned the Libya strike and the Kremlin warned of 'escalation'. Now Moscow has named a NATO state as part of the threat."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Garment workers reject the pay offer and factories close near Dhaka",
+      "story": "Protesting garment workers rejected the pay offer, and the wage board meeting was adjourned until Tuesday. About 50 factories in Savar and Ashulia have declared holidays because of the protests. The industry earns about $38bn a year, and the minimum wage is around 12,500 taka ($100) a month.",
+      "so_what": "Garments are most of Bangladesh's exports, and an economy already facing slower growth cannot afford a long shutdown. The 1 December wage scale is the date to watch, and if talks fail the disruption could reach shipments for winter orders.",
+      "last_time": {
+        "run_id": "2026-11-24-0000",
+        "text": "The World Bank had warned of a low-growth cycle. The wage dispute now adds a near-term risk on top of it."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaV9mcjFaTU1LbTBQWkktdDdUbFRBMWpnN0FxUWxlVEhhRUR5a0pERmQ5X0s1cU53WWJYSU9qSlptTXlFeG5UYWpMUTJ1dHNjNmhhMWtWSkZBZXpTOXpqVl8xUnBHSF9jMjBqRHVkVzhnTmZoMUltbG42d3BhTjAxNXdqc1ZidExNbENZT2tBUmd5MDlPTU1RNVh1U0hSUGtDRHVjNXpMajJTa0wtMEE?oc=5"
+        }
+      ]
+    },
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "The US tightens sanctions on Iran's 'shadow banking' as Tehran hits Gulf sites again",
+      "story": "The US Treasury sanctioned more than two dozen Iranian entities it says run networks moving money around the world. Al Jazeera reports Iran has stepped up attacks on US bases and civilian sites in the Gulf after a lull. Tehran says the blockade and sanctions are hurting.",
+      "so_what": "Washington is squeezing money while the blockade squeezes ports, and Tehran is answering with attacks. That is how both sides try to improve their position before any talks, and it fits Trump's New Year deadline.",
+      "last_time": {
+        "run_id": "2026-11-24-0000",
+        "text": "Last time Trump said strikes could resume after New Year. Since then the US has added financial sanctions and Iran has resumed Gulf attacks."
+      },
+      "money_angle": "Brent is $86.72, down from $88.65 yesterday and $89.22 when I wrote my Hormuz take. Oil is not pricing in a new escalation.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Huang on Capitol Hill, and Dhaka's wage scale",
+    "text": "Whether Congress formally calls Huang to testify, whether the Nvidia rally holds through the week, and what the wage board decides before the 1 December garment wage scale."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-21-0000-1",
+      "verdict": "open",
+      "text": "I said not to pay up for a Hormuz risk premium. Brent is $86.72 against $89.22 at the take, still far below the $100 line that would prove me wrong. Flows are the other test, so it stays open."
+    },
+    {
+      "take_id": "2026-11-21-1000-1",
+      "verdict": "mixed",
+      "text": "I said not to buy the AI drop in one go. The S&P 500 is 7,237 against 6,910 at the take, about 4.7% higher, so waiting cost upside on a one-day Nvidia rebound. The wrong-if, a Nasdaq full recovery within a week, has not happened: the rally won back about half the losses. Policy risks are still unresolved, so I rate it mixed for now."
+    }
+  ],
+  "heat": {
+    "ai-tech-power": 8,
+    "russia-ukraine": 10,
+    "middle-east": 9,
+    "bangladesh-economy": 6,
+    "us-midterms": 5,
+    "us-china": 5,
+    "oil-energy": 5,
+    "bangladesh-politics": 7
+  }
+}
