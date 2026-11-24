@@ -1,0 +1,143 @@
+{
+  "run_id": "2026-11-25-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "russia-ukraine",
+    "new_storyline_name": null,
+    "headline": "A Russian drone enters Polish airspace, days after cruise missiles fell on Poland",
+    "story": "Poland says a Russian drone violated its airspace on Tuesday, just days after Russian cruise missiles fell on Polish territory. Authorities are investigating what they call 'intentional activity'. Zelensky has confirmed Ukraine was behind Saturday's drone strike on a Russian cargo ship in the Gulf of Finland. Separately, German media report Russia plans to launch a satellite carrying a nuclear warhead in the coming weeks, and NATO's chief has vowed to defend against any space threat.",
+    "so_what": "Each incident alone can be explained away, but together they show the war spilling onto NATO's eastern flank, from the Baltic to Poland to space. The danger is less a planned attack than a mistake or a Russian test of how NATO responds. The satellite story is a media report so far, not confirmed.",
+    "last_time": {
+      "run_id": "2026-11-24-1000",
+      "text": "Last time Moscow threatened Estonia with 'open war' after the Baltic and Libya strikes. Now a drone has crossed into Poland and a nuclear satellite is being reported."
+    },
+    "money_angle": null,
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=140&quality=85&auto=format&fit=max&s=6bbf46ffd050ed7fc5ee1aefc86aa377",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Garment minimum wage set at Tk16,000, but the unrest has not stopped",
+      "story": "Employer and worker representatives agreed a new minimum wage of Tk16,000 a month for garment workers after weeks of talks. Yet on the same day a highway was blocked and a police box torched in Gazipur, and about 70 factories declared a holiday.",
+      "so_what": "The deal is a rise on the roughly Tk12,500 now paid, and it removes the main reason for the strikes. But the street anger shows not everyone accepts it, and factories shut near Dhaka put winter orders at risk. Watch whether the 1 December wage scale calms things or restarts them.",
+      "last_time": {
+        "run_id": "2026-11-24-1000",
+        "text": "Last time workers had rejected the pay offer and about 50 factories had closed. Now a figure has been agreed, but more factories are shut."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://media.prothomalo.com/prothomalo-english/2026-11-24/onsfdx1u/prothomalo-bangla2026-11-24yd4oft2qGazipur.avif",
+        "credit": "Prothom Alo"
+      },
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425631/rmg-workers%E2%80%99-minimum-wage-set-at-tk16-000"
+        },
+        {
+          "name": "Prothom Alo",
+          "url": "https://en.prothomalo.com/bangladesh/local-news/mc0r9y9gbf"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Hasina names 16 December for her return, and Dhaka says she will be arrested",
+      "story": "Ousted leader Sheikh Hasina says she plans to return from exile on 16 December. A Bangladeshi minister says she would have to come 'in handcuffs', and another says she will be arrested if she visits any Bangladeshi mission abroad. Meanwhile the Election Commission starts talks with 55 parties from 29 November on local polls, and Jamaat plans protests outside Dhaka. Biman has also extended its Riyadh flight suspension to 16 December.",
+      "so_what": "A named date gives every side something to plan around, and it lands just as local elections and the garment wage scale are testing the government. The risk is that her supporters and opponents both use the date to mobilise. A return is unlikely in practice, but the date itself raises the temperature.",
+      "last_time": {
+        "run_id": "2026-11-24-0000",
+        "text": "Last time Dhaka vowed to arrest Hasina if she returned, with attacks on Awami League homes past 240. Now she has put a date on it."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "WRAL (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXFsUEEzRGtfTFBsNEFKRUUxenlvaUI0SVlNVFJWbTh0X3JOV2NFZ3J3U21IczlUOFRIYkF2eFNZd1AzNm91Z05pYjQ5RkdzV1ZVdi1iQkw1Z3R6cXVOX3JKelNDNmZORVdNem5OZE9zaEs5LWQwam54a044emRaY3dTVEl3c2Q3Y0hhNG03REIzQzE0djN0RFVYNHpKaUJnWFFuU09nNGpIWHN0RmdBVXQxNm9BeFVaaXh3S0RmNkVtMk0?oc=5"
+        },
+        {
+          "name": "Prothom Alo",
+          "url": "https://en.prothomalo.com/bangladesh/shy68gp9n0"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/election/425624/ec-to-hold-talks-with-political-parties-on-up"
+        }
+      ]
+    },
+    {
+      "storyline": "oil-energy",
+      "new_storyline_name": null,
+      "headline": "Baghdad orders a takeover of oilfields in Kurdish-held areas as Europe's gas price climbs",
+      "story": "Iraq's prime minister Ali al-Zaidi ordered his government to take over oilfields in areas under Kurdish control and to seize all crossings in the Kurdish region, after an oil smuggling inquiry. Separately, European gas prices rose for a fourth session as a cold snap hits storage that started the heating season at multi-year lows. Brent is about $86.76.",
+      "so_what": "Iraq's order could turn a smuggling inquiry into a fight with the Kurdish region over who controls oil exports, at a time when Gulf supply is already stretched. Oil itself is calm, but gas in Europe is the tighter market, and a cold winter could push power bills up.",
+      "last_time": {
+        "run_id": "2026-11-24-0000",
+        "text": "Last time Europe's gas price jumped as a cold snap met record-low stocks. It has now risen four sessions in a row."
+      },
+      "money_angle": "Brent is $86.76, down from $89.22 on 20 November. Europe's gas price is the one rising.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Prices-Climb-as-Cold-Snap-Threatens-Depleted-Reserves.html"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Poland's answer and Dhaka's wage scale",
+    "text": "Whether Poland and NATO treat the drone as deliberate and respond, whether the nuclear satellite report is confirmed, and whether the 1 December garment wage scale calms Gazipur and Savar."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-21-0000-1",
+      "verdict": "open",
+      "text": "I said not to pay up for a Hormuz risk premium. Brent is $86.76 against $89.22 at the take, far below the $100 line that would prove me wrong. Prices are drifting down, not spiking, so it is holding, but Hormuz flows are the other test, so it stays open."
+    },
+    {
+      "take_id": "2026-11-21-1000-1",
+      "verdict": "mixed",
+      "text": "I said not to buy the AI drop in one go. The S&P 500 is 7,237 against 6,910 at the take, still about 4.7% higher, so waiting has cost upside. The Nasdaq has not fully recovered its 2026 losses and the political risk around Nvidia is unresolved, so it stays mixed."
+    }
+  ],
+  "heat": {
+    "russia-ukraine": 10,
+    "bangladesh-economy": 6,
+    "bangladesh-politics": 8,
+    "oil-energy": 5,
+    "middle-east": 9,
+    "ai-tech-power": 7,
+    "us-china": 4,
+    "us-midterms": 4,
+    "taiwan": 3
+  }
+}
