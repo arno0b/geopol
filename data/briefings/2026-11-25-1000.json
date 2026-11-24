@@ -1,0 +1,138 @@
+{
+  "run_id": "2026-11-25-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "ai-tech-power",
+    "new_storyline_name": null,
+    "headline": "Nvidia's CEO is back, and now the White House has to explain why",
+    "story": "Jensen Huang apologised to Nvidia staff on Tuesday, admitting he broke the code of conduct by having affairs, but denied Trump was key to his return as chief executive. Trump says he 'convinced' the board, and reports say he made up to $15m on his Nvidia shares when the stock jumped. The attorney general dodged questions about an investigation, while saying agencies found no security risk over Huang's past affair with a suspected Chinese spy. Nvidia shares fell about 7% as lawmakers demanded answers, and AI debt markets turned jumpy.",
+    "so_what": "The world's key AI chip company now has a boss whose job was shaped by a president who owns its stock. That mixes politics into chip export rules and into how investors price AI debt. Nvidia still faces an internal probe and state and federal scrutiny.",
+    "last_time": {
+      "run_id": "2026-11-25-0000",
+      "text": "Last time the story was Huang's return and a one-day rebound in AI shares. Now the rally has reversed and the political questions are the story."
+    },
+    "money_angle": "Nvidia fell about 7% on Tuesday, and the S&P 500 is 7,201 against 7,237 a day earlier. Worries about AI debt are rising.",
+    "my_take": null,
+    "image": {
+      "url": "https://i.guim.co.uk/img/media/a73808018c1aee9c4e492cbde53796d16e234aa8/0_667_1218_973/master/1218.jpg?width=140&quality=85&auto=format&fit=max&s=58d792ab17e4d7be4d15fc17de1e385b",
+      "credit": "The Guardian"
+    },
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market"
+      },
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Putin promises retaliation as Moscow warns Estonia of 'open war'",
+      "story": "Putin says retaliation is 'inevitable' after Ukraine hit Russian oil plants, despite Trump's energy ceasefire plea from October. Separately, Russia accused Estonia of 'hostile actions' that risk open war, as Tallinn prepares to close road crossings from 1 December. Ukraine is also striking Russian military links in Africa, after the hit on a warship off Libya.",
+      "so_what": "The energy ceasefire is effectively dead, so expect Russian strikes on Ukrainian power and gas as winter sets in. The Estonia warning is mostly pressure, but it adds to the run of incidents on NATO's eastern edge.",
+      "last_time": {
+        "run_id": "2026-11-25-0000",
+        "text": "Last time a Russian drone entered Polish airspace and a nuclear satellite was being reported. Now Moscow has named its next steps: retaliation and threats against Estonia."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html"
+        }
+      ]
+    },
+    {
+      "storyline": "oil-energy",
+      "new_storyline_name": null,
+      "headline": "Iraq moves on Kurdish oilfields and fights OPEC+ over its output limit",
+      "story": "Iraq's prime minister has ordered federal forces to take control of oilfields in Kurdish-run areas after an inquiry found smuggling. Baghdad also rejects an OPEC+ estimate that it can sustainably produce under 5 million barrels a day, and wants about 6 million recognised before the group meets on Sunday to discuss 2027 targets.",
+      "so_what": "A higher Iraqi quota would mean more supply, which pushes prices down. A clash with the Kurds could disrupt northern exports instead. Europe's gas is also at four-year highs, so energy stays a pressure point this winter.",
+      "last_time": null,
+      "money_angle": "Brent is $88.50, a little below where it was a week ago. Sunday's OPEC+ meeting is the next test.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Refuses-to-Accept-OPEC-Assessment-of-its-Production-Capacity.html"
+        },
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Energy/Natural-Gas/Europes-Gas-Prices-Jumped-163-in-a-Year.html"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Garment minimum wage set at Tk17,000, up 36%, on a split vote",
+      "story": "The Minimum Wage Board fixed the garment workers' minimum at Tk17,000 a month, up 36% from Tk12,500, after a 4-2 vote. Talks had earlier been stuck, with workers asking Tk22,000 and owners offering about Tk15,700. Reports of the earlier Tk16,000 figure were overtaken by this decision.",
+      "so_what": "Workers get most of what they wanted, which should ease the strikes. But a split vote means some owners will resist, and higher costs hit Bangladesh's thin margins against rivals. Watch whether the 50 or so closed factories near Dhaka reopen.",
+      "last_time": {
+        "run_id": "2026-11-25-0000",
+        "text": "Last time a Tk16,000 figure had been reported while factories stayed shut. Now the board has gone higher, to Tk17,000."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425693/garment-workers-minimum-wage-raised-36-percent-tk1"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425631/rmg-workers%E2%80%99-minimum-wage-set-at-tk16-000"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "OPEC+ meets Sunday",
+    "text": "Iraq wants a higher capacity figure for 2027, which would add supply if granted."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-21-0000-1",
+      "verdict": "open",
+      "text": "I said not to pay up for a Hormuz risk premium. Brent is $88.50 against $89.22 at the take, far below the $100 line that would prove me wrong. Prices are drifting down, so it is holding, but Hormuz flows are the other test, so it stays open."
+    },
+    {
+      "take_id": "2026-11-21-1000-1",
+      "verdict": "mixed",
+      "text": "I said not to buy the AI drop in one go. The S&P 500 is 7,201 against 6,910 at the take, about 4.2% higher, so waiting has cost upside. But Nvidia fell about 7% on Tuesday and the political risk I flagged is now front page, so the caution was partly justified. It stays mixed."
+    }
+  ],
+  "heat": {
+    "ai-tech-power": 8,
+    "russia-ukraine": 10,
+    "oil-energy": 6,
+    "bangladesh-economy": 5,
+    "bangladesh-politics": 7,
+    "middle-east": 8
+  }
+}
