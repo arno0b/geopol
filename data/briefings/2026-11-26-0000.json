@@ -1,0 +1,163 @@
+{
+  "run_id": "2026-11-26-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "russia-ukraine",
+    "new_storyline_name": null,
+    "headline": "Russia's own death certificates point to nearly 500,000 lost in Ukraine",
+    "story": "Hackers say they got into Russia's main statistics database and found 11 million death certificates. They show nearly 500,000 Russian losses in Ukraine since 2022, far above anything the Kremlin admits. The leak lands as Germany's Merz says Russia is 'escalating on a massive scale' and 'wants more than Ukraine'. NPR also notes the fighting is spreading: a Russian warship sunk in port in Libya, and Russian missiles landing in Poland.",
+    "so_what": "The numbers show how much the war is costing Russia at home, but nothing suggests Putin is ready to stop. Europe is hearing a harder message from its leaders: plan for a long confrontation, not a quick deal.",
+    "last_time": {
+      "run_id": "2026-11-25-1000",
+      "text": "Last time Putin promised retaliation for strikes on his oil plants and Moscow threatened Estonia. Now the story is the human cost inside Russia, and Berlin's warning about where this goes."
+    },
+    "money_angle": null,
+    "my_take": null,
+    "image": {
+      "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
+      "credit": "BBC"
+    },
+    "sources": [
+      {
+        "name": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates"
+      },
+      {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Tankers hit mines in Hormuz again, and Houthis close in on Aden",
+      "story": "Iran's Revolutionary Guard says two more tankers exploded on mines on Wednesday after using routes Tehran has not approved. Reports like this are now almost daily. In Yemen, Houthi forces are advancing on Aden, the government's temporary capital, and residents and aid groups are preparing to evacuate. A Saudi-led strike on Hodeidah has drawn Houthi threats against Saudi Red Sea ports.",
+      "so_what": "Two shipping lanes, Hormuz and the Red Sea, are now under threat at once. Oil has barely reacted, which means any real supply loss would be a surprise to the market.",
+      "last_time": {
+        "run_id": "2026-11-25-1000",
+        "text": "Last time the story was US sanctions on Iran's shadow banking. Now the pressure is physical: mines, and a Houthi push on Aden."
+      },
+      "money_angle": "Brent is $88.95, close to where it was last slot, even with the Hormuz incidents. Oil is drifting down.",
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/2d223c8b5e26f79cb3997f0a2575630d648c5211/551_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a72a13a74d03822c02704754be504b08",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Reports-Fresh-Tanker-Explosions-as-Hormuz-Attacks-Intensify.html"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Hasina asks for a state flight home as arson hits Grameen Bank",
+      "story": "Sheikh Hasina has asked the government to arrange a Biman flight from New Delhi for her planned 16 December return. The home minister says the Awami League will never return to politics and that she can be sent back under a treaty. Meanwhile Grameen Bank says it has faced about 100 arson attacks in 15 days, and two more branches burned in Netrokona on Wednesday. A BNP office in Bogra was also torched, and Awami League activists are blamed.",
+      "so_what": "The arson wave is the real test: it hits microfinance that millions of poor families use, and each attack makes it harder for Dhaka to treat 16 December as a distant threat.",
+      "last_time": {
+        "run_id": "2026-11-25-0000",
+        "text": "Last time Hasina had just named 16 December. Now she is asking for a flight, and the violence is being tied to it."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://media.prothomalo.com/prothomalo-english/2026-11-25/5qsb4jbq/prothomalo-bangla2026-11-01shcbl9vzInterior-Minister-1.avif",
+        "credit": "Prothom Alo"
+      },
+      "sources": [
+        {
+          "name": "Prothom Alo",
+          "url": "https://en.prothomalo.com/bangladesh/1y35tzto7c"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/politics/425732/home-minister-awami-league-will-never-return-to"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/nation/425726/two-grameen-bank-branches-in-netrokona-set-on-fire"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/nation/425730/awami-league-activists-blamed-as-bogra-bnp-office"
+        }
+      ]
+    },
+    {
+      "storyline": "us-china",
+      "new_storyline_name": null,
+      "headline": "Solomon Islands drops its China security pact for Australia",
+      "story": "The Solomon Islands is ending its 2022 security pact with China and choosing Australia as its primary security partner. Its leader says the country will no longer be 'a point of regional uncertainty'. Separately, China has placed Shanghai party chief and Politburo member Chen Jining under investigation, and warned Washington against new tariffs that reports say could hit China, the EU, Japan and South Korea.",
+      "so_what": "This is a clear win for Australia in the Pacific, where Beijing had a foothold close to home. At the same time Xi's purge is reaching the top, and a new US tariff round would end the friendly tone of the recent Shenzhen summit.",
+      "last_time": {
+        "run_id": "2026-11-23-0000",
+        "text": "Last time the Shenzhen summit was friendly but gave few results. Now Beijing loses a Pacific partner, faces new tariffs, and another senior official."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33d1/live/b36a7310-e87d-11f1-98e2-c97dce6bef0d.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/world/asia/425722/china-warns-us-against-imposing-new-tariffs"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Hasina's 16 December date",
+    "text": "Watch the arson attacks and any move by India or Biman on her flight request."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-21-0000-1",
+      "verdict": "open",
+      "text": "I said not to pay up for a Hormuz risk premium. Brent is $88.95 against $89.22 at the take, still far below the $100 line that would prove me wrong. Tanker incidents are now daily, so it stays open."
+    },
+    {
+      "take_id": "2026-11-21-1000-1",
+      "verdict": "mixed",
+      "text": "I said not to buy the AI drop in one go. The S&P 500 is 7,201 against 6,910 at the take, so waiting has cost upside, but the tech sell-off has resumed after Nvidia's CEO drama. It stays mixed."
+    }
+  ],
+  "heat": {
+    "russia-ukraine": 10,
+    "middle-east": 8,
+    "bangladesh-politics": 7,
+    "us-china": 5,
+    "oil-energy": 5,
+    "ai-tech-power": 7,
+    "bangladesh-economy": 5
+  }
+}
