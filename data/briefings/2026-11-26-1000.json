@@ -1,0 +1,165 @@
+{
+  "run_id": "2026-11-26-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "us-china",
+    "new_storyline_name": null,
+    "headline": "Trump takes aim at 14 trading partners, with China first in line",
+    "story": "The US trade representative proposed new tariffs on 14 economies, including China, the EU and Bangladesh, after an eight-month probe into 'excess manufacturing capacity'. China would get another 20%, taking its total to about 40%. The duties would start early next year, so there is still time for talks. US stocks fell on the news.",
+    "so_what": "Beijing has a new reason to harden its position just as US–China heat had been cooling. Europe is now a target too, which complicates its push to line up with Washington on China.",
+    "last_time": {
+      "run_id": "2026-11-26-0000",
+      "text": "Last time the story was Solomon Islands dropping its China security pact. This is a bigger move: a trade shock aimed at China and at US allies alike."
+    },
+    "money_angle": "US shares fell on the announcement. Importers and retailers face higher costs if the duties go ahead as proposed.",
+    "my_take": null,
+    "image": {
+      "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg",
+      "credit": "BBC"
+    },
+    "sources": [
+      {
+        "name": "The Guardian Business",
+        "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble?traffic_source=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Houthis say they hit Saudi Arabia's biggest refinery",
+      "story": "Yemen's Houthis claimed a strike on the Ras Tanura refinery, the kingdom's largest. Saudi Arabia says it shot down four drones over the site. Brent jumped about 2.4% to $93.60 in US trading, though it ended the session near $90.82. A Saudi-led coalition is also striking the Yemeni port city of Hodeidah.",
+      "so_what": "This takes the Yemen war from Red Sea shipping to Saudi oil plant itself. One hit that lands could move oil far more than the tanker mines have.",
+      "last_time": {
+        "run_id": "2026-11-26-0000",
+        "text": "Last time tankers were hitting mines in Hormuz and the Houthis were closing in on Aden. Now they are reaching into Saudi Arabia."
+      },
+      "money_angle": "Brent spiked above $93 then gave most of it back. The market is pricing the risk but not an outage.",
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-Over-2-as-Saudi-Arabia-Downs-Drones-Over-Ras-Tanura.html"
+        },
+        {
+          "name": "The Daily Star (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTXhXRFR0R0UxOHhNbnNkM242LXdTYzlfWW9SdG91S2pFcWxCd0VYbFRaOC16anZYUmhxYlVKMlJ5VHRvQ2ZGNjlDZUttY2tPaVIteVU4VklfQ1dIVWZ3ZGVodHM3b01MaWh0ZVhhNGE2NVROcXF6WDlmMVFKTmZPRHNPQXhTNUFNU2hKMnEyZjlvX3JSczE0?oc=5"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "India splits Hasina's 'return' from Dhaka's extradition demand",
+      "story": "India says Sheikh Hasina's plan to come home on 16 December is separate from Bangladesh's extradition request, which it is still examining. Dhaka's home minister says the Awami League will never be allowed back into politics. Jamaat is calling nationwide protests on Thursday over alleged Awami League arson, and police found 16 crude bombs in Keraniganj.",
+      "so_what": "Two governments now describe the same flight in different terms, and neither will move. The risk is street violence around 16 December, with the February election also on the line.",
+      "last_time": {
+        "run_id": "2026-11-26-0000",
+        "text": "Last time Hasina had asked for a state flight home as arson hit Grameen Bank. India has now put distance between that plan and the extradition case."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/425767/jaiswal-india-examining-hasina-extradition"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/politics/425764/jamaat-to-stage-nationwide-protests-thursday"
+        },
+        {
+          "name": "bdnews24 (via Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQY3NJc01WcXFZa1VhdWYyOG9ra1NkbTlmdHRXSEdpZVpSTUhRa3d5ekVzWTJYQUZFQUZnRE1wWU5YZ2d4Mmt0X0dLQk1SVi1kbV9Heg?oc=5"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Washington proposes up to 18% tariff on Bangladesh",
+      "story": "Bangladesh is one of the 14 economies named in the US capacity probe, with a proposed tariff of up to 18%. The US is the biggest buyer of its garments. The news lands days after factories agreed a 36% minimum wage rise to Tk17,000.",
+      "so_what": "Exporters face higher wages at home and a possible tariff abroad. Factories with thin margins may lose US orders to rivals with lower duties.",
+      "last_time": {
+        "run_id": "2026-11-25-1000",
+        "text": "Last time the garment minimum wage was set at Tk17,000 on a split vote. The tariff proposal adds a second squeeze."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/425765/bangladesh-faces-fresh-us-tariffs-trump-trade-poli"
+        },
+        {
+          "name": "Google News: Bangladesh economy",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcmFLQzBrU2lxRmRWRTVRYWlmZWpmNXRlaTI1QnZ3XzZTMm91VUVKZk5OcnRGVFp4Q3pIT2h2YjlKTEVtQzN2QXBqM2ltSFNLb2tGSy0waTczTWktQzNocEZSdm13R291Ujh6STNOMGw4X2NhWFdEUlh5OHFncWx5eFRjOENJWjZHNFdWWlpEMUxYZlREYTh1RUlPWWtndUhxYUgtTmpVcW1Idw?oc=5"
+        }
+      ]
+    },
+    {
+      "storyline": "ai-tech-power",
+      "new_storyline_name": null,
+      "headline": "Trump's accounts traded Nvidia 44 times this year",
+      "story": "A BBC review of financial disclosures shows Donald Trump's investment portfolios traded Nvidia shares 44 times this year. Trump has said he is open to pardoning Nvidia chief Jensen Huang. Vice-President JD Vance says Huang does not need one, because he was never under criminal investigation.",
+      "so_what": "The questions are now about conflicts of interest as well as Huang's conduct. That raises the odds of hearings and tighter scrutiny of US chip policy.",
+      "last_time": {
+        "run_id": "2026-11-25-1000",
+        "text": "Last time Huang was back as CEO and the White House had to explain why. The focus has moved to the president's own trading."
+      },
+      "money_angle": "Nvidia fell about 7% on Tuesday and US stocks fell again on Wednesday amid AI fears.",
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Thursday's Jamaat protests",
+    "text": "Watch whether the Bangladesh rallies turn violent, and whether the US tariff list changes before talks start."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-21-0000-1",
+      "verdict": "open",
+      "text": "I said not to pay up for a Hormuz risk premium. Brent is $90.82 against $89.22 at the take, and it spiked to $93.60 on the Ras Tanura news before falling back. It is still well below the $100 line that would prove me wrong, so it stays open."
+    },
+    {
+      "take_id": "2026-11-21-1000-1",
+      "verdict": "mixed",
+      "text": "I said not to buy the AI drop in one go. The S&P 500 is 7,183 against 6,910 at the take, about 4% higher, so waiting has cost upside. But tariffs and the Nvidia questions have knocked shares down again this week, so the caution still has some value. It stays mixed."
+    }
+  ],
+  "heat": {
+    "us-china": 6,
+    "middle-east": 9,
+    "bangladesh-politics": 7,
+    "bangladesh-economy": 6,
+    "ai-tech-power": 7,
+    "russia-ukraine": 9,
+    "oil-energy": 6
+  }
+}
