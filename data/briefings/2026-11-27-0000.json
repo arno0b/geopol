@@ -1,0 +1,162 @@
+{
+  "run_id": "2026-11-27-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "middle-east",
+    "new_storyline_name": null,
+    "headline": "An LNG carrier hits a mine in Hormuz, and oil bounces off a three-month low",
+    "story": "Iran's Revolutionary Guard says an LNG carrier caught fire and exploded after hitting a mine in the Strait of Hormuz. It had switched off its tracking and used a route Iran calls illegal. Oil had slid early in the week on talk of a glut, then rebounded after the Houthis claimed a strike on Saudi Arabia's Ras Tanura refinery. The UK has also sanctioned the Houthis, though analysts call that symbolic.",
+    "so_what": "Mine incidents are now routine, which is why markets shrug at each one. A hit on gas shipping touches Asian and European energy bills more directly than crude does.",
+    "last_time": {
+      "run_id": "2026-11-26-1000",
+      "text": "Last time the Houthis claimed the Ras Tanura strike and Brent spiked to $93.60 before closing near $90.82. Since then oil has bounced from a three-month low, and a gas carrier, not just a tanker, has now been hit."
+    },
+    "money_angle": "Brent is about $91, with US crude bouncing from a low near $79 earlier this week. Traders are weighing a supply glut against the Gulf risk.",
+    "my_take": null,
+    "image": null,
+    "sources": [
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-LNG-Carrier-Exploded-After-Hitting-a-Mine-in-Hormuz.html"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rebound-as-Middle-East-Supply-Fears-Return.html"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "EU leaders clash over a €45bn Ukraine loan",
+      "story": "EU leaders arrived in Brussels for budget talks with Slovakia, Hungary and Czechia wanting out of a €45bn loan to Ukraine for 2027. Germany's Merz says all 27 states should back it. Meloni says leaders are 'light-years away' on the wider budget. Meanwhile Kyiv is hitting Russian ships as far away as the Baltic and the Mediterranean.",
+      "so_what": "If the loan is split between willing countries, Ukraine still gets money but Europe looks less united. The deadline is the end of the year.",
+      "last_time": {
+        "run_id": "2026-11-26-0000",
+        "text": "Last time Merz warned Russia was escalating on a massive scale. Now the fight is over who pays for Ukraine in 2027."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/55402a74845f3146fdf5477c09fca1aa110ba6ed/86_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=dc4c1bf7b7e0dcc478a9b07a13b5d08e",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-world-4025-rdf"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-economy",
+      "new_storyline_name": null,
+      "headline": "Garment factories shut in Savar and Ashulia over the new wage deal",
+      "story": "About 50 garment factories in Savar and Ashulia have closed amid worker protests, days after the wage board set the minimum wage at Tk 17,000. The labour minister expects all factories to reopen on Saturday and urges both sides to avoid more disruption. Washington's proposed tariff of up to 18% on Bangladesh sits on top of this.",
+      "so_what": "Higher wages plus a tariff squeeze buyers' margins. Lost production days make big brands more nervous about orders.",
+      "last_time": {
+        "run_id": "2026-11-26-1000",
+        "text": "Last time the story was the 18% US tariff and the 36% wage rise. Now unrest at the factories has begun to cut output."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425819/labour-minister-all-factories-expected-to-reopen"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORERpczZ1Wm1GRFFBV043NDFjcjVsVFAtWjN5Zk1GVHQ0dS1mX0RyWWdwWGVlTDhJZHBPaDZMcXlfRURwM3JmZ3FtZHk3S2NKQjFyUFdYamwyYTdoeENGY2tIblFDRUJDYVczNjJXaXUxSjNvbHI1UGk5dHFVOFp5eWhtcDJWT21uamVnSjJSUG81TEVDVjc3bmpR?oc=5"
+        }
+      ]
+    },
+    {
+      "storyline": "ai-tech-power",
+      "new_storyline_name": null,
+      "headline": "Bank of England flags 'opaque' AI financing as Nasdaq slides again",
+      "story": "The Bank of England warns that the rapid growth in borrowing to fund AI is a risk to financial stability, and that much of it is hard to see. US shares fell again in the last session, with the Nasdaq down almost 4% early on, as fears over AI spending deepened.",
+      "so_what": "When a central bank starts worrying about who is lending to AI, the market tends to ask harder questions about returns.",
+      "last_time": {
+        "run_id": "2026-11-26-1000",
+        "text": "Last time the story was Trump's Nvidia trades. The worry has now moved from politics to who is financing the build-out."
+      },
+      "money_angle": "The S&P 500 is at 7,183, about 4% above where it stood when I said not to buy the dip in one go.",
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/f2e8c5f6356d0de485d166a576b294be69825d63/1094_0_4954_3963/master/4954.jpg?width=140&quality=85&auto=format&fit=max&s=8ed2f741bfd31e36f99bca4802426585",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/business/live/2026/nov/26/nvidia-chip-shipments-south-east-asia-stock-dentists-live-updates"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo"
+        }
+      ]
+    },
+    {
+      "storyline": "us-china",
+      "new_storyline_name": null,
+      "headline": "Beijing says it may hit back at Trump's tariff plan",
+      "story": "China says it reserves the right to take 'necessary measures' after the US proposed new tariffs on 14 partners, calling them 'political manipulation'. Brazil says it will not yield to the threat. The levies are only proposed, with talks still to come.",
+      "so_what": "A retaliation list from Beijing would turn a proposal into a tit-for-tat before the tariffs even start.",
+      "last_time": {
+        "run_id": "2026-11-26-1000",
+        "text": "Last time the US proposed the new duties, with China first in line at about 40% in total. Now China has answered, and Brazil has joined the pushback."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Factories reopening Saturday",
+    "text": "Watch whether Savar and Ashulia factories reopen on schedule, and whether China names any retaliation."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-21-0000-1",
+      "verdict": "open",
+      "text": "I said not to pay up for a Hormuz risk premium. Brent is $91.01 against $89.22 at the take. A gas carrier hit a mine, but flows have not collapsed and Brent is well below the $100 line that would prove me wrong. It stays open."
+    },
+    {
+      "take_id": "2026-11-21-1000-1",
+      "verdict": "mixed",
+      "text": "I said not to buy the AI drop in one go. The S&P 500 is 7,183 against 6,910 at the take, so waiting has cost some upside. But Nasdaq selling and the Bank of England's warning show the risk is still live. It stays mixed."
+    }
+  ],
+  "heat": {
+    "middle-east": 9,
+    "russia-ukraine": 9,
+    "bangladesh-economy": 7,
+    "bangladesh-politics": 7,
+    "ai-tech-power": 7,
+    "us-china": 6,
+    "oil-energy": 6,
+    "climate-food-water": 6,
+    "taiwan": 3,
+    "fed-rates-dollar": 3,
+    "us-midterms": 3,
+    "paraguay-bank-crisis": 4
+  }
+}
