@@ -1,0 +1,149 @@
+{
+  "run_id": "2026-11-27-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "middle-east",
+    "new_storyline_name": null,
+    "headline": "Two Italians die in a drone strike on Kuwait, and Iran's hardliners eye a blockade run",
+    "story": "Two Italian technicians working for Rheinmetall were killed when a drone hit an air-defence site in Kuwait. Kuwait blames Iran. Tehran denies any part and offers a joint investigation. Separately, a strike on Saudi Aramco's Jazan refinery killed one worker and disrupted operations. Iran's oil income is on course to hit zero by mid-December under the US naval blockade, and hardline outlets are now pushing for a declared tanker convoy to sail through, with threats against Gulf oil sites if it is attacked.",
+    "so_what": "The war is now killing citizens of European NATO members and hitting Saudi plants, not just ships. If Iran really tries a convoy, a US–Iran clash at sea becomes likely. That is the moment oil stops shrugging.",
+    "last_time": {
+      "run_id": "2026-11-27-0000",
+      "text": "Last time an LNG carrier hit a mine in Hormuz and oil bounced off a three-month low. Now the fighting has reached Kuwait and a Saudi refinery, and Iran is talking about breaking the blockade."
+    },
+    "money_angle": "Brent is about $91.73, barely changed. Tanker traffic through Hormuz has actually ticked up in November, even as mine incidents hit a record, so the market still prices risk, not an outage.",
+    "my_take": null,
+    "image": {
+      "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
+      "credit": "BBC"
+    },
+    "sources": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Energy/Energy-General/Iranian-Hardliners-Call-for-Tanker-Convoy-to-Defy-US-Blockade.html"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Traffic-at-Hormuz-Ticks-Up-Despite-Intensified-Attacks.html"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Reports say Russia could launch a nuclear-armed satellite within 60 days",
+      "story": "German media, citing Western intelligence assessments, report that Russia has built a nuclear-enabled satellite called Sputnik-S that could launch within 60 days. A nuclear blast in orbit would threaten communications satellites worldwide. These are reports, not confirmed facts. Elsewhere, Hungary's new PM Peter Magyar met Zelenskyy to reset ties after the Orban years.",
+      "so_what": "If true, it is a threat aimed at the satellites that Western militaries and everyday life depend on. It also lands as EU leaders argue over who pays for Ukraine in 2027.",
+      "last_time": {
+        "run_id": "2026-11-27-0000",
+        "text": "Last time EU leaders were clashing over a €45bn Ukraine loan. Now the worry is a new escalation in space, while Hungary's change of government softens one source of EU resistance."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/8e5f6381b847d901db02b9872e0ff3196ba7e4ae/1_0_1578_1263/master/1578.jpg?width=140&quality=85&auto=format&fit=max&s=181f3dd2004bb4c451367dfac8f610ac",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space"
+        },
+        {
+          "name": "DW",
+          "url": "https://www.dw.com/en/peter-magyar-meets-volodymyr-zelenskyy-hungary-and-ukraine-make-a-fresh-start-after-the-icy-relations-of-the-viktor-orban-era/a-80054175?maca=en-rss-en-world-4025-rdf"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Nationwide security alert as Dhaka braces for December sabotage",
+      "story": "Intelligence agencies are focusing on sabotage planners and their financiers, and the government says it will avoid excessive force. Four police officers have been arrested over alleged links to anti-state activity and sabotage. A key Hasina aide and two others were also held. The BNP plans month-long street programmes in December. Hasina's planned 16 December return is the shadow over all of it.",
+      "so_what": "Dhaka is treating the return as a security event, with police ranks themselves under suspicion. That raises the odds of arrests and clashes well before 16 December.",
+      "last_time": {
+        "run_id": "2026-11-26-1000",
+        "text": "Last time India separated Hasina's return from the extradition request and Jamaat called protests. Now the state is on formal alert and has arrested its own officers."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": null,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425868/nationwide-security-alert-over-december-sabotage"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425871/law-enforcers-on-high-alert-ahead-of-december"
+        },
+        {
+          "name": "Google News: Bangladesh politics",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeXM1RkVlVThMeUt0Rzd1bUo3SXJFMEZSN1Nuekl6eFNRZW9oZThCeVhUNHgzdWZHbVJ5NFVYXzVRX2g2M1hoS0JTSTdEckpZbzU4ZkVEdVRJRy1JV1ZXR1NlY21UTC1ab3pPd2lQU3d5SzRvM0FIOVlNdzNQVTljRkd5MVQ2LVBTNVlCaVlfaTIxMDVsR3VkMno0U1NVbFV5bHNma1dLd0dwOTZmbDRPTnBTdHlycFlrY2ZkVWNjaw?oc=5"
+        }
+      ]
+    },
+    {
+      "storyline": "fed-rates-dollar",
+      "new_storyline_name": null,
+      "headline": "Spain's Hernández de Cos picked as next ECB chief; Trump calls US GDP data 'fake'",
+      "story": "Former Bank of Spain governor Pablo Hernández de Cos has been chosen to succeed Christine Lagarde at the European Central Bank, with backing from the EU's biggest countries. In the US, Trump called GDP figures released before the midterms 'fake' and demanded an investigation, without giving evidence.",
+      "so_what": "A central banker from the euro area's south signals continuity in Frankfurt. Attacks on US statistics add to doubts over official data at a time when markets are already jumpy.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/47d2f9781397baf313cb89ec9480624dbe557b02/1058_252_3184_2548/master/3184.jpg?width=140&quality=85&auto=format&fit=max&s=68ff7c0782ca353291a411df5d20671e",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "A tanker convoy out of Iran",
+    "text": "Watch for any declared Iranian convoy or US reaction at the blockade line, and whether Savar and Ashulia factories reopen Saturday."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-21-0000-1",
+      "verdict": "open",
+      "text": "I said not to pay up for a Hormuz risk premium. Brent is $91.73 against $89.22 at the take. Even with Kuwait and Jazan hit, Brent is nowhere near the $100 line that would prove me wrong, and Hormuz flows have not fallen. It stays open, but the blockade-run talk is the thing that could break it."
+    }
+  ],
+  "heat": {
+    "middle-east": 9,
+    "russia-ukraine": 9,
+    "bangladesh-politics": 7,
+    "bangladesh-economy": 6,
+    "ai-tech-power": 6,
+    "us-china": 6,
+    "oil-energy": 6,
+    "climate-food-water": 5,
+    "fed-rates-dollar": 4,
+    "taiwan": 3,
+    "us-midterms": 3,
+    "paraguay-bank-crisis": 3
+  }
+}
