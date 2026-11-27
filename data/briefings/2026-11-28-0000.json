@@ -1,0 +1,183 @@
+{
+  "run_id": "2026-11-28-0000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "bangladesh-economy",
+    "new_storyline_name": null,
+    "headline": "Bangladesh's garment industry is squeezed from three sides at once",
+    "story": "A wage board set the garment minimum wage at Tk 17,000, a rise of about 36%. Owners had offered only Tk 15,000 to 15,700, and rights groups say even 17,000 is too low. Police fired tear gas at fresh worker protests, and about 50 factories in Savar and Ashulia have closed. On top of that, the US has proposed tariffs of up to 18% on Bangladeshi goods, and reports say big brands are already moving orders to India.",
+    "so_what": "Garments are most of Bangladesh's exports. Higher wages, street unrest and a US tariff arriving together test the whole low-cost model, and the new government has little room to give on any of them.",
+    "last_time": {
+      "run_id": "2026-11-27-1000",
+      "text": "Last time the watch item was whether Savar and Ashulia factories would reopen. They have not: about 50 are shut, protests continue, and the wage figure is now fixed at Tk 17,000."
+    },
+    "money_angle": null,
+    "my_take": null,
+    "image": null,
+    "sources": [
+      {
+        "name": "The Daily Star",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0doSjR0WWVZZEx1QW1JQ1BOVG5NQTJ5YlpwRzlQdHEwVnYzSEVQci1kTEhlRlk3OG1WMklIY0p6eERUdzFfQnR1OS1JTTNPc2lwdnZLbHZISjhrNlNYcUQ3R2xpMjhrWVl0Uk1xSjRlOXhkaEZnWlZFQ0U0b1ZUczBTSG9WMGhuQmhBbmVQSHRxVHRnX3g3cU5xR0dNY2J0OHEzdUZYMjBwX0RCZjVZelQ4VjlRVGc?oc=5"
+      },
+      {
+        "name": "The Daily Star",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORERpczZ1Wm1GRFFBV043NDFjcjVsVFAtWjN5Zk1GVHQ0dS1mX0RyWWdwWGVlTDhJZHBPaDZMcXlfRURwM3JmZ3FtZHk3S2NKQjFyUFdYamwyYTdoeENGY2tIblFDRUJDYVczNjJXaXUxSjNvbHI1UGk5dHFVOFp5eWhtcDJWT21uamVnSjJSUG81TEVDVjc3bmpR?oc=5"
+      },
+      {
+        "name": "The Daily Star",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR1p4TjdNMDJQSHBJdXc4aHF1dFhFRWF3TXdabFBWTkY4Mko3Q3ozX295Ti1aYWRUTUZJUXo5aS11SjBKWmRBZUdaRjd5X082aDY1MC02VzVlcFpKQ0hTa1UySGpKYmU1SExKQXZ5MFRmYVU5QjhHdTRSUzhKTldHcWxUSldDUTdscnY2eWR2UWp1Mm5lcWc?oc=5"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/spotlight/work/36-minimum-wage-hike-tests-bangladesh-garment-sector-s-low-cost-model"
+      },
+      {
+        "name": "AsiaOne",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcnhwOVduQzVRb2tPR29tT2N1ajR4QnFpbFQ4WnJYLUxNOFhlR3pfZi1kU0dyaEpjZ1VjU1VnRDZUS2QwM19SZEk1U3Rsc3NsYVRfVUdzSmJ3VzR3SXJaWGdKV1YxdVVBZ0tnNk1xZXY0WEFDY1FaZ0EzcDNzSGZrQThYbEtMeTd6ZnZpUl8yZjY3RFlrMDRGb0MzcVozczQ?oc=5"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "us-china",
+      "new_storyline_name": null,
+      "headline": "Washington announces a new round of tariffs on China, the EU and others",
+      "story": "The US has announced new tariffs on a host of countries, including China and the EU. Asian governments say they reject the basis for them. The BBC's Faisal Islam argues the threat is smaller than the first round, because other countries have already rerouted trade and are now planning for life after Trump.",
+      "so_what": "Tariffs are no longer a shock but a tax everyone is working around. The risk is for countries with few alternatives, like Bangladesh, which is named in the proposals.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/asia-rejects-basis-of-new-trump-tariffs-as-us-gathers-china-ammunition"
+        }
+      ]
+    },
+    {
+      "storyline": "taiwan",
+      "new_storyline_name": null,
+      "headline": "Taiwan votes Saturday in local elections, under cyberattack and Chinese pressure",
+      "story": "Voters choose mayors and councils across 22 districts on Saturday. Taiwanese officials warn of Chinese interference, and the island has been hit by a wave of cyberattacks. The result will shape the fortunes of the ruling DPP.",
+      "so_what": "Local votes are mostly about local issues, but a weak DPP result would be read in Beijing and Washington as a verdict on its China line.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/46917c80b05c42e1fe661080ca09495a31ff79a7/387_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=fe609d22179f2bf0a6ec3accbe60b685",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections"
+        },
+        {
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/spotlight/cybersecurity/taiwan-weathers-wave-of-cyberattacks-ahead-of-saturday-s-elections"
+        }
+      ]
+    },
+    {
+      "storyline": "new-zealand-politics",
+      "new_storyline_name": null,
+      "headline": "New Zealand's government loses its majority in the final count",
+      "story": "Final results leave Prime Minister Luxon's National, NZ First and Act bloc short of a majority, after a slim two-seat lead on election night. The new centrist Opportunity party now holds the balance of power. Luxon calls the talks challenging and lengthy, and a fresh election is possible if they fail.",
+      "so_what": "A close ally and Australia's neighbour faces weeks of uncertain coalition talks, with a newcomer able to set terms.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://i.guim.co.uk/img/media/15bb64d1f1fa3f1840538248518d963a2c8d39e8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=43d6b064ba99972f2f4003cf962441bc",
+        "credit": "The Guardian"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Hasina's return plan puts Dhaka and Delhi in a bind",
+      "story": "The BBC says Sheikh Hasina's planned December return deepens tension between Dhaka and Delhi and risks fresh unrest. Dhaka's line is that extradition talks are with India, not with a convict. Inside Bangladesh, border guards are deployed in six districts, Gopalganj services are disrupted, and police have named over 5,000 suspects over the Tungipara attack on a BGB patrol.",
+      "so_what": "The state is preparing for a confrontation before 16 December. Gopalganj, Hasina's family home district, is the place to watch.",
+      "last_time": {
+        "run_id": "2026-11-27-1000",
+        "text": "Last time Dhaka put the country on security alert. Now the focus has moved to Gopalganj, with border guards deployed and mass cases filed."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe82/live/56152150-e9af-11f1-a094-5fdc692f3e33.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdkhja2szSkhaNDJmOER6VUE2dWVnc1B2d1hBNk94c0xQb1J4YWRPWGE4SFdscUJ5clpGU3pVZWx1Y0xtaU03YlVvajZsV3ZzSkN2LWhSdnMtczR2UmJUQmg2N2h3WEdLRXJDM19OT1JnVXczSXhuaF9hSzY5LTJGakxISVJRSlY0QWtLcE00RDhPVFhMYUN3WXBnRVNESFZieXctT1R1SjBaUnpOOGc?oc=5"
+        },
+        {
+          "name": "bdnews24",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xM3ZNOGNWRHVfV1l3S00ySmktVElUSG5HU191SU1Eb1MwYm5nVGhhNnBTS3NrSVB5OFFtMWtNWlhuZFdFLUxUV2FObFFSQzg2VHFPdA?oc=5"
+        },
+        {
+          "name": "bdnews24",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zbDZZaHMtYkxSeHY5MnNFUWlQOTI5aHV5UjRLMk93Q05XS0tZWDdYY3RQbGx6NE1ZN3EwNU40N1Y3bzVnUVhsb3hEOHpqWDlHaVhtaQ?oc=5"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "Hasina, Gopalganj and the Savar factories",
+    "text": "Watch whether Savar and Ashulia factories reopen, and any clash in Gopalganj before 16 December. Taiwan's results land Saturday."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-21-0000-1",
+      "verdict": "open",
+      "text": "My take was not to pay up for a Hormuz risk premium. Brent is $92.10 against $89.22 at the take, still far from the $100 line that would prove me wrong. No new escalation overnight, so it stays open."
+    }
+  ],
+  "heat": {
+    "bangladesh-economy": 8,
+    "bangladesh-politics": 7,
+    "us-china": 6,
+    "taiwan": 5,
+    "new-zealand-politics": 4,
+    "middle-east": 8,
+    "russia-ukraine": 8,
+    "oil-energy": 6,
+    "ai-tech-power": 5,
+    "fed-rates-dollar": 4,
+    "climate-food-water": 4,
+    "us-midterms": 3,
+    "paraguay-bank-crisis": 2
+  }
+}
