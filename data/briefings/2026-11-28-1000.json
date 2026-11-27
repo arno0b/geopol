@@ -1,0 +1,201 @@
+{
+  "run_id": "2026-11-28-1000",
+  "kind": "full",
+  "story_of_day": {
+    "storyline": "oil-energy",
+    "new_storyline_name": null,
+    "headline": "OPEC+ meets Sunday with Iraq pushing to pump more, and Brent near a three-month low",
+    "story": "OPEC+ members have reportedly agreed in principle to leave quotas unchanged, but Iraq wants a higher ceiling for 2027 and says it is negotiating. Reuters also reports the US urged Iraq and Venezuela to leave OPEC earlier this year; both brushed it off. Meanwhile Baghdad has ordered a federal takeover of Kurdish oil exports and border crossings, and has delayed 20 to 30 million barrels of November loadings.",
+    "so_what": "The market is pricing plenty of supply even with tankers hitting mines in Hormuz. If Iraq wins more room, or Kurdish exports keep getting disrupted, the balance shifts either way. Norse Atlantic's bankruptcy shows the other side: fuel costs are already breaking airlines.",
+    "last_time": {
+      "run_id": "2026-11-25-1000",
+      "text": "Last time Iraq was fighting OPEC+ over its output limit and moving on Kurdish oilfields. Now the Kurdish takeover is an order, loadings are delayed, and the OPEC+ meeting is a day away."
+    },
+    "money_angle": "Brent is $90.84, near a three-month low, against $89.22 when I wrote my last oil take. Airlines are the pressure point: Norse Atlantic has failed on fuel costs.",
+    "my_take": null,
+    "image": null,
+    "sources": [
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Faces-Growing-Pressure-As-Iraq-Pushes-for-Higher-Quota.html"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Pushed-Iraq-and-Venezuela-to-Consider-Quitting-OPEC-Sources-Say.html"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Energy/Energy-General/Baghdad-Moves-to-Seize-Control-of-Kurdish-Oil-and-Borders.html"
+      },
+      {
+        "name": "OilPrice",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Delays-Up-to-30-Million-Barrels-of-Crude-Oil-Shipments.html"
+      },
+      {
+        "name": "DW",
+        "url": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-world-4025-rdf"
+      },
+      {
+        "name": "The Daily Star",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVdUYlVtZ0J5T0FXVGJ2eVBLMzdfOTJwaVJYWlhVNlJCTjdKa0k4RFhzX1hBbS0yXzFRMzRsQkpEZFF3LTZ4ay02M01BM0FXOF8tTEh6bGxWdzRvLTBiazZvbXRkOWx3X01VQjFaTnFZaHF2cHI0OWVnTFNtTWt1SkF6SEpJSHJUclNXVEt6R1dBNkV3am9wN3FmbkJDNmMzM3lteWk5eFhPVGhId2oxU1R4cTE2UUJUQnln?oc=5"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "storyline": "russia-ukraine",
+      "new_storyline_name": null,
+      "headline": "Kyiv offers a Black Sea ceasefire as Putin shows off a new nuclear submarine",
+      "story": "Ukraine proposed a ceasefire at sea to protect grain exports. Putin unveiled a new nuclear-powered submarine with hypersonic weapons and plans five more by 2030. In a BBC interview Zelensky called Trump's friendship with Putin 'strange' and said the US is not pushing Russia hard enough in peace talks.",
+      "so_what": "A limited sea truce is the kind of small deal Moscow could accept without conceding anything big. Watch whether it gets an answer, because it tests whether any talks are real.",
+      "last_time": {
+        "run_id": "2026-11-27-1000",
+        "text": "Last time the story was a reported Russian nuclear-armed satellite. Now the pressure is on the diplomatic side, with Kyiv offering a sea truce and complaining about Washington."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "middle-east",
+      "new_storyline_name": null,
+      "headline": "Gulf allies back Saudi Arabia as Houthi strikes test the kingdom",
+      "story": "Pakistan, Saudi Arabia and Turkiye pledged in Islamabad to protect Saudi security and condemned the Houthi attacks as heinous. The BBC reports Riyadh is still busy day to day, with residents trusting the state to protect them. In Gaza, Israel killed four people and a strike missed Hamas chief Khalil al-Hayya's last surviving son.",
+      "so_what": "Saudi Arabia is now being defended by a new bloc, not only the US. Hitting the kingdom's image of safety is also a pressure on its oil and investment story.",
+      "last_time": {
+        "run_id": "2026-11-26-1000",
+        "text": "Last time the Houthis said they had hit Saudi Arabia's biggest refinery. Now the response is political: allies are publicly lining up behind Riyadh."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/551558a0-e96f-11f1-99a1-253766e7ad8b.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "bangladesh-politics",
+      "new_storyline_name": null,
+      "headline": "Bangladesh counts 100 crude bomb blasts and 92 torched vehicles in 19 days",
+      "story": "Police say 46 cases have been filed and 80 people arrested over sabotage between 7 and 25 November. Two more buses were set alight on Friday night, and 104 Grameen Bank offices have been attacked. Hasina says that if she is not allowed to fly in on 16 December she will walk across the border, and one of her key aides has been detained.",
+      "so_what": "The violence is building toward 16 December, and the government has to stop it without looking like it is crushing opposition. India sits in the middle, as BBC reports.",
+      "last_time": {
+        "run_id": "2026-11-28-0000",
+        "text": "Last time the question was how Dhaka and Delhi handle Hasina's return plan. Now there is a count of the damage so far, and her threat to cross on foot."
+      },
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe82/live/56152150-e9af-11f1-a094-5fdc692f3e33.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425941/100-crude-bomb-blasts-92-vehicles-torched"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/nation/425948/two-passengers-set-fire-to-moving-bus-in"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/425928/govt-steps-up-security-after-attacks-on-104"
+        },
+        {
+          "name": "Google News: Bangladesh politics",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTHl5QW5zd0YwaWFDWUhkSFpNdHJzRDFTb0k0Q0FEdE5EdTBGaE5NcFdGMnBsTmVlQW1HMG13MlRVcWFGMXR6Ym1WaTRKWmhHdXY2SDJUZ281Rjg3eF9HdlJ4alotVjZrZkZ5RGZTMGZIczV5YTRzY0NtYUJkeUpKa3JKcll1SmthVjdLbWg4d3A3QkJ4bkxhaGRJRE9RVENDUjA5MUF2TnBGTkI0bjktZnlqTUEtaWQtUTJqS2ZkbDh3Yl9LeXR5WUVuWUo2UdIB0wFBVV95cUxOTmlkOW01Q2dRbTdFSGdoX0FOaXdnVjhRV0NnVnUtMFJuNVRVNUZGdHVodHRuZktEYXlNYS1CS1JxdlVpZDl2blY2a0RFWlVRRVJjdGpvRzNwdUdaUUlJekpFdDFTcUlPcHgxSUFpZnlacklIRWxXYzFjS2ZsZ3VMblJjSWdhZzVsYU1FdVZwLVVNZkgyd3p0QW9WV3p4dG5Hay1zdFRsajVZX0V3cWF3SGo3cHF6cFNxV1l5eGFUem9VSEpOZ0J0T09FUnhJMS1MSkZF?oc=5"
+        },
+        {
+          "name": "Google News: Bangladesh politics",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVHlhdTVJUzNWYmhnVHJfWElpU0lxUnExQmQ2YVR3Qk5EclZWXy1uX2NvZUxQU1d1ODFObGRDempqRTJGRXNDYzBUSHNOMGg1ZGZpRlNhR3NhUXBBaE9KS2dGRnZoRjF6SjB4ckY0XzFLSUlsZjJQaVE5UlBJRXpIYUttby15YWN5anV6NV9mQlhBRTRxaDNYTnF4dnc2VzR4bHRvYy1DaEFLdmRXT2FnaVgzN2x0WDRRb2llTDRB0gHAAUFVX3lxTE5lVmNodG1VX0RxWWxUb0FENU1GY1FLZENNSUFNbE81MkJ4eER0b2tLYWtZMHM2bm5Nckc5WUtaQkEwQ2QyTHE4eHphUzFxY3Y5V0FBZmg5dUppVUZZQzc3WkhDNkVtYTczYXVkTGFFNHQtMlhDTWQteXl2VDF4NENobEU4MThzb0RNYjUyV1VzYTZVdmFTcnppVndnemhqTFJwY28zYjhuYnF1R29rVnZ6RjAzdlQ1TEozSzlWeG9DZw?oc=5"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "storyline": "spain-housing-strike",
+      "new_storyline_name": null,
+      "headline": "Spain votes Sunday, and housing is the issue young voters raise first",
+      "story": "Pedro Sanchez is betting a left-wing surge will defy polls that favour right-wing parties. His rivals accuse him of betrayal and not telling the truth. In Valencia, young people say rents are so high that couples are kept apart.",
+      "so_what": "The housing strike two weeks ago showed how angry renters are. Sunday shows whether that anger turns into votes, and who would form a government if it does not.",
+      "last_time": null,
+      "money_angle": null,
+      "my_take": null,
+      "image": {
+        "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg",
+        "credit": "BBC"
+      },
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "watch": {
+    "title": "OPEC+ meets Sunday, Spain votes Sunday",
+    "text": "Watch whether OPEC+ gives Iraq any room for 2027 and whether Brent breaks below its three-month low. Spain's result lands the same day."
+  },
+  "takes_review": [
+    {
+      "take_id": "2026-11-21-0000-1",
+      "verdict": "open",
+      "text": "I said not to pay up for a Hormuz risk premium. Brent is $90.84 against $89.22 at the take, and WTI is $83.08. It is still far below the $100 line that would prove me wrong and near a three-month low. It stays open."
+    }
+  ],
+  "heat": {
+    "oil-energy": 7,
+    "russia-ukraine": 8,
+    "middle-east": 8,
+    "bangladesh-politics": 7,
+    "spain-housing-strike": 5,
+    "bangladesh-economy": 7,
+    "us-china": 5,
+    "taiwan": 4,
+    "ai-tech-power": 5
+  }
+}
